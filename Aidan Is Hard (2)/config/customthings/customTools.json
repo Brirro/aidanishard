@@ -1,0 +1,40 @@
+{"data":
+	[
+		{
+			"name": "zoinkhoe",
+			"maxStackSize": "1",
+			"enchanted": true,
+			"tools": ["HOE"],
+			"durability":-1
+		},
+		{
+			"name": "aidansword",
+			"maxStackSize": "1",
+			"enchanted": true,
+			"tools": ["Sword"],
+			"durability":-1,
+			"damage":13,
+			"enchantability": 25
+		},
+		{
+			"name": "danpic",
+			"maxStackSize": "1",
+			"enchanted": true,
+			"tools": ["Pickaxe"],
+			"level": 3,
+			"durability":-1,
+			"efficiency": 50,
+			"damage":4,
+			"enchantability": 25
+		},
+		{
+			"name": "averyshovel",
+			"maxStackSize": "1",
+			"level": 3,
+			"enchanted": true,
+			"tools": ["Shovel"],
+			"durability":-1,
+			"efficiency": 50
+		}
+	]
+}

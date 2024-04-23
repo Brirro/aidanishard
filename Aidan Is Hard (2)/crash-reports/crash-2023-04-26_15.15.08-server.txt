@@ -1,0 +1,162 @@
+---- Minecraft Crash Report ----
+// I let you down. Sorry :(
+
+Time: 4/26/23 3:15 PM
+Description: Ticking player
+
+io.netty.handler.codec.EncoderException: java.lang.NullPointerException
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:107)
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeWrite(DefaultChannelHandlerContext.java:644)
+	at io.netty.channel.DefaultChannelHandlerContext.write(DefaultChannelHandlerContext.java:698)
+	at io.netty.channel.DefaultChannelHandlerContext.write(DefaultChannelHandlerContext.java:637)
+	at io.netty.channel.DefaultChannelHandlerContext.write(DefaultChannelHandlerContext.java:626)
+	at io.netty.channel.DefaultChannelPipeline.write(DefaultChannelPipeline.java:878)
+	at io.netty.channel.AbstractChannel.write(AbstractChannel.java:229)
+	at io.netty.channel.embedded.EmbeddedChannel.writeOutbound(EmbeddedChannel.java:195)
+	at cpw.mods.fml.common.network.FMLEmbeddedChannel.generatePacketFrom(FMLEmbeddedChannel.java:48)
+	at cpw.mods.fml.common.network.internal.FMLNetworkHandler.getEntitySpawningPacket(FMLNetworkHandler.java:123)
+	at net.minecraft.entity.EntityTrackerEntry.func_151260_c(EntityTrackerEntry.java:471)
+	at net.minecraft.entity.EntityTrackerEntry.func_73117_b(EntityTrackerEntry.java:359)
+	at net.minecraft.entity.EntityTracker.func_72786_a(EntityTracker.java:78)
+	at net.minecraft.world.WorldManager.func_72703_a(SourceFile:31)
+	at net.minecraft.world.World.func_72923_a(World.java:1347)
+	at net.minecraft.world.WorldServer.func_72923_a(WorldServer.java:844)
+	at net.minecraft.world.World.func_72838_d(World.java:1338)
+	at net.minecraft.server.management.ServerConfigurationManager.transferEntityToWorld(ServerConfigurationManager.java:598)
+	at net.minecraft.server.management.ServerConfigurationManager.transferPlayerToDimension(ServerConfigurationManager.java:504)
+	at com.gildedgames.the_aether.player.PlayerAether.teleportPlayer(PlayerAether.java:431)
+	at com.gildedgames.the_aether.player.PlayerAether.onUpdate(PlayerAether.java:229)
+	at com.gildedgames.the_aether.player.PlayerAetherEvents.onPlayerAetherUpdate(PlayerAetherEvents.java:119)
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_112_PlayerAetherEvents_onPlayerAetherUpdate_LivingUpdateEvent.invoke(.dynamic)
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54)
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140)
+	at net.minecraftforge.common.ForgeHooks.onLivingUpdate(ForgeHooks.java:287)
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:1560)
+	at net.minecraft.entity.player.EntityPlayer.func_70071_h_(EntityPlayer.java:288)
+	at net.minecraft.entity.player.EntityPlayerMP.func_71127_g(EntityPlayerMP.java:295)
+	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:303)
+	at net.minecraft.network.play.client.C03PacketPlayer.func_148833_a(SourceFile:137)
+	at net.minecraft.network.play.client.C03PacketPlayer$C06PacketPlayerPosLook.func_148833_a(SourceFile:20)
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:212)
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:165)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:111)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+Caused by: java.lang.NullPointerException
+	at com.gildedgames.the_aether.entities.passive.mountable.EntityParachute.writeSpawnData(EntityParachute.java:153)
+	at cpw.mods.fml.common.network.internal.FMLMessage$EntitySpawnMessage.toBytes(FMLMessage.java:230)
+	at cpw.mods.fml.common.network.internal.FMLRuntimeCodec.encodeInto(FMLRuntimeCodec.java:22)
+	at cpw.mods.fml.common.network.internal.FMLRuntimeCodec.encodeInto(FMLRuntimeCodec.java:11)
+	at cpw.mods.fml.common.network.FMLIndexedMessageToMessageCodec.encode(FMLIndexedMessageToMessageCodec.java:51)
+	at io.netty.handler.codec.MessageToMessageCodec$1.encode(MessageToMessageCodec.java:67)
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:89)
+	... 39 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:107)
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeWrite(DefaultChannelHandlerContext.java:644)
+	at io.netty.channel.DefaultChannelHandlerContext.write(DefaultChannelHandlerContext.java:698)
+	at io.netty.channel.DefaultChannelHandlerContext.write(DefaultChannelHandlerContext.java:637)
+	at io.netty.channel.DefaultChannelHandlerContext.write(DefaultChannelHandlerContext.java:626)
+	at io.netty.channel.DefaultChannelPipeline.write(DefaultChannelPipeline.java:878)
+	at io.netty.channel.AbstractChannel.write(AbstractChannel.java:229)
+	at io.netty.channel.embedded.EmbeddedChannel.writeOutbound(EmbeddedChannel.java:195)
+	at cpw.mods.fml.common.network.FMLEmbeddedChannel.generatePacketFrom(FMLEmbeddedChannel.java:48)
+	at cpw.mods.fml.common.network.internal.FMLNetworkHandler.getEntitySpawningPacket(FMLNetworkHandler.java:123)
+	at net.minecraft.entity.EntityTrackerEntry.func_151260_c(EntityTrackerEntry.java:471)
+	at net.minecraft.entity.EntityTrackerEntry.func_73117_b(EntityTrackerEntry.java:359)
+	at net.minecraft.entity.EntityTracker.func_72786_a(EntityTracker.java:78)
+	at net.minecraft.world.WorldManager.func_72703_a(SourceFile:31)
+	at net.minecraft.world.World.func_72923_a(World.java:1347)
+	at net.minecraft.world.WorldServer.func_72923_a(WorldServer.java:844)
+	at net.minecraft.world.World.func_72838_d(World.java:1338)
+	at net.minecraft.server.management.ServerConfigurationManager.transferEntityToWorld(ServerConfigurationManager.java:598)
+	at net.minecraft.server.management.ServerConfigurationManager.transferPlayerToDimension(ServerConfigurationManager.java:504)
+	at com.gildedgames.the_aether.player.PlayerAether.teleportPlayer(PlayerAether.java:431)
+	at com.gildedgames.the_aether.player.PlayerAether.onUpdate(PlayerAether.java:229)
+	at com.gildedgames.the_aether.player.PlayerAetherEvents.onPlayerAetherUpdate(PlayerAetherEvents.java:119)
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_112_PlayerAetherEvents_onPlayerAetherUpdate_LivingUpdateEvent.invoke(.dynamic)
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54)
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140)
+	at net.minecraftforge.common.ForgeHooks.onLivingUpdate(ForgeHooks.java:287)
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:1560)
+	at net.minecraft.entity.player.EntityPlayer.func_70071_h_(EntityPlayer.java:288)
+
+-- Player being ticked --
+Details:
+	Entity Type: null (net.minecraft.entity.player.EntityPlayerMP)
+	Entity ID: 179
+	Entity Name: Brirro
+	Entity's Exact location: 25.00, 74.50, 255.00
+	Entity's Block location: World: (25,74,255), Chunk: (at 9,4,15 in 1,15; contains blocks 16,0,240 to 31,255,255), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Entity's Momentum: 0.00, -0.08, 0.00
+Stacktrace:
+	at net.minecraft.entity.player.EntityPlayerMP.func_71127_g(EntityPlayerMP.java:295)
+	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:303)
+	at net.minecraft.network.play.client.C03PacketPlayer.func_148833_a(SourceFile:137)
+	at net.minecraft.network.play.client.C03PacketPlayer$C06PacketPlayerPosLook.func_148833_a(SourceFile:20)
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:212)
+
+-- Ticking connection --
+Details:
+	Connection: net.minecraft.network.NetworkManager@e6f7ab8
+Stacktrace:
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:165)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:111)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 980049128 bytes (934 MB) / 2031091712 bytes (1937 MB) up to 5726797824 bytes (5461 MB)
+	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx6144m -Xms256m
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	FML: MCP v9.05 FML v7.10.99.99 Minecraft Forge 10.13.4.1614 21 mods loaded, 21 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHIJAAAA	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHIJAAAA	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJAAAA	Forge{10.13.4.1614} [Minecraft Forge] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJAAAA	CodeChickenCore{1.0.7.48} [CodeChicken Core] (minecraft.jar) 
+	UCHIJAAAA	NotEnoughItems{1.0.5.120} [Not Enough Items] (NotEnoughItems-1.7.10-1.0.5.120-universal.jar) 
+	UCHIJAAAA	OpenModsCore{0.10.1} [OpenModsCore] (minecraft.jar) 
+	UCHIJAAAA	aether_legacy{v1.1.2.2} [The Aether] (aether-1.7.10-v1.1.2.2.jar) 
+	UCHIJAAAA	backpacks16840{3.5.8} [Backpacks!] (backpacks 1.7.10 - 3.5.8.jar) 
+	UCHIJAAAA	chisel{2.9.5.11} [Chisel] (Chisel-2.9.5.11.jar) 
+	UCHIJAAAA	CarpentersBlocks{3.3.8.2} [Carpenter's Blocks] (Carpenter's Blocks v3.3.8.2 - MC 1.7.10.jar) 
+	UCHIJAAAA	controlling{1.7.10-1.0.0.4} [Controlling] (Controlling-1.7.10-1.0.0.4.jar) 
+	UCHIJAAAA	MineTweaker3{3.1.0} [MineTweaker 3] (CraftTweaker-1.7.10-3.1.0-legacy.jar) 
+	UCHIJAAAA	journeymap{5.1.4p6} [JourneyMap] (journeymap-1.7.10-5.1.4p6-unlimited.jar) 
+	UCHIJAAAA	MTRM{1.0} [MineTweakerRecipeMaker] (MineTweakerRecipeMaker-1.7.10-1.1.1.jar) 
+	UCHIJAAAA	Morpheus{1.7.10-1.6.21} [Morpheus] (Morpheus-1.7.10-1.6.21.jar) 
+	UCHIJAAAA	MouseTweaks{2.4.4} [Mouse Tweaks] (MouseTweaks-2.4.4-mc1.7.10.jar) 
+	UCHIJAAAA	OpenMods{0.10.1} [OpenMods] (OpenModsLib-1.7.10-0.10.1.jar) 
+	UCHIJAAAA	OpenBlocks{1.6} [OpenBlocks] (OpenBlocks-1.7.10-1.6.jar) 
+	UCHIJAAAA	RandomThings{2.2.4} [Random Things] (RandomThings-2.2.4.jar) 
+	UCHIJAAAA	Roguelike{1.5.0} [Roguelike Dungeons] (roguelike-1.7.10-1.5.0b.jar) 
+	UCHIJAAAA	Ztones{1.7.10} [Ztones] (Ztones-1.7.10-2.2.1.jar) 
+	GL info: ~~ERROR~~ RuntimeException: No OpenGL context found in the current thread.
+	OpenModsLib class transformers: [stencil_patches:FINISHED],[movement_callback:FINISHED],[player_damage_hook:FINISHED],[map_gen_fix:FINISHED],[gl_capabilities_hook:FINISHED],[player_render_hook:FINISHED]
+	Class transformer null safety: all safe
+	Chisel: Errors like "[FML]: Unable to lookup ..." are NOT the cause of this crash. You can safely ignore these errors. And update forge while you're at it.
+	Stencil buffer state: Function set: GL30, pool: internal, bits: 8
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Player Count: 1 / 8; [EntityPlayerMP['Brirro'/179, l='Test', x=25.00, y=74.50, z=255.00]]
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'fml,forge'

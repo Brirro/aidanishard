@@ -1,0 +1,43 @@
+{
+  "_name": "TwilightForest.Naga",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+  {
+		"function": "modifier",
+		"attribute": "generic.maxHealth",
+		"value": 550,
+		"operator": 1,
+		"override": true
+  },
+  {
+	    "function": "modifier",
+	    "attribute": "generic.attack_damage",
+	    "value": 20,
+	    "operator": 1,
+		"override": true
+  },    
+  {
+	    "_comment": "regen",
+		"function": "potion",
+		"id": 10,
+		"amplifier": 255,
+		"duration": 100,
+		"ambient": true
+   },
+   {
+	    "_comment": "strength",
+		"function": "potion",
+		"id": 5,
+		"amplifier": 1,
+		"ambient": true
+   },
+   {
+	    "_comment": "speed",
+		"function": "potion",
+		"id": 1,
+		"amplifier": 1,
+		"ambient": true
+   }
+  ]
+}

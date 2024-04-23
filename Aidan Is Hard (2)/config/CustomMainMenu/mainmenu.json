@@ -1,0 +1,142 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "cmm:textures/aidan.png",
+            "posX" : -137,
+            "posY" : 30,
+            "width" : 310,
+            "height" : 41,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -100,
+            "posY" : 48,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : -100,
+            "posY" : 72,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "Mods",
+            "posX" : -100,
+            "posY" : 96,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -100,
+            "posY" : 132,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 2,
+            "posY" : 132,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : -124,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        }
+    },
+    
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "'Avery is dating Kirsten' - Aidan",
+            "posX" : -170,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+        
+        "fml":
+        {
+            "text" : "Hello Homies",
+            "posX" : 2,
+            "posY" : -50,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 150,
+            "posY" : 70,
+            "color" : -256,
+            "alignment" : "top_center",
+            "texts" : "file:cmm:files/splash.txt"
+        },
+        
+        "panorama":
+        {
+            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : true
+        }
+    }
+}

@@ -1,0 +1,3 @@
+server_name=Aidan Is Hard
+icon_item=minecraft:glass
+optional=true

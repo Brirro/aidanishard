@@ -1,0 +1,24 @@
+{
+    "events":
+            [
+                    {
+                        "event_type":"JOIN_WORLD",
+						"target": "ALL_PLAYERS",
+						"noDeathDim": "true",
+						"joinOneEver": "false",
+                        "tasks":
+                                [
+                                    {
+                                        "task_type":"COMMAND",
+                                        "command":"/achievement give TwilightForest1 @a",
+										"ignorePrivilages": "true"
+                                    },
+									{
+										"task_type":"COMMAND",
+                                        "command":"/achievement give TwilightForest2 @a",
+										"ignorePrivilages": "true"
+									}
+                                ]
+                    }
+            ]
+}

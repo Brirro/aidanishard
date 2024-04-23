@@ -1,0 +1,27 @@
+{"data":
+	[
+		    {
+				"name": "neowslament",
+				"rarity": "epic",
+				"maxStackSize": "1",
+				"enchanted": true
+			},
+			{
+				"name": "dimensionalcore",
+				"rarity": "rare",
+				"enchanted": true
+			},
+			{
+				"name": "emccoin",
+				"rarity": "common"
+			},
+			{
+				"name": "riftemc",
+				"rarity": "common"
+			},
+			{
+				"name": "goldenrod",
+				"rarity": "common"
+			}
+	]
+}
