@@ -1,7 +1,7 @@
-[10:33:47][FINE][noppes.npcs.controllers.ScriptController:60] Tue Apr 23 10:33:47 EDT 2024
-[10:33:47][FINE][noppes.npcs.CustomNpcs:185] Script Engines Available:
-[10:33:48][FINE][noppes.npcs.CustomNpcs:185] Scala: .scala
-[11:10:32][FINE][noppes.npcs.controllers.LinkedNpcController:29] Loading Linked Npcs
-[11:10:32][FINE][noppes.npcs.controllers.LinkedNpcController:29] Done loading Linked Npcs
-[11:10:43][FINE][noppes.npcs.controllers.DialogController:28] Loading Dialogs
-[11:10:43][FINE][noppes.npcs.controllers.DialogController:28] Done loading Dialogs
+[19:05:16][FINE][noppes.npcs.controllers.ScriptController:60] Tue Apr 23 19:05:16 EDT 2024
+[19:05:16][FINE][noppes.npcs.CustomNpcs:185] Script Engines Available:
+[19:05:16][FINE][noppes.npcs.CustomNpcs:185] Scala: .scala
+[19:08:42][FINE][noppes.npcs.controllers.LinkedNpcController:29] Loading Linked Npcs
+[19:08:42][FINE][noppes.npcs.controllers.LinkedNpcController:29] Done loading Linked Npcs
+[19:08:49][FINE][noppes.npcs.controllers.DialogController:28] Loading Dialogs
+[19:08:49][FINE][noppes.npcs.controllers.DialogController:28] Done loading Dialogs

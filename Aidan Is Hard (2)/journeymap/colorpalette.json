@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.2.3 Unlimited for 1.7.10 on Tue Apr 23 10:36:41 EDT 2024",
+  "generated": "Generated using JourneyMap 5.2.3 Unlimited for 1.7.10 on Tue Apr 23 19:08:18 EDT 2024",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -11,7 +11,7 @@ var colorpalette={
   ],
   "permanent": false,
   "resourcePacks": "Default",
-  "modNames": "Accidentally Circumstantial Events:1.12.11, Additional Pipes:4.7.7, Aether Legacy Departure:v1.1.2.2, AgriCraft:1.7.10-1.5.0, AnimationAPI:1.2.4, AppleCore:3.1.1, Applied Energistics 2:rv2-stable-10, AppliedEnergistics2 Core:rv2-stable-10, Archimedes\u0027 Ships:1.7.10 v1.7.1, BC Builders:7.1.25, BC Energy:7.1.25, BC Factory:7.1.25, BC Robotics:7.1.25, BC Silicon:7.1.25, BC Transport:7.1.25, BD Lib:1.9.4.109, BNBGamingLib:2.3.2, Backpacks!:3.5.8, Baubles:1.0.1.10, Better Builder\u0027s Wands:0.8.1, BiblioCraft:1.11.7, BiblioWoods ExtraBiomesXL Edition:1.4, Binnie Core:2.0.22.7, BiomeTweaker:1.2.128, Bookshelf:1.1.0, Botania:r1.8-249, Botany:2.0.22.7, BuildCraft:7.1.25, CCLights 2:0.4.3, Carpenter\u0027s Blocks:3.3.8.2, Chance Cubes:1.7.10-2.4.1.0, Chisel:2.9.5.11, CoFH ASM:000, CoFH Core:1.7.10R3.1.4, CodeChicken Core:1.0.7.48, Collective Framework Core:1.0.0-132, Collective Framework:1.0.0-132, ComputerCraft:1.75, Computronics:1.6.6, Controlling:1.7.10-1.0.0.4, Cooking for Blockheads:1.0.140, Currency:1.7.10 - 1.2, Custom Main Menu:1.9.2, CustomNpcs:1.7.10d, CustomThings:MC1.7.10-0.0.3-55, DeepResonance:1.1.4, Dense Ores:1.0, Dimensional Doors:2.2.5-test9, DimensionalControl:1.6.1, ElecCore:1.4.294, Enchanting Plus:3.0.2-d, Ender Zoo:1.7.10-1.0.15.32, EnderCore:1.7.10-0.2.0.39_beta, Extra Bees:2.0.22.7, Extra Trees:2.0.22.7, FoamFix:@VERSION@, FoamFixCore:1.0.4, Forestry for Minecraft:4.2.16.64, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, ForgeRelocation:0.0.1.4, Fossils and Archeology Revival:7.3.2, Galacticraft Core:3.0.12, Galacticraft Planets:3.0.12, GenDustry:1.6.3.132, Genetics:2.0.22.7, Gilded Games Utility:1.7.10-1.2, Growthcraft Apples:1.7.10-2.7.3, Growthcraft Bamboo:1.7.10-2.7.3, Growthcraft Bees:1.7.10-2.7.3, Growthcraft Cellar:1.7.10-2.7.3, Growthcraft Fishtrap:1.7.10-2.7.3, Growthcraft Grapes:1.7.10-2.7.3, Growthcraft Hops:1.7.10-2.7.3, Growthcraft Milk:1.7.10-2.7.3, Growthcraft Rice:1.7.10-2.7.3, Growthcraft:1.7.10-2.7.3, Hardcore Questing Mode:4.4.4, Hats:4.0.1, IC2 Classic Detection Helper:0.0.0.0, INpureCore:1.7.10R1.0.0B9, Immersive Engineering:0.7.7, Immersive Integration:0.6.8, Immibis Core:59.1.4, Immibis\u0027s Peripherals:59.0.3, Industrial Craft Classic:2.2.999, Infernal Mobs:1.6.0, Invasion Mod:1.1.5, Inventory Tweaks:1.59-dev-152-cf6e263, Iron Chest:6.0.62.742, It\u0027s the little things:1.0.3, JourneyMap:5.2.3, LLibrary:1.5.1, Logistics Pipes:0.9.3.132, MCFrames:1.0, MFR Compat: Applied Energistics:1.7.10R2.8.1, MFR Compat: BuildCraft:1.7.10R2.8.1, MFR Compat: Forestry:1.7.10R2.8.1, MFR Compat: ForgeMicroblock:1.7.10R2.8.1, MFR Compat: IC2:1.7.10R2.8.1, MFR Compat: Railcraft:1.7.10R2.8.1, MFR Compat: Thermal Expansion:1.7.10R2.8.1, MFR Compat: TwilightForest:1.7.10R2.8.1, MFR Compat: Vanilla:1.7.10R2.8.1, Magic Bees:2.4.4, Mantle:1.7.10-0.3.2.jenkins191, Mekanism:9.1.1, MekanismTools:9.1.1, Micdoodle8 Core:, MineFactory Reloaded:1.7.10R2.8.1, MineTweaker 3:3.1.0, MineTweakerRecipeMaker:1.0, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.345, Mob Properties:1.0.2, Mod Support:0.36.0_1.7.10-28a7f13, Mod Tweaker 2:0.9.6, More Planets:1.4.4, Morpheus:1.7.10-1.6.21, Mouse Tweaks:2.4.4, MrTJPCore:1.1.0.33, Mutant Creatures:1.4.9, NEI Addons: Applied Energistics 2:1.12.14.40, NEI Addons: Botany:1.12.14.40, NEI Addons: Crafting Tables:1.12.14.40, NEI Addons: Developer Tools:1.12.14.40, NEI Addons: Ex Nihilo:1.12.14.40, NEI Addons: Forestry:1.12.14.40, NEI Addons:1.12.14.40, NEI Integration:1.1.2, Nether Ores:1.7.10R2.3.1, Nether Portal Fix:1.0, Not Enough Items:1.0.5.120, Nuclear Control 2:2.4.5a, OpenBlocks:1.6, OpenCCSensors:1.7.5, OpenMods:0.10.1, OpenModsCore:0.10.1, OpenPeripheralAddons:0.6, OpenPeripheralCore:1.4, OpenPeripheralIntegration:0.6, Pam\u0027s Clayspawn:1.7.10b, Pam\u0027s HarvestCraft:1.7.10j, Peripherals++ Core:1.3.6, Peripherals++:1.3.6, PortalGun:4.0.0-beta-6, ProjectE:1.7.10-PE1.10.1, ProjectRed Compatibility:4.7.0pre12.95, ProjectRed Core:4.7.0pre12.95, ProjectRed Expansion:4.7.0pre12.95, ProjectRed Illumination:4.7.0pre12.95, ProjectRed Integration:4.7.0pre12.95, ProjectRed Transmission:4.7.0pre12.95, ProjectRed Transportation:4.7.0pre12.95, Railcraft:9.12.2.0, Random Things:2.2.4, RelocationFMP:0.0.1.2, Resource Loader:1.3, Roguelike Dungeons:1.5.0, Storage Drawers:1.7.10-1.10.9, Telepads:1.0.0, The SecretRoomsMod:4.7.1, The Spice of Life - Carrot Edition:2.0.9-carrot, The Twilight Forest:2.4.3, The Vegan Option:0.2.2, Thermal Dynamics:1.7.10R1.2.1, Thermal Expansion:1.7.10R4.1.5, Thermal Foundation:1.7.10R1.2.6, Threaded Lighting:1.7.10-1.0, Twilight Forest Portal Catalyst:3.0, Vein Miner:0.36.0_1.7.10-28a7f13, WR-CBE Addons:1.4.1.9, WR-CBE Core:1.4.1.9, WR-CBE Logic:1.4.1.9, Waila Harvestability:1.1.6, Waila:1.5.10, Witchery:0.24.1, WorldEdit:6.1.1-SNAPSHOT, Ztones:1.7.10, asielib:0.4.9, bspkrsCore:6.16, debug:1.0, iChunUtil:4.2.3, vending:1.2.3, §aGliby\u0027s§f Voice Chat Mod:0.6.1",
+  "modNames": "AE2 Stuff:0.5.0.56, Accidentally Circumstantial Events:1.12.11, Additional Pipes:4.7.7, Aether Legacy Departure:v1.1.2.2, AgriCraft:1.7.10-1.5.0, AnimationAPI:1.2.4, AppleCore:3.1.1, Applied Energistics 2:rv2-stable-10, AppliedEnergistics2 Core:rv2-stable-10, Archimedes\u0027 Ships:1.7.10 v1.7.1, BC Builders:7.1.25, BC Energy:7.1.25, BC Factory:7.1.25, BC Robotics:7.1.25, BC Silicon:7.1.25, BC Transport:7.1.25, BD Lib:1.9.4.109, BNBGamingLib:2.3.2, Backpacks!:3.5.8, Baubles:1.0.1.10, Better Builder\u0027s Wands:0.8.1, BiblioCraft:1.11.7, BiblioWoods ExtraBiomesXL Edition:1.4, Binnie Core:2.0.22.7, BiomeTweaker:1.2.128, Blood Magic: Alchemical Wizardry:v1.3.3, Bookshelf:1.1.0, Botania:r1.8-249, Botany:2.0.22.7, BuildCraft:7.1.25, CCLights 2:0.4.3, Carpenter\u0027s Blocks:3.3.8.2, Chance Cubes:1.7.10-2.4.1.0, Chisel:2.9.5.11, CoFH ASM:000, CoFH Core:1.7.10R3.1.4, CodeChicken Core:1.0.7.48, Collective Framework Core:1.0.0-132, Collective Framework:1.0.0-132, ComputerCraft:1.75, Computronics:1.6.6, Controlling:1.7.10-1.0.0.4, Cooking for Blockheads:1.0.140, Currency:1.7.10 - 1.2, Custom Main Menu:1.9.2, CustomNpcs:1.7.10d, CustomThings:MC1.7.10-0.0.3-55, DeepResonance:1.1.4, Dense Ores:1.0, Dimensional Doors:2.2.5-test9, DimensionalControl:1.6.1, ElecCore:1.4.294, Enchanting Plus:3.0.2-d, Ender IO:1.7.10-2.3.0.430_beta, Ender Zoo:1.7.10-1.0.15.32, EnderCore:1.7.10-0.2.0.40_beta, Extra Bees:2.0.22.7, Extra Trees:2.0.22.7, FoamFix:@VERSION@, FoamFixCore:1.0.4, Forestry for Minecraft:4.2.16.64, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, ForgeRelocation:0.0.1.4, Fossils and Archeology Revival:7.3.2, Galacticraft Core:3.0.12, Galacticraft Planets:3.0.12, GenDustry:1.6.3.132, Genetics:2.0.22.7, Gilded Games Utility:1.7.10-1.2, Growthcraft Apples:1.7.10-2.7.3, Growthcraft Bamboo:1.7.10-2.7.3, Growthcraft Bees:1.7.10-2.7.3, Growthcraft Cellar:1.7.10-2.7.3, Growthcraft Fishtrap:1.7.10-2.7.3, Growthcraft Grapes:1.7.10-2.7.3, Growthcraft Hops:1.7.10-2.7.3, Growthcraft Milk:1.7.10-2.7.3, Growthcraft Rice:1.7.10-2.7.3, Growthcraft:1.7.10-2.7.3, Hardcore Questing Mode:4.4.4, Hats:4.0.1, IC2 Classic Detection Helper:0.0.0.0, INpureCore:1.7.10R1.0.0B9, Immersive Engineering:0.7.7, Immersive Integration:0.6.8, Immibis Core:59.1.4, Immibis\u0027s Peripherals:59.0.3, Industrial Craft Classic:2.2.999, Infernal Mobs:1.6.0, Invasion Mod:1.1.5, Inventory Tweaks:1.59-dev-152-cf6e263, Iron Chest:6.0.62.742, It\u0027s the little things:1.0.3, JourneyMap:5.2.3, LLibrary:1.5.1, Logistics Pipes:0.9.3.132, MCFrames:1.0, MFR Compat: Applied Energistics:1.7.10R2.8.1, MFR Compat: BuildCraft:1.7.10R2.8.1, MFR Compat: Forestry:1.7.10R2.8.1, MFR Compat: ForgeMicroblock:1.7.10R2.8.1, MFR Compat: IC2:1.7.10R2.8.1, MFR Compat: Railcraft:1.7.10R2.8.1, MFR Compat: Thermal Expansion:1.7.10R2.8.1, MFR Compat: TwilightForest:1.7.10R2.8.1, MFR Compat: Vanilla:1.7.10R2.8.1, Magic Bees:2.4.4, Magical Crops:1.7.2 - 0.1 ALPHA, Mantle:1.7.10-0.3.2.jenkins191, Mekanism:9.1.1, MekanismTools:9.1.1, Micdoodle8 Core:, MineFactory Reloaded:1.7.10R2.8.1, MineTweaker 3:3.1.0, MineTweakerRecipeMaker:1.0, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.345, Mob Properties:1.0.2, Mod Support:0.36.0_1.7.10-28a7f13, Mod Tweaker 2:0.9.6, More Planets:1.4.4, Morpheus:1.7.10-1.6.21, Mouse Tweaks:2.4.4, MrTJPCore:1.1.0.33, Mutant Creatures:1.4.9, NEI Addons: Applied Energistics 2:1.12.14.40, NEI Addons: Botany:1.12.14.40, NEI Addons: Crafting Tables:1.12.14.40, NEI Addons: Developer Tools:1.12.14.40, NEI Addons: Ex Nihilo:1.12.14.40, NEI Addons: Forestry:1.12.14.40, NEI Addons:1.12.14.40, NEI Integration:1.1.2, Nether Ores:1.7.10R2.3.1, Nether Portal Fix:1.0, Not Enough Items:1.0.5.120, Nuclear Control 2:2.4.5a, OpenBlocks:1.6, OpenCCSensors:1.7.5, OpenMods:0.10.1, OpenModsCore:0.10.1, OpenPeripheralAddons:0.6, OpenPeripheralCore:1.4, OpenPeripheralIntegration:0.6, Pam\u0027s Clayspawn:1.7.10b, Pam\u0027s HarvestCraft:1.7.10j, Peripherals++ Core:1.3.6, Peripherals++:1.3.6, PortalGun:4.0.0-beta-6, Potion Packs:b5, ProjectE:1.7.10-PE1.10.1, ProjectRed Compatibility:4.7.0pre12.95, ProjectRed Core:4.7.0pre12.95, ProjectRed Expansion:4.7.0pre12.95, ProjectRed Illumination:4.7.0pre12.95, ProjectRed Integration:4.7.0pre12.95, ProjectRed Transmission:4.7.0pre12.95, ProjectRed Transportation:4.7.0pre12.95, RFTools:4.23, Railcraft:9.12.2.0, Random Things:2.2.4, RelocationFMP:0.0.1.2, Resource Loader:1.3, Roguelike Dungeons:1.5.0, Storage Drawers:1.7.10-1.10.9, Telepads:1.0.0, The SecretRoomsMod:4.7.1, The Spice of Life - Carrot Edition:2.0.9-carrot, The Twilight Forest:2.4.3, The Vegan Option:0.2.2, Thermal Dynamics:1.7.10R1.2.1, Thermal Expansion:1.7.10R4.1.5, Thermal Foundation:1.7.10R1.2.6, Threaded Lighting:1.7.10-1.0, Twilight Forest Portal Catalyst:3.0, Vein Miner:0.36.0_1.7.10-28a7f13, WR-CBE Addons:1.4.1.9, WR-CBE Core:1.4.1.9, WR-CBE Logic:1.4.1.9, Waila Harvestability:1.1.6, Waila:1.5.10, Witchery:0.24.1, WorldEdit:6.1.1-SNAPSHOT, Ztones:1.7.10, asielib:0.4.9, bspkrsCore:6.16, debug:1.0, iChunUtil:4.2.3, vending:1.2.3, §aGliby\u0027s§f Voice Chat Mod:0.6.1",
   "basicColors": [
     {
       "name": ".name",
@@ -29,7 +29,7 @@ var colorpalette={
       "name": "1k Crafting Storage",
       "uid": "appliedenergistics2:tile.BlockCraftingStorage",
       "meta": 0,
-      "color": "#5c5c5b"
+      "color": "#485352"
     },
     {
       "name": "4k Crafting Storage",
@@ -375,6 +375,12 @@ var colorpalette={
     },
     {
       "name": "Acacia Wood Planks",
+      "uid": "magicalcrops:BlastWoodPlanks",
+      "meta": 5,
+      "color": "#a95b33"
+    },
+    {
+      "name": "Acacia Wood Planks",
       "uid": "minecraft:planks",
       "meta": 4,
       "color": "#a95b33"
@@ -402,6 +408,12 @@ var colorpalette={
       "uid": "minecraft:activator_rail",
       "meta": 0,
       "color": "#685347"
+    },
+    {
+      "name": "Activity Probe",
+      "uid": "rftools:activityProbeBlock",
+      "meta": 0,
+      "color": "#395f70"
     },
     {
       "name": "Admin Anchor",
@@ -463,6 +475,12 @@ var colorpalette={
       "uid": "IC2NuclearControl:blockNuclearControlMain",
       "meta": 9,
       "color": "#457d2b"
+    },
+    {
+      "name": "Advanced Inscriber",
+      "uid": "ae2stuff:Inscriber",
+      "meta": 0,
+      "color": "#65656c"
     },
     {
       "name": "Advanced Item Collector",
@@ -1138,6 +1156,12 @@ var colorpalette={
       "color": "#f2f2f2"
     },
     {
+      "name": "Air Crop",
+      "uid": "magicalcrops:magicalcrops_ElementCropAir",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
       "name": "Air Lock Controller",
       "uid": "GalacticraftCore:tile.airLockFrame",
       "meta": 1,
@@ -1156,6 +1180,18 @@ var colorpalette={
       "color": "#8a8785"
     },
     {
+      "name": "Alchemic Calcinator",
+      "uid": "AWWayofTime:blockAlchemicCalcinator",
+      "meta": 0,
+      "color": "#7c007c"
+    },
+    {
+      "name": "Alchemic Chemistry Set",
+      "uid": "AWWayofTime:blockWritingTable",
+      "meta": 0,
+      "color": "#781313"
+    },
+    {
       "name": "Alchemical Chest",
       "uid": "ProjectE:alchemical_chest",
       "meta": 0,
@@ -1172,6 +1208,12 @@ var colorpalette={
       "uid": "Botania:alchemyCatalyst",
       "meta": 0,
       "color": "#c9bb61"
+    },
+    {
+      "name": "Alchemy Relay",
+      "uid": "AWWayofTime:blockReagentConduit",
+      "meta": 0,
+      "color": "#1e1e1e"
     },
     {
       "name": "Alder Leaves",
@@ -1392,6 +1434,12 @@ var colorpalette={
       "color": "#8549b6"
     },
     {
+      "name": "Alloy Smelter",
+      "uid": "EnderIO:blockAlloySmelter",
+      "meta": 0,
+      "color": "#485353"
+    },
+    {
       "name": "Alluring Skull",
       "uid": "witchery:alluringskull",
       "meta": 0,
@@ -1433,6 +1481,12 @@ var colorpalette={
       "uid": "dimdoors:Fabric of Reality",
       "meta": 2,
       "color": "#ffffff"
+    },
+    {
+      "name": "Aluminium Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropAlumin",
+      "meta": 0,
+      "color": "#405b34"
     },
     {
       "name": "Aluminium Fence",
@@ -2252,6 +2306,18 @@ var colorpalette={
       "alpha": 0.4
     },
     {
+      "name": "Arcane Pedestal",
+      "uid": "AWWayofTime:blockPedestal",
+      "meta": 0,
+      "color": "#5b0202"
+    },
+    {
+      "name": "Arcane Plinth",
+      "uid": "AWWayofTime:blockPlinth",
+      "meta": 0,
+      "color": "#590b05"
+    },
+    {
       "name": "Archeology Workbench",
       "uid": "fossil:fossilworkbench",
       "meta": 0,
@@ -2274,6 +2340,12 @@ var colorpalette={
       "uid": "aether_legacy:arctic_grass",
       "meta": 0,
       "color": "#749c9f"
+    },
+    {
+      "name": "Ardite Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropArdite",
+      "meta": 0,
+      "color": "#405b34"
     },
     {
       "name": "Arkenium Block",
@@ -2382,6 +2454,12 @@ var colorpalette={
       "uid": "GalacticraftMars:tile.minerBase",
       "meta": 0,
       "color": "#262626"
+    },
+    {
+      "name": "Attractor Obelisk",
+      "uid": "EnderIO:blockAttractor",
+      "meta": 0,
+      "color": "#4a4541"
     },
     {
       "name": "Audio Cable",
@@ -2512,6 +2590,12 @@ var colorpalette={
       "uid": "IC2NuclearControl:blockNuclearControlMain",
       "meta": 7,
       "color": "#929292"
+    },
+    {
+      "name": "Aversion Obelisk",
+      "uid": "EnderIO:blockSpawnGuard",
+      "meta": 0,
+      "color": "#4a4541"
     },
     {
       "name": "Avocado",
@@ -3018,6 +3102,12 @@ var colorpalette={
       "color": "#656565"
     },
     {
+      "name": "Basic Capacitor Bank",
+      "uid": "EnderIO:blockCapBank",
+      "meta": 1,
+      "color": "#525f5f"
+    },
+    {
       "name": "Basic Energy Cube",
       "uid": "Mekanism:EnergyCube",
       "meta": 0,
@@ -3462,6 +3552,12 @@ var colorpalette={
       "alpha": 0.3
     },
     {
+      "name": "Biome Absorber",
+      "uid": "rftools:biomeAbsorberBlock",
+      "meta": 0,
+      "color": "#505863"
+    },
+    {
       "name": "Birch Bee Box",
       "uid": "Growthcraft|Bees:grc.beeBox",
       "meta": 2,
@@ -3727,6 +3823,12 @@ var colorpalette={
     },
     {
       "name": "Birch Wood Planks",
+      "uid": "magicalcrops:BlastWoodPlanks",
+      "meta": 2,
+      "color": "#c3b37b"
+    },
+    {
+      "name": "Birch Wood Planks",
       "uid": "minecraft:planks",
       "meta": 2,
       "color": "#c3b37b"
@@ -3963,6 +4065,12 @@ var colorpalette={
     },
     {
       "name": "Black Stained Clay",
+      "uid": "magicalcrops:BlastHardenedClay",
+      "meta": 15,
+      "color": "#251610"
+    },
+    {
+      "name": "Black Stained Clay",
       "uid": "minecraft:stained_hardened_clay",
       "meta": 15,
       "color": "#251610"
@@ -4022,6 +4130,12 @@ var colorpalette={
     },
     {
       "name": "Black Wool",
+      "uid": "magicalcrops:BlastWool",
+      "meta": 1,
+      "color": "#191616"
+    },
+    {
+      "name": "Black Wool",
       "uid": "minecraft:wool",
       "meta": 15,
       "color": "#191616"
@@ -4031,6 +4145,12 @@ var colorpalette={
       "uid": "harvestcraft:pamblackberryCrop",
       "meta": 0,
       "color": "#2a5b10"
+    },
+    {
+      "name": "Blackberry Crop",
+      "uid": "magicalcrops:magicalcrops_CropBlackberry",
+      "meta": 0,
+      "color": "#5c7900"
     },
     {
       "name": "Blast Brick",
@@ -4049,6 +4169,44 @@ var colorpalette={
       "uid": "ImmersiveEngineering:metalDevice2",
       "meta": 11,
       "color": "#7f7876"
+    },
+    {
+      "name": "Blaze Crop",
+      "uid": "magicalcrops:magicalcrops_MagicCropBlaze",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
+      "name": "Blaze Essence Blocks",
+      "uid": "magicalcrops:EssenceBlocks",
+      "meta": 7,
+      "color": "#7c4c12"
+    },
+    {
+      "name": "Blaze Essence Brick",
+      "uid": "magicalcrops:EssenceBricks",
+      "meta": 7,
+      "color": "#7f4f15"
+    },
+    {
+      "name": "Blaze Essence Cloud",
+      "uid": "magicalcrops:EssenceCloud",
+      "meta": 5,
+      "color": "#ffe6c8"
+    },
+    {
+      "name": "Blaze Essence Glass",
+      "uid": "magicalcrops:EssenceGlass",
+      "meta": 7,
+      "color": "#8f4f00",
+      "alpha": 0.4
+    },
+    {
+      "name": "Blaze Essence Lamps",
+      "uid": "magicalcrops:EssenceLamps",
+      "meta": 7,
+      "color": "#a1572f",
+      "alpha": 0.4
     },
     {
       "name": "Blaze Lamp",
@@ -4147,6 +4305,12 @@ var colorpalette={
       "uid": "ProjRed|Expansion:projectred.expansion.machine2",
       "meta": 2,
       "color": "#6a5b43"
+    },
+    {
+      "name": "Block Protector",
+      "uid": "rftools:blockProtectorBlock",
+      "meta": 0,
+      "color": "#6b6c6f"
     },
     {
       "name": "Block Signal",
@@ -4767,6 +4931,12 @@ var colorpalette={
       "color": "#668143"
     },
     {
+      "name": "Blood Altar",
+      "uid": "AWWayofTime:Altar",
+      "meta": 0,
+      "color": "#710504"
+    },
+    {
       "name": "Blood Block",
       "uid": "customnpcs:npcBloodBlock",
       "meta": 0,
@@ -4783,6 +4953,48 @@ var colorpalette={
       "uid": "witchery:bloodrose",
       "meta": 0,
       "color": "#664d13"
+    },
+    {
+      "name": "Blood Rune",
+      "uid": "AWWayofTime:AlchemicalWizardrybloodRune",
+      "meta": 0,
+      "color": "#5b5855"
+    },
+    {
+      "name": "Blood Rune",
+      "uid": "chisel:bloodRune",
+      "meta": 0,
+      "color": "#4d4a47"
+    },
+    {
+      "name": "Blood Rune",
+      "uid": "chisel:bloodRune",
+      "meta": 1,
+      "color": "#454340"
+    },
+    {
+      "name": "Blood Rune",
+      "uid": "chisel:bloodRune",
+      "meta": 2,
+      "color": "#484542"
+    },
+    {
+      "name": "Blood Rune",
+      "uid": "chisel:bloodRune",
+      "meta": 3,
+      "color": "#4b4845"
+    },
+    {
+      "name": "Blood Rune",
+      "uid": "chisel:bloodRune",
+      "meta": 4,
+      "color": "#5d5b58"
+    },
+    {
+      "name": "Blood Rune",
+      "uid": "chisel:bloodRune",
+      "meta": 5,
+      "color": "#5a5754"
     },
     {
       "name": "Blood Stained Block",
@@ -4837,6 +5049,12 @@ var colorpalette={
       "uid": "aether_legacy:bloodmoss_stone",
       "meta": 0,
       "color": "#906f6f"
+    },
+    {
+      "name": "Bloodstone Brick",
+      "uid": "AWWayofTime:bloodStoneBrick",
+      "meta": 0,
+      "color": "#891710"
     },
     {
       "name": "Blue Aercloud",
@@ -5030,6 +5248,12 @@ var colorpalette={
     },
     {
       "name": "Blue Stained Clay",
+      "uid": "magicalcrops:BlastHardenedClay",
+      "meta": 11,
+      "color": "#4a3b5b"
+    },
+    {
+      "name": "Blue Stained Clay",
       "uid": "minecraft:stained_hardened_clay",
       "meta": 11,
       "color": "#4a3b5b"
@@ -5088,6 +5312,12 @@ var colorpalette={
     },
     {
       "name": "Blue Wool",
+      "uid": "magicalcrops:BlastWool",
+      "meta": 5,
+      "color": "#2e388d"
+    },
+    {
+      "name": "Blue Wool",
       "uid": "minecraft:wool",
       "meta": 11,
       "color": "#2e388d"
@@ -5097,6 +5327,18 @@ var colorpalette={
       "uid": "harvestcraft:pamblueberryCrop",
       "meta": 0,
       "color": "#255f15"
+    },
+    {
+      "name": "Blueberry Crop",
+      "uid": "magicalcrops:magicalcrops_CropBlueberry",
+      "meta": 0,
+      "color": "#5c7900"
+    },
+    {
+      "name": "Bluetopaz Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropBlueTopaz",
+      "meta": 0,
+      "color": "#405b34"
     },
     {
       "name": "Boiler Casing",
@@ -5258,7 +5500,7 @@ var colorpalette={
       "name": "Brick Block",
       "uid": "chisel:brickCustom",
       "meta": 5,
-      "color": "#5c5c5c"
+      "color": "#414d4c"
     },
     {
       "name": "Brick Block",
@@ -5277,6 +5519,84 @@ var colorpalette={
       "uid": "Railcraft:wall.alpha",
       "meta": 10,
       "color": "#926356"
+    },
+    {
+      "name": "Bricks",
+      "uid": "magicalcrops:BlastBricks",
+      "meta": 5,
+      "color": "#926356"
+    },
+    {
+      "name": "Bricks",
+      "uid": "magicalcrops:TintedSmallBrick",
+      "meta": 0,
+      "color": "#6b6b6b"
+    },
+    {
+      "name": "Bricks",
+      "uid": "magicalcrops:TintedSmallBrick",
+      "meta": 1,
+      "color": "#794f4f"
+    },
+    {
+      "name": "Bricks",
+      "uid": "magicalcrops:TintedSmallBrick",
+      "meta": 2,
+      "color": "#79794f"
+    },
+    {
+      "name": "Bricks",
+      "uid": "magicalcrops:TintedSmallBrick",
+      "meta": 3,
+      "color": "#4f7979"
+    },
+    {
+      "name": "Bricks",
+      "uid": "magicalcrops:TintedSmallBrick",
+      "meta": 4,
+      "color": "#7f7f7f"
+    },
+    {
+      "name": "Bricks",
+      "uid": "magicalcrops:TintedSmallBrick",
+      "meta": 5,
+      "color": "#838365"
+    },
+    {
+      "name": "Bricks",
+      "uid": "magicalcrops:TintedSmallBrick",
+      "meta": 6,
+      "color": "#4f4f79"
+    },
+    {
+      "name": "Bricks",
+      "uid": "magicalcrops:TintedSmallBrick",
+      "meta": 7,
+      "color": "#79664f"
+    },
+    {
+      "name": "Bricks",
+      "uid": "magicalcrops:TintedSmallBrick",
+      "meta": 8,
+      "color": "#4f794f"
+    },
+    {
+      "name": "Bricks",
+      "uid": "magicalcrops:TintedSmallBrick",
+      "meta": 9,
+      "color": "#4f644f"
+    },
+    {
+      "name": "Bricks",
+      "uid": "magicalcrops:TintedSmallBrick",
+      "meta": 10,
+      "color": "#684f79"
+    },
+    {
+      "name": "Bricks",
+      "uid": "magicalcrops:TintedSmallBrick",
+      "meta": 11,
+      "color": "#638263"
     },
     {
       "name": "Bricks",
@@ -5510,6 +5830,12 @@ var colorpalette={
     },
     {
       "name": "Brown Stained Clay",
+      "uid": "magicalcrops:BlastHardenedClay",
+      "meta": 12,
+      "color": "#4d3323"
+    },
+    {
+      "name": "Brown Stained Clay",
       "uid": "minecraft:stained_hardened_clay",
       "meta": 12,
       "color": "#4d3323"
@@ -5562,6 +5888,12 @@ var colorpalette={
     },
     {
       "name": "Brown Wool",
+      "uid": "magicalcrops:BlastWool",
+      "meta": 4,
+      "color": "#4f321f"
+    },
+    {
+      "name": "Brown Wool",
       "uid": "minecraft:wool",
       "meta": 12,
       "color": "#4f321f"
@@ -5592,10 +5924,16 @@ var colorpalette={
       "color": "#393939"
     },
     {
-      "name": "Builder",
+      "name": "Builder Block",
       "uid": "BuildCraft|Builders:builderBlock",
       "meta": 0,
       "color": "#a8a8a8"
+    },
+    {
+      "name": "Builder Block",
+      "uid": "rftools:builderBlock",
+      "meta": 0,
+      "color": "#6b6c6f"
     },
     {
       "name": "Building Guide",
@@ -5838,6 +6176,12 @@ var colorpalette={
       "uid": "OpenBlocks:canvas",
       "meta": 0,
       "color": "#ffffff"
+    },
+    {
+      "name": "Capacitor Bank",
+      "uid": "EnderIO:blockCapBank",
+      "meta": 2,
+      "color": "#525f5f"
     },
     {
       "name": "Caramel Block",
@@ -6180,7 +6524,7 @@ var colorpalette={
       "name": "Cell Workbench",
       "uid": "appliedenergistics2:tile.BlockCellWorkbench",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#485353"
     },
     {
       "name": "Cellular Block",
@@ -6205,31 +6549,37 @@ var colorpalette={
       "name": "Certus Quartz Block",
       "uid": "appliedenergistics2:tile.BlockQuartz",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#485453"
+    },
+    {
+      "name": "Certus Quartz Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropQuartz",
+      "meta": 0,
+      "color": "#405b34"
     },
     {
       "name": "Certus Quartz Ore",
       "uid": "appliedenergistics2:tile.OreQuartz",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#495554"
     },
     {
       "name": "Certus Quartz Pillar",
       "uid": "appliedenergistics2:tile.BlockQuartzPillar",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#495554"
     },
     {
       "name": "Certus Quartz Pillar Stairs",
       "uid": "appliedenergistics2:tile.QuartzPillarStairBlock",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#495554"
     },
     {
       "name": "Certus Quartz Stairs",
       "uid": "appliedenergistics2:tile.QuartzStairBlock",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#485453"
     },
     {
       "name": "Chair",
@@ -6307,13 +6657,13 @@ var colorpalette={
       "name": "Charged Certus Quartz Ore",
       "uid": "appliedenergistics2:tile.OreQuartzCharged",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#495554"
     },
     {
       "name": "Charged Quartz Fixture",
       "uid": "appliedenergistics2:tile.BlockQuartzTorch",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#495554"
     },
     {
       "name": "Chargepad",
@@ -6325,7 +6675,7 @@ var colorpalette={
       "name": "Charger",
       "uid": "appliedenergistics2:tile.BlockCharger",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#485353"
     },
     {
       "name": "Charging Bench",
@@ -6635,10 +6985,22 @@ var colorpalette={
       "color": "#c38c7b"
     },
     {
+      "name": "Chili Crop",
+      "uid": "magicalcrops:magicalcrops_CropChili",
+      "meta": 0,
+      "color": "#5c7a00"
+    },
+    {
       "name": "Chili Pepper Crop",
       "uid": "harvestcraft:pamchilipepperCrop",
       "meta": 0,
       "color": "#36680c"
+    },
+    {
+      "name": "Chimerite Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropChimerite",
+      "meta": 0,
+      "color": "#405b34"
     },
     {
       "name": "Chiseled Andesite Brick",
@@ -6662,13 +7024,13 @@ var colorpalette={
       "name": "Chiseled Certus Quartz Block",
       "uid": "appliedenergistics2:tile.BlockQuartzChiseled",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#485453"
     },
     {
       "name": "Chiseled Certus Quartz Stairs",
       "uid": "appliedenergistics2:tile.ChiseledQuartzStairBlock",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#485453"
     },
     {
       "name": "Chiseled Cheese Sandstone",
@@ -6851,9 +7213,87 @@ var colorpalette={
       "color": "#171a23"
     },
     {
+      "name": "Chiseled Stone Brick",
+      "uid": "magicalcrops:TintedCarvedStoneBrick",
+      "meta": 0,
+      "color": "#797979"
+    },
+    {
+      "name": "Chiseled Stone Brick",
+      "uid": "magicalcrops:TintedCarvedStoneBrick",
+      "meta": 1,
+      "color": "#8d5454"
+    },
+    {
+      "name": "Chiseled Stone Brick",
+      "uid": "magicalcrops:TintedCarvedStoneBrick",
+      "meta": 2,
+      "color": "#8d8d54"
+    },
+    {
+      "name": "Chiseled Stone Brick",
+      "uid": "magicalcrops:TintedCarvedStoneBrick",
+      "meta": 3,
+      "color": "#548d8d"
+    },
+    {
+      "name": "Chiseled Stone Brick",
+      "uid": "magicalcrops:TintedCarvedStoneBrick",
+      "meta": 4,
+      "color": "#959595"
+    },
+    {
+      "name": "Chiseled Stone Brick",
+      "uid": "magicalcrops:TintedCarvedStoneBrick",
+      "meta": 5,
+      "color": "#9a9a71"
+    },
+    {
+      "name": "Chiseled Stone Brick",
+      "uid": "magicalcrops:TintedCarvedStoneBrick",
+      "meta": 6,
+      "color": "#54548d"
+    },
+    {
+      "name": "Chiseled Stone Brick",
+      "uid": "magicalcrops:TintedCarvedStoneBrick",
+      "meta": 7,
+      "color": "#8d7354"
+    },
+    {
+      "name": "Chiseled Stone Brick",
+      "uid": "magicalcrops:TintedCarvedStoneBrick",
+      "meta": 8,
+      "color": "#548d54"
+    },
+    {
+      "name": "Chiseled Stone Brick",
+      "uid": "magicalcrops:TintedCarvedStoneBrick",
+      "meta": 9,
+      "color": "#547154"
+    },
+    {
+      "name": "Chiseled Stone Brick",
+      "uid": "magicalcrops:TintedCarvedStoneBrick",
+      "meta": 10,
+      "color": "#76548c"
+    },
+    {
+      "name": "Chiseled Stone Brick",
+      "uid": "magicalcrops:TintedCarvedStoneBrick",
+      "meta": 11,
+      "color": "#6f996f"
+    },
+    {
       "name": "Chiseled Stone Brick Wall",
       "uid": "Railcraft:wall.alpha",
       "meta": 8,
+      "color": "#767676"
+    },
+    {
+      "name": "Chiseled Stone Bricks",
+      "uid": "magicalcrops:BlastBricks",
+      "meta": 3,
       "color": "#767676"
     },
     {
@@ -7067,6 +7507,51 @@ var colorpalette={
       "alpha": 0.8
     },
     {
+      "name": "Cloud Seed",
+      "uid": "EnderIO:blockCloud_seed",
+      "meta": 0,
+      "color": "#248589",
+      "alpha": 0.3
+    },
+    {
+      "name": "Coal Crop",
+      "uid": "magicalcrops:magicalcrops_MagicCropCoal",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
+      "name": "Coal Essence Blocks",
+      "uid": "magicalcrops:EssenceBlocks",
+      "meta": 0,
+      "color": "#5a5a5a"
+    },
+    {
+      "name": "Coal Essence Brick",
+      "uid": "magicalcrops:EssenceBricks",
+      "meta": 0,
+      "color": "#4a4a4a"
+    },
+    {
+      "name": "Coal Essence Cloud",
+      "uid": "magicalcrops:EssenceCloud",
+      "meta": 0,
+      "color": "#e9e9e9"
+    },
+    {
+      "name": "Coal Essence Glass",
+      "uid": "magicalcrops:EssenceGlass",
+      "meta": 0,
+      "color": "#5d5d5d",
+      "alpha": 0.4
+    },
+    {
+      "name": "Coal Essence Lamps",
+      "uid": "magicalcrops:EssenceLamps",
+      "meta": 0,
+      "color": "#696968",
+      "alpha": 0.4
+    },
+    {
       "name": "Coal Generator",
       "uid": "GalacticraftCore:tile.machine",
       "meta": 0,
@@ -7095,6 +7580,12 @@ var colorpalette={
       "uid": "MorePlanet:infected_dirt",
       "meta": 1,
       "color": "#653722"
+    },
+    {
+      "name": "Cobalt Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropCobalt",
+      "meta": 0,
+      "color": "#405b34"
     },
     {
       "name": "Cobblestone",
@@ -7385,6 +7876,12 @@ var colorpalette={
       "color": "#bcbcbc"
     },
     {
+      "name": "Combustion Generator",
+      "uid": "EnderIO:blockCombustionGenerator",
+      "meta": 0,
+      "color": "#485353"
+    },
+    {
       "name": "Command Block",
       "uid": "minecraft:command_block",
       "meta": 0,
@@ -7535,6 +8032,13 @@ var colorpalette={
       "color": "#6b6b6b"
     },
     {
+      "name": "Concentrated Cloud Seed",
+      "uid": "EnderIO:blockCloud_seed_concentrated",
+      "meta": 0,
+      "color": "#34575c",
+      "alpha": 0.3
+    },
+    {
       "name": "Concrete",
       "uid": "ImmersiveEngineering:stoneDecoration",
       "meta": 4,
@@ -7647,6 +8151,12 @@ var colorpalette={
       "uid": "EnderZoo:blockConcussionCharge",
       "meta": 0,
       "color": "#2c312c"
+    },
+    {
+      "name": "Conduit Connector",
+      "uid": "EnderIO:blockConduitBundle",
+      "meta": 0,
+      "color": "#3a3b3b"
     },
     {
       "name": "Confusing Charge",
@@ -7780,6 +8290,12 @@ var colorpalette={
       "uid": "IronChest:BlockIronChest",
       "meta": 3,
       "color": "#ddb89a"
+    },
+    {
+      "name": "Copper Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropCopper",
+      "meta": 0,
+      "color": "#405b34"
     },
     {
       "name": "Copper Lantern",
@@ -7956,6 +8472,18 @@ var colorpalette={
       "color": "#33560b"
     },
     {
+      "name": "Counter",
+      "uid": "rftools:counterBlock",
+      "meta": 0,
+      "color": "#59716a"
+    },
+    {
+      "name": "Cow Soul Crop",
+      "uid": "magicalcrops:magicalcrops_SoulCropCow",
+      "meta": 0,
+      "color": "#26361f"
+    },
+    {
       "name": "Cracked Castle Brick",
       "uid": "TwilightForest:tile.CastleBrick",
       "meta": 2,
@@ -8017,6 +8545,12 @@ var colorpalette={
     },
     {
       "name": "Cracked Stone Bricks",
+      "uid": "magicalcrops:BlastBricks",
+      "meta": 2,
+      "color": "#767676"
+    },
+    {
+      "name": "Cracked Stone Bricks",
       "uid": "minecraft:stonebrick",
       "meta": 2,
       "color": "#767676"
@@ -8040,6 +8574,30 @@ var colorpalette={
       "color": "#5a3303"
     },
     {
+      "name": "Crafter",
+      "uid": "EnderIO:blockCrafter",
+      "meta": 0,
+      "color": "#424c4c"
+    },
+    {
+      "name": "Crafter Tier 1",
+      "uid": "rftools:crafterBlock1",
+      "meta": 0,
+      "color": "#6b6c6f"
+    },
+    {
+      "name": "Crafter Tier 2",
+      "uid": "rftools:crafterBlock2",
+      "meta": 0,
+      "color": "#6b6c6f"
+    },
+    {
+      "name": "Crafter Tier 3",
+      "uid": "rftools:crafterBlock3",
+      "meta": 0,
+      "color": "#6b6c6f"
+    },
+    {
       "name": "Crafting Co-Processing Unit",
       "uid": "appliedenergistics2:tile.BlockCraftingUnit",
       "meta": 1,
@@ -8049,7 +8607,7 @@ var colorpalette={
       "name": "Crafting Monitor",
       "uid": "appliedenergistics2:tile.BlockCraftingMonitor",
       "meta": 0,
-      "color": "#5c5c5b"
+      "color": "#485353"
     },
     {
       "name": "Crafting Table",
@@ -8061,7 +8619,7 @@ var colorpalette={
       "name": "Crafting Unit",
       "uid": "appliedenergistics2:tile.BlockCraftingUnit",
       "meta": 0,
-      "color": "#5c5c5b"
+      "color": "#485353"
     },
     {
       "name": "Crafty Crate",
@@ -8227,10 +8785,22 @@ var colorpalette={
       "color": "#554f59"
     },
     {
+      "name": "Creative Capacitor Bank",
+      "uid": "EnderIO:blockCapBank",
+      "meta": 0,
+      "color": "#525f5f"
+    },
+    {
       "name": "Creative Chat Box",
       "uid": "computronics:computronics.chatBox",
       "meta": 8,
       "color": "#858585"
+    },
+    {
+      "name": "Creative Dimension Builder",
+      "uid": "rftools:creativeDimensionBuilderBlock",
+      "meta": 0,
+      "color": "#6f696f"
     },
     {
       "name": "Creative Energy Cell",
@@ -8242,7 +8812,7 @@ var colorpalette={
       "name": "Creative Energy Cell",
       "uid": "appliedenergistics2:tile.BlockCreativeEnergyCell",
       "meta": 0,
-      "color": "#5b5b5b"
+      "color": "#485353"
     },
     {
       "name": "Creative Engine",
@@ -8288,6 +8858,12 @@ var colorpalette={
       "color": "#767676"
     },
     {
+      "name": "Creeper Soul Crop",
+      "uid": "magicalcrops:magicalcrops_SoulCropCreeper",
+      "meta": 0,
+      "color": "#26361f"
+    },
+    {
       "name": "Creeping Stone",
       "uid": "aether_legacy:creeping_stone",
       "meta": 0,
@@ -8330,6 +8906,12 @@ var colorpalette={
       "meta": 0,
       "color": "#674c1d",
       "alpha": 0.99215686
+    },
+    {
+      "name": "Crucible of Fire",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellEffect",
+      "meta": 0,
+      "color": "#7c007c"
     },
     {
       "name": "Crushed Ice",
@@ -8495,10 +9077,29 @@ var colorpalette={
       "color": "#3ec2ce"
     },
     {
+      "name": "Crystal Belljar",
+      "uid": "AWWayofTime:blockCrystalBelljar",
+      "meta": 0,
+      "color": "#7c007c",
+      "alpha": 0.4
+    },
+    {
       "name": "Crystal Chest",
       "uid": "IronChest:BlockIronChest",
       "meta": 5,
       "color": "#01a3e4"
+    },
+    {
+      "name": "Crystal Cluster",
+      "uid": "AWWayofTime:blockCrystal",
+      "meta": 0,
+      "color": "#650363"
+    },
+    {
+      "name": "Crystal Cluster Brick",
+      "uid": "AWWayofTime:blockCrystal",
+      "meta": 1,
+      "color": "#560254"
     },
     {
       "name": "Crystal Dirt",
@@ -8530,7 +9131,13 @@ var colorpalette={
       "name": "Crystal Growth Accelerator",
       "uid": "appliedenergistics2:tile.BlockQuartzGrowthAccelerator",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#495554"
+    },
+    {
+      "name": "Crystal Growth Chamber",
+      "uid": "ae2stuff:Grower",
+      "meta": 0,
+      "color": "#424243"
     },
     {
       "name": "Crystal Leaves",
@@ -8604,6 +9211,12 @@ var colorpalette={
       "uid": "harvestcraft:pamcucumberCrop",
       "meta": 0,
       "color": "#3b4d14"
+    },
+    {
+      "name": "Cucumber Crop",
+      "uid": "magicalcrops:magicalcrops_CropCucumber",
+      "meta": 0,
+      "color": "#5c7a00"
     },
     {
       "name": "Culture Jar",
@@ -8751,6 +9364,12 @@ var colorpalette={
     },
     {
       "name": "Cyan Stained Clay",
+      "uid": "magicalcrops:BlastHardenedClay",
+      "meta": 9,
+      "color": "#565b5b"
+    },
+    {
+      "name": "Cyan Stained Clay",
       "uid": "minecraft:stained_hardened_clay",
       "meta": 9,
       "color": "#565b5b"
@@ -8800,6 +9419,12 @@ var colorpalette={
       "uid": "Botania:unstableBlock",
       "meta": 9,
       "color": "#9b9b9b"
+    },
+    {
+      "name": "Cyan Wool",
+      "uid": "magicalcrops:BlastWool",
+      "meta": 7,
+      "color": "#2e6e89"
     },
     {
       "name": "Cyan Wool",
@@ -8910,10 +9535,29 @@ var colorpalette={
       "color": "#2c2c2c"
     },
     {
+      "name": "Dark Fused Quartz",
+      "uid": "EnderIO:blockFusedQuartz",
+      "meta": 4,
+      "color": "#d3d3d3",
+      "alpha": 0.4
+    },
+    {
       "name": "Dark Grey Candle",
       "uid": "harvestcraft:pamcandleDeco8",
       "meta": 0,
       "color": "#c2ae96"
+    },
+    {
+      "name": "Dark Iron Bars",
+      "uid": "EnderIO:blockDarkIronBars",
+      "meta": 0,
+      "color": "#353535"
+    },
+    {
+      "name": "Dark Iron Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropDarkiron",
+      "meta": 0,
+      "color": "#405b34"
     },
     {
       "name": "Dark Lapis Lazuli Ore",
@@ -9205,6 +9849,12 @@ var colorpalette={
     },
     {
       "name": "Dark Oak Wood Planks",
+      "uid": "magicalcrops:BlastWoodPlanks",
+      "meta": 4,
+      "color": "#3d2712"
+    },
+    {
+      "name": "Dark Oak Wood Planks",
       "uid": "minecraft:planks",
       "meta": 5,
       "color": "#3d2712"
@@ -9220,6 +9870,18 @@ var colorpalette={
       "uid": "minecraft:dark_oak_stairs",
       "meta": 0,
       "color": "#3d2712"
+    },
+    {
+      "name": "Dark Pressure Plate",
+      "uid": "EnderIO:blockDarkSteelPressurePlate",
+      "meta": 0,
+      "color": "#505050"
+    },
+    {
+      "name": "Dark Pressure Plate",
+      "uid": "EnderIO:blockDarkSteelPressurePlate",
+      "meta": 1,
+      "color": "#505050"
     },
     {
       "name": "Dark Prismarine",
@@ -9251,6 +9913,30 @@ var colorpalette={
       "meta": 2,
       "color": "#ba83f3",
       "alpha": 0.8
+    },
+    {
+      "name": "Dark Steel Anvil",
+      "uid": "EnderIO:blockDarkSteelAnvil",
+      "meta": 0,
+      "color": "#2f2f2f"
+    },
+    {
+      "name": "Dark Steel Anvil",
+      "uid": "EnderIO:blockDarkSteelAnvil",
+      "meta": 1,
+      "color": "#2f2f2f"
+    },
+    {
+      "name": "Dark Steel Anvil",
+      "uid": "EnderIO:blockDarkSteelAnvil",
+      "meta": 2,
+      "color": "#2f2f2f"
+    },
+    {
+      "name": "Dark Steel Ladder",
+      "uid": "EnderIO:blockDarkSteelLadder",
+      "meta": 0,
+      "color": "#1f1f1f"
     },
     {
       "name": "Darkwood Leaves",
@@ -9325,6 +10011,18 @@ var colorpalette={
       "color": "#717b71"
     },
     {
+      "name": "Default Spell Modifier",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellModifier",
+      "meta": 0,
+      "color": "#7c007c"
+    },
+    {
+      "name": "Defensive Spell Modifier",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellModifier",
+      "meta": 2,
+      "color": "#7c007c"
+    },
+    {
       "name": "Deific",
       "uid": "aether_legacy:deific",
       "meta": 0,
@@ -9395,6 +10093,36 @@ var colorpalette={
       "uid": "witchery:demonheart",
       "meta": 0,
       "color": "#9e2d2b"
+    },
+    {
+      "name": "Demon Portal",
+      "uid": "AWWayofTime:demonPortalMain",
+      "meta": 0,
+      "color": "#420326"
+    },
+    {
+      "name": "Demon\u0027s Chest",
+      "uid": "AWWayofTime:blockDemonChest",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Demonic Spell Augmentor",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement",
+      "meta": 14,
+      "color": "#7c007c"
+    },
+    {
+      "name": "Demonic Spell Dampener",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement",
+      "meta": 9,
+      "color": "#7c007c"
+    },
+    {
+      "name": "Demonic Spell Empowerer",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement",
+      "meta": 4,
+      "color": "#7c007c"
     },
     {
       "name": "Dense Coal Ore",
@@ -9617,6 +10345,12 @@ var colorpalette={
       "alpha": 0.3
     },
     {
+      "name": "Destination Analyzer",
+      "uid": "rftools:destinationAnalyzerBlock",
+      "meta": 0,
+      "color": "#6b6c6f"
+    },
+    {
       "name": "DetCord",
       "uid": "MineFactoryReloaded:detcord",
       "meta": 0,
@@ -9744,6 +10478,12 @@ var colorpalette={
       "color": "#786559"
     },
     {
+      "name": "Dialing Device",
+      "uid": "rftools:dialingDeviceBlock",
+      "meta": 0,
+      "color": "#6b6c6f"
+    },
+    {
       "name": "Diamahlia",
       "uid": "AgriCraft:cropDiamahlia",
       "meta": 0,
@@ -9765,7 +10505,7 @@ var colorpalette={
       "name": "Diamond Block",
       "uid": "chisel:diamond_block",
       "meta": 3,
-      "color": "#5c5c5c"
+      "color": "#3d4948"
     },
     {
       "name": "Diamond Block",
@@ -9828,6 +10568,44 @@ var colorpalette={
       "color": "#3bdef5"
     },
     {
+      "name": "Diamond Crop",
+      "uid": "magicalcrops:magicalcrops_MagicCropDiamond",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
+      "name": "Diamond Essence Blocks",
+      "uid": "magicalcrops:EssenceBlocks",
+      "meta": 3,
+      "color": "#127c7c"
+    },
+    {
+      "name": "Diamond Essence Brick",
+      "uid": "magicalcrops:EssenceBricks",
+      "meta": 3,
+      "color": "#157f7f"
+    },
+    {
+      "name": "Diamond Essence Cloud",
+      "uid": "magicalcrops:EssenceCloud",
+      "meta": 2,
+      "color": "#baffff"
+    },
+    {
+      "name": "Diamond Essence Glass",
+      "uid": "magicalcrops:EssenceGlass",
+      "meta": 3,
+      "color": "#008f8f",
+      "alpha": 0.4
+    },
+    {
+      "name": "Diamond Essence Lamps",
+      "uid": "magicalcrops:EssenceLamps",
+      "meta": 3,
+      "color": "#2f7590",
+      "alpha": 0.4
+    },
+    {
       "name": "Diamond Ore",
       "uid": "minecraft:diamond_ore",
       "meta": 0,
@@ -9876,10 +10654,118 @@ var colorpalette={
       "color": "#ccc9b5"
     },
     {
+      "name": "Dimension Builder",
+      "uid": "rftools:dimensionBuilderBlock",
+      "meta": 0,
+      "color": "#6b6c6f"
+    },
+    {
+      "name": "Dimension Editor",
+      "uid": "rftools:dimensionEditorBlock",
+      "meta": 0,
+      "color": "#6b6c6f"
+    },
+    {
+      "name": "Dimension Enscriber",
+      "uid": "rftools:dimensionEnscriberBlock",
+      "meta": 0,
+      "color": "#6b6c6f"
+    },
+    {
+      "name": "Dimension Monitor",
+      "uid": "rftools:dimensionMonitorBlock",
+      "meta": 0,
+      "color": "#586f67"
+    },
+    {
+      "name": "Dimensional Blank Block",
+      "uid": "rftools:dimensionalBlankBlock",
+      "meta": 0,
+      "color": "#e6f3f3"
+    },
+    {
+      "name": "Dimensional Block",
+      "uid": "rftools:dimensionalBlock",
+      "meta": 0,
+      "color": "#d9e6e6"
+    },
+    {
+      "name": "Dimensional Cross 2 Block",
+      "uid": "rftools:dimensionalCross2Block",
+      "meta": 0,
+      "color": "#566867"
+    },
+    {
+      "name": "Dimensional Cross Block",
+      "uid": "rftools:dimensionalCrossBlock",
+      "meta": 0,
+      "color": "#8aa5a4"
+    },
+    {
       "name": "Dimensional Door",
       "uid": "dimdoors:Dimensional Door",
       "meta": 0,
       "color": "#a0a0a0"
+    },
+    {
+      "name": "Dimensional Pattern 1 Block",
+      "uid": "rftools:dimensionalPattern1Block",
+      "meta": 0,
+      "color": "#e6f3f3"
+    },
+    {
+      "name": "Dimensional Pattern 2 Block",
+      "uid": "rftools:dimensionalPattern2Block",
+      "meta": 0,
+      "color": "#e6f3f3"
+    },
+    {
+      "name": "Dimensional Shard Ore",
+      "uid": "rftools:dimensionalShardBlock",
+      "meta": 0,
+      "color": "#9ea9a9"
+    },
+    {
+      "name": "Dimensional Small Blocks",
+      "uid": "rftools:dimensionalSmallBlocks",
+      "meta": 0,
+      "color": "#cedbdb"
+    },
+    {
+      "name": "Dimensional Transceiver",
+      "uid": "EnderIO:blockTransceiver",
+      "meta": 0,
+      "color": "#485353"
+    },
+    {
+      "name": "Dimensional Transceiver (Deprecated)",
+      "uid": "EnderIO:blockHyperCube",
+      "meta": 0,
+      "color": "#560abe"
+    },
+    {
+      "name": "Dimlet Filter",
+      "uid": "rftools:dimletFilterBlock",
+      "meta": 0,
+      "color": "#4f6966"
+    },
+    {
+      "name": "Dimlet Researcher",
+      "uid": "rftools:dimletResearcherBlock",
+      "meta": 0,
+      "color": "#6b6c6f"
+    },
+    {
+      "name": "Dimlet Scrambler",
+      "uid": "rftools:dimletScramblerBlock",
+      "meta": 0,
+      "color": "#6b6c6f"
+    },
+    {
+      "name": "Dimlet Workbench",
+      "uid": "rftools:dimletWorkbenchBlock",
+      "meta": 0,
+      "color": "#5d5f63"
     },
     {
       "name": "Dinner Plate",
@@ -10651,6 +11537,12 @@ var colorpalette={
       "color": "#486217"
     },
     {
+      "name": "Dye Crop",
+      "uid": "magicalcrops:magicalcrops_MagicCropDye",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
       "name": "Dyeing Machine",
       "uid": "RandomThings:dyeingMachine",
       "meta": 0,
@@ -10675,6 +11567,18 @@ var colorpalette={
       "color": "#7080c0"
     },
     {
+      "name": "Earth Crop",
+      "uid": "magicalcrops:magicalcrops_ElementCropEarth",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
+      "name": "Earth Former",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellEffect",
+      "meta": 3,
+      "color": "#7c007c"
+    },
+    {
       "name": "Ebony Bee Box",
       "uid": "Growthcraft|Bees:grc.BeeBox.Forestry.0.Normal",
       "meta": 9,
@@ -10692,6 +11596,12 @@ var colorpalette={
       "meta": 0,
       "color": "#6dbd85",
       "alpha": 0.9882353
+    },
+    {
+      "name": "Efficiency Rune",
+      "uid": "AWWayofTime:efficiencyRune",
+      "meta": 0,
+      "color": "#625157"
     },
     {
       "name": "Eggplant Crop",
@@ -10752,6 +11662,12 @@ var colorpalette={
       "uid": "Forestry:engine",
       "meta": 0,
       "color": "#81827e"
+    },
+    {
+      "name": "Electrical Steel Block",
+      "uid": "EnderIO:blockIngotStorage",
+      "meta": 0,
+      "color": "#a9a9a9"
     },
     {
       "name": "Electrolytic Separator",
@@ -10922,6 +11838,44 @@ var colorpalette={
       "color": "#5b8a28"
     },
     {
+      "name": "Emerald Crop",
+      "uid": "magicalcrops:magicalcrops_MagicCropEmerald",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
+      "name": "Emerald Essence Blocks",
+      "uid": "magicalcrops:EssenceBlocks",
+      "meta": 8,
+      "color": "#127c12"
+    },
+    {
+      "name": "Emerald Essence Brick",
+      "uid": "magicalcrops:EssenceBricks",
+      "meta": 8,
+      "color": "#167f16"
+    },
+    {
+      "name": "Emerald Essence Cloud",
+      "uid": "magicalcrops:EssenceCloud",
+      "meta": 6,
+      "color": "#cbffcb"
+    },
+    {
+      "name": "Emerald Essence Glass",
+      "uid": "magicalcrops:EssenceGlass",
+      "meta": 8,
+      "color": "#008f00",
+      "alpha": 0.4
+    },
+    {
+      "name": "Emerald Essence Lamps",
+      "uid": "magicalcrops:EssenceLamps",
+      "meta": 8,
+      "color": "#3e8155",
+      "alpha": 0.4
+    },
+    {
       "name": "Emerald Ore",
       "uid": "MorePlanet:fronos_block1",
       "meta": 3,
@@ -10938,6 +11892,12 @@ var colorpalette={
       "uid": "AgriCraft:cropEmeryllis",
       "meta": 0,
       "color": "#71e200"
+    },
+    {
+      "name": "Empty Socket",
+      "uid": "AWWayofTime:emptySocket",
+      "meta": 0,
+      "color": "#6a6060"
     },
     {
       "name": "Encased Fire Jet",
@@ -11174,6 +12134,12 @@ var colorpalette={
       "color": "#5d9028"
     },
     {
+      "name": "Enchanter",
+      "uid": "EnderIO:blockEnchanter",
+      "meta": 0,
+      "color": "#f8f8f8"
+    },
+    {
       "name": "Enchantment Table",
       "uid": "minecraft:enchanting_table",
       "meta": 0,
@@ -11243,7 +12209,8 @@ var colorpalette={
       "name": "End Stone",
       "uid": "chisel:end_Stone",
       "meta": 8,
-      "color": "#595959"
+      "color": "#505e5d",
+      "alpha": 0.99607843
     },
     {
       "name": "End Stone",
@@ -11349,10 +12316,54 @@ var colorpalette={
       "color": "#14121d"
     },
     {
+      "name": "Ender Crop",
+      "uid": "magicalcrops:magicalcrops_MagicCropEnder",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
       "name": "Ender Energy Distributor",
       "uid": "RandomThings:enderEnergyDistributor",
       "meta": 0,
       "color": "#185e52"
+    },
+    {
+      "name": "Ender Essence Blocks",
+      "uid": "magicalcrops:EssenceBlocks",
+      "meta": 9,
+      "color": "#124712"
+    },
+    {
+      "name": "Ender Essence Brick",
+      "uid": "magicalcrops:EssenceBricks",
+      "meta": 9,
+      "color": "#144a14"
+    },
+    {
+      "name": "Ender Essence Glass",
+      "uid": "magicalcrops:EssenceGlass",
+      "meta": 9,
+      "color": "#004800",
+      "alpha": 0.4
+    },
+    {
+      "name": "Ender Essence Lamps",
+      "uid": "magicalcrops:EssenceLamps",
+      "meta": 9,
+      "color": "#2a6945",
+      "alpha": 0.4
+    },
+    {
+      "name": "Ender IO",
+      "uid": "EnderIO:blockEnderIo",
+      "meta": 0,
+      "color": "#66836a"
+    },
+    {
+      "name": "Ender Monitor",
+      "uid": "rftools:enderMonitorBlock",
+      "meta": 0,
+      "color": "#4b635d"
     },
     {
       "name": "Ender Overseer",
@@ -11361,16 +12372,34 @@ var colorpalette={
       "color": "#578066"
     },
     {
+      "name": "Ender Rail",
+      "uid": "EnderIO:blockEnderRail",
+      "meta": 0,
+      "color": "#5c6559"
+    },
+    {
       "name": "Ender Rift",
       "uid": "VeganOption:enderRift",
       "meta": 0,
       "color": "#560abe"
     },
     {
+      "name": "Endergenic Generator",
+      "uid": "rftools:endergenicBlock",
+      "meta": 0,
+      "color": "#335955"
+    },
+    {
       "name": "Enderium Block",
       "uid": "ThermalFoundation:Storage",
       "meta": 12,
       "color": "#297475"
+    },
+    {
+      "name": "Enderman Head",
+      "uid": "EnderIO:blockEndermanSkull",
+      "meta": 0,
+      "color": "#0f0f0f"
     },
     {
       "name": "Energetic Infuser (Basic)",
@@ -11450,7 +12479,7 @@ var colorpalette={
       "name": "Energy Acceptor",
       "uid": "appliedenergistics2:tile.BlockEnergyAcceptor",
       "meta": 0,
-      "color": "#5b5b5b"
+      "color": "#485353"
     },
     {
       "name": "Energy Beam Receiver",
@@ -11522,6 +12551,12 @@ var colorpalette={
       "color": "#5e696a"
     },
     {
+      "name": "Energy Extractor",
+      "uid": "rftools:energyExtractorBlock",
+      "meta": 0,
+      "color": "#6b6c6f"
+    },
+    {
       "name": "Energy Loader",
       "uid": "Railcraft:machine.gamma",
       "meta": 6,
@@ -11577,6 +12612,13 @@ var colorpalette={
       "alpha": 0.58431375
     },
     {
+      "name": "Enlightened Fused Quartz",
+      "uid": "EnderIO:blockFusedQuartz",
+      "meta": 2,
+      "color": "#d3d3d3",
+      "alpha": 0.4
+    },
+    {
       "name": "Enrichment Chamber",
       "uid": "Mekanism:MachineBlock",
       "meta": 0,
@@ -11587,6 +12629,18 @@ var colorpalette={
       "uid": "PeripheralsPlusPlus:environmentScanner",
       "meta": 0,
       "color": "#5b5b5f"
+    },
+    {
+      "name": "Environmental Controller",
+      "uid": "rftools:environmentalControllerBlock",
+      "meta": 0,
+      "color": "#6b6c6f"
+    },
+    {
+      "name": "Environmental Spell Modifier",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellModifier",
+      "meta": 3,
+      "color": "#7c007c"
     },
     {
       "name": "Ephedra",
@@ -11607,6 +12661,24 @@ var colorpalette={
       "meta": 0,
       "color": "#4e7111",
       "alpha": 0.3
+    },
+    {
+      "name": "Essence Crop",
+      "uid": "magicalcrops:magicalcrops_MagicCropEssence",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
+      "name": "Essence Ore",
+      "uid": "magicalcrops:magicalcrops_EssenceOre",
+      "meta": 0,
+      "color": "#637f66"
+    },
+    {
+      "name": "Essence Torch",
+      "uid": "magicalcrops:magicalcrops_EssenceTorch",
+      "meta": 0,
+      "color": "#42855f"
     },
     {
       "name": "Etched Abyssal Stone",
@@ -11806,6 +12878,44 @@ var colorpalette={
       "color": "#4f5667"
     },
     {
+      "name": "Experience Crop",
+      "uid": "magicalcrops:magicalcrops_MagicCropExperience",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
+      "name": "Experience Essence Blocks",
+      "uid": "magicalcrops:EssenceBlocks",
+      "meta": 11,
+      "color": "#449044"
+    },
+    {
+      "name": "Experience Essence Brick",
+      "uid": "magicalcrops:EssenceBricks",
+      "meta": 11,
+      "color": "#489149"
+    },
+    {
+      "name": "Experience Essence Glass",
+      "uid": "magicalcrops:EssenceGlass",
+      "meta": 11,
+      "color": "#45ad45",
+      "alpha": 0.4
+    },
+    {
+      "name": "Experience Essence Lamps",
+      "uid": "magicalcrops:EssenceLamps",
+      "meta": 11,
+      "color": "#15a715",
+      "alpha": 0.4
+    },
+    {
+      "name": "Experience Obelisk",
+      "uid": "EnderIO:blockExperienceObelisk",
+      "meta": 0,
+      "color": "#4a4541"
+    },
+    {
       "name": "Extendable Wooden Post",
       "uid": "immersiveintegration:extendablePost",
       "meta": 0,
@@ -11929,7 +13039,8 @@ var colorpalette={
       "name": "Factory Block",
       "uid": "chisel:factoryblock",
       "meta": 13,
-      "color": "#595959"
+      "color": "#505d5c",
+      "alpha": 0.99607843
     },
     {
       "name": "Factory Block",
@@ -12521,6 +13632,12 @@ var colorpalette={
       "color": "#926356"
     },
     {
+      "name": "Farming Station",
+      "uid": "EnderIO:blockFarmStation",
+      "meta": 0,
+      "color": "#485353"
+    },
+    {
       "name": "Farmland",
       "uid": "minecraft:farmland",
       "meta": 0,
@@ -12662,6 +13779,12 @@ var colorpalette={
       "color": "#474425"
     },
     {
+      "name": "Filled Socket",
+      "uid": "AWWayofTime:bloodSocket",
+      "meta": 0,
+      "color": "#8c5353"
+    },
+    {
       "name": "Filler",
       "uid": "BuildCraft|Builders:fillerBlock",
       "meta": 0,
@@ -12692,16 +13815,35 @@ var colorpalette={
       "color": "#d18629"
     },
     {
+      "name": "Fire Crop",
+      "uid": "magicalcrops:magicalcrops_ElementCropFire",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
       "name": "Fire Jet",
       "uid": "TwilightForest:tile.TFFireJet",
       "meta": 8,
       "color": "#828282"
     },
     {
+      "name": "Fire Resistance Crop",
+      "uid": "magicalcrops:magicalcrops_PotionCropFire",
+      "meta": 0,
+      "color": "#993419"
+    },
+    {
       "name": "Fire Starter",
       "uid": "ProjRed|Expansion:projectred.expansion.machine2",
       "meta": 4,
       "color": "#544342"
+    },
+    {
+      "name": "Fire Water",
+      "uid": "EnderIO:blockFire_water",
+      "meta": 0,
+      "color": "#8a490f",
+      "alpha": 0.54901963
     },
     {
       "name": "Firefly",
@@ -13108,6 +14250,12 @@ var colorpalette={
       "color": "#4f545d"
     },
     {
+      "name": "Fluid Tank",
+      "uid": "EnderIO:blockTank",
+      "meta": 0,
+      "color": "#485353"
+    },
+    {
       "name": "Fluid Transposer (Basic)",
       "uid": "ThermalExpansion:Machine",
       "meta": 5,
@@ -13135,13 +14283,13 @@ var colorpalette={
       "name": "Fluix Block",
       "uid": "appliedenergistics2:tile.BlockFluix",
       "meta": 0,
-      "color": "#5b5b5b"
+      "color": "#485453"
     },
     {
       "name": "Fluix Stairs",
       "uid": "appliedenergistics2:tile.FluixStairBlock",
       "meta": 0,
-      "color": "#5b5b5b"
+      "color": "#485453"
     },
     {
       "name": "Fluix Wire Coil",
@@ -13168,6 +14316,12 @@ var colorpalette={
       "meta": 5,
       "color": "#a87534",
       "alpha": 0.4
+    },
+    {
+      "name": "Force Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropForce",
+      "meta": 0,
+      "color": "#405b34"
     },
     {
       "name": "Force Relay",
@@ -13891,6 +15045,13 @@ var colorpalette={
       "color": "#dddece"
     },
     {
+      "name": "Fused Quartz",
+      "uid": "EnderIO:blockFusedQuartz",
+      "meta": 0,
+      "color": "#d3d3d3",
+      "alpha": 0.4
+    },
+    {
       "name": "Futura Block",
       "uid": "chisel:futura",
       "meta": 0,
@@ -13906,7 +15067,7 @@ var colorpalette={
       "name": "Futura Block",
       "uid": "chisel:futura",
       "meta": 2,
-      "color": "#5c5c5c"
+      "color": "#424e4d"
     },
     {
       "name": "Futura Block",
@@ -13918,109 +15079,125 @@ var colorpalette={
       "name": "Futura Block",
       "uid": "chisel:futura",
       "meta": 4,
-      "color": "#5c5c5c"
+      "color": "#424e4d"
     },
     {
       "name": "Futura Block",
       "uid": "chisel:futura",
       "meta": 5,
-      "color": "#5c5c5c"
+      "color": "#465150"
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 0,
-      "color": "#595959"
+      "color": "#505c5c",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 1,
-      "color": "#595959"
+      "color": "#505c5c",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 2,
-      "color": "#595959"
+      "color": "#505c5c",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 3,
-      "color": "#595959"
+      "color": "#505c5c",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 4,
-      "color": "#595959"
+      "color": "#505c5c",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 5,
-      "color": "#595959"
+      "color": "#505c5c",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 6,
-      "color": "#595959"
+      "color": "#505c5c",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 7,
-      "color": "#595959"
+      "color": "#505c5c",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 8,
-      "color": "#595959"
+      "color": "#505c5c",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 9,
-      "color": "#595959"
+      "color": "#505c5c",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 10,
-      "color": "#595959"
+      "color": "#505c5c",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 11,
-      "color": "#595959"
+      "color": "#505c5c",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 12,
-      "color": "#595959"
+      "color": "#505c5c",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 13,
-      "color": "#595959"
+      "color": "#505c5c",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 14,
-      "color": "#595959"
+      "color": "#505c5c",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 15,
-      "color": "#595959"
+      "color": "#505c5c",
+      "alpha": 0.99607843
     },
     {
       "name": "GPU",
@@ -14252,6 +15429,12 @@ var colorpalette={
       "color": "#a6916f"
     },
     {
+      "name": "Ghast Soul Crop",
+      "uid": "magicalcrops:magicalcrops_SoulCropGhast",
+      "meta": 0,
+      "color": "#26361f"
+    },
+    {
       "name": "Ghast Trap",
       "uid": "TwilightForest:tile.TFTowerDevice",
       "meta": 10,
@@ -14268,6 +15451,30 @@ var colorpalette={
       "uid": "chancecubes:Giant_Chance_Cube",
       "meta": 0,
       "color": "#4f6878"
+    },
+    {
+      "name": "Giant Cobblestone",
+      "uid": "TwilightForest:tile.GiantCobble",
+      "meta": 0,
+      "color": "#4b5554"
+    },
+    {
+      "name": "Giant Leaves",
+      "uid": "TwilightForest:tile.GiantLeaves",
+      "meta": 0,
+      "color": "#4c5555"
+    },
+    {
+      "name": "Giant Log",
+      "uid": "TwilightForest:tile.GiantLog",
+      "meta": 0,
+      "color": "#4c5555"
+    },
+    {
+      "name": "Giant Obsidian",
+      "uid": "TwilightForest:tile.GiantObsidian",
+      "meta": 0,
+      "color": "#4f5959"
     },
     {
       "name": "Giganteum Bee Box",
@@ -14723,6 +15930,38 @@ var colorpalette={
       "alpha": 0.4
     },
     {
+      "name": "Glowstone Crop",
+      "uid": "magicalcrops:magicalcrops_MagicCropGlowstone",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
+      "name": "Glowstone Essence Blocks",
+      "uid": "magicalcrops:EssenceBlocks",
+      "meta": 2,
+      "color": "#7a7a14"
+    },
+    {
+      "name": "Glowstone Essence Brick",
+      "uid": "magicalcrops:EssenceBricks",
+      "meta": 2,
+      "color": "#7f7f15"
+    },
+    {
+      "name": "Glowstone Essence Glass",
+      "uid": "magicalcrops:EssenceGlass",
+      "meta": 2,
+      "color": "#8f8f00",
+      "alpha": 0.4
+    },
+    {
+      "name": "Glowstone Essence Lamps",
+      "uid": "magicalcrops:EssenceLamps",
+      "meta": 2,
+      "color": "#777112",
+      "alpha": 0.4
+    },
+    {
       "name": "Glowstone Illuminator",
       "uid": "ThermalExpansion:Light",
       "meta": 0,
@@ -14733,6 +15972,24 @@ var colorpalette={
       "uid": "GalacticraftCore:tile.glowstoneTorch",
       "meta": 0,
       "color": "#a5895d"
+    },
+    {
+      "name": "Glyph of Arcane Potential",
+      "uid": "AWWayofTime:blockEnchantmentGlyph",
+      "meta": 1,
+      "color": "#5e6537"
+    },
+    {
+      "name": "Glyph of Rigid Stability",
+      "uid": "AWWayofTime:blockStabilityGlyph",
+      "meta": 0,
+      "color": "#774f0e"
+    },
+    {
+      "name": "Glyph of the Adept Enchanter",
+      "uid": "AWWayofTime:blockEnchantmentGlyph",
+      "meta": 0,
+      "color": "#77451f"
     },
     {
       "name": "Gold Block",
@@ -14823,6 +16080,44 @@ var colorpalette={
       "uid": "IronChest:BlockIronChest",
       "meta": 1,
       "color": "#c5d43d"
+    },
+    {
+      "name": "Gold Crop",
+      "uid": "magicalcrops:magicalcrops_MagicCropGold",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
+      "name": "Gold Essence Blocks",
+      "uid": "magicalcrops:EssenceBlocks",
+      "meta": 5,
+      "color": "#8f8f48"
+    },
+    {
+      "name": "Gold Essence Brick",
+      "uid": "magicalcrops:EssenceBricks",
+      "meta": 5,
+      "color": "#90904c"
+    },
+    {
+      "name": "Gold Essence Cloud",
+      "uid": "magicalcrops:EssenceCloud",
+      "meta": 3,
+      "color": "#f9f96c"
+    },
+    {
+      "name": "Gold Essence Glass",
+      "uid": "magicalcrops:EssenceGlass",
+      "meta": 5,
+      "color": "#b0b04a",
+      "alpha": 0.4
+    },
+    {
+      "name": "Gold Essence Lamps",
+      "uid": "magicalcrops:EssenceLamps",
+      "meta": 5,
+      "color": "#777113",
+      "alpha": 0.4
     },
     {
       "name": "Gold Lantern",
@@ -15111,6 +16406,12 @@ var colorpalette={
       "color": "#314c09"
     },
     {
+      "name": "Grape Crop",
+      "uid": "magicalcrops:magicalcrops_CropGrape",
+      "meta": 0,
+      "color": "#546f00"
+    },
+    {
       "name": "Grape Jelly Block",
       "uid": "MorePlanet:jelly_block",
       "meta": 0,
@@ -15357,6 +16658,12 @@ var colorpalette={
     },
     {
       "name": "Gray Stained Clay",
+      "uid": "magicalcrops:BlastHardenedClay",
+      "meta": 7,
+      "color": "#392a23"
+    },
+    {
+      "name": "Gray Stained Clay",
       "uid": "minecraft:stained_hardened_clay",
       "meta": 7,
       "color": "#392a23"
@@ -15406,6 +16713,12 @@ var colorpalette={
       "uid": "Botania:unstableBlock",
       "meta": 7,
       "color": "#9b9b9b"
+    },
+    {
+      "name": "Gray Wool",
+      "uid": "magicalcrops:BlastWool",
+      "meta": 9,
+      "color": "#404040"
     },
     {
       "name": "Gray Wool",
@@ -15645,6 +16958,12 @@ var colorpalette={
     },
     {
       "name": "Green Stained Clay",
+      "uid": "magicalcrops:BlastHardenedClay",
+      "meta": 13,
+      "color": "#4c532a"
+    },
+    {
+      "name": "Green Stained Clay",
       "uid": "minecraft:stained_hardened_clay",
       "meta": 13,
       "color": "#4c532a"
@@ -15700,6 +17019,12 @@ var colorpalette={
       "uid": "Botania:unstableBlock",
       "meta": 13,
       "color": "#9b9b9b"
+    },
+    {
+      "name": "Green Wool",
+      "uid": "magicalcrops:BlastWool",
+      "meta": 3,
+      "color": "#35461b"
     },
     {
       "name": "Green Wool",
@@ -16449,6 +17774,13 @@ var colorpalette={
       "alpha": 0.3
     },
     {
+      "name": "Hootch",
+      "uid": "EnderIO:blockHootch",
+      "meta": 0,
+      "color": "#ffffff",
+      "alpha": 0.3
+    },
+    {
       "name": "Hopper",
       "uid": "minecraft:hopper",
       "meta": 0,
@@ -16660,6 +17992,12 @@ var colorpalette={
       "meta": 0,
       "color": "#7dadff",
       "alpha": 0.4
+    },
+    {
+      "name": "Ice Maker",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellEffect",
+      "meta": 1,
+      "color": "#7c007c"
     },
     {
       "name": "Ice Pillar",
@@ -16921,22 +18259,46 @@ var colorpalette={
       "color": "#212b41"
     },
     {
+      "name": "Imbued Spell Augmentor",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement",
+      "meta": 13,
+      "color": "#7c007c"
+    },
+    {
+      "name": "Imbued Spell Dampener",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement",
+      "meta": 8,
+      "color": "#7c007c"
+    },
+    {
+      "name": "Imbued Spell Empowerer",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement",
+      "meta": 3,
+      "color": "#7c007c"
+    },
+    {
       "name": "Imbuing Station",
       "uid": "RandomThings:imbuingStation",
       "meta": 0,
       "color": "#386772"
     },
     {
+      "name": "Imperfect Ritual Stone",
+      "uid": "AWWayofTime:imperfectRitualStone",
+      "meta": 0,
+      "color": "#600f0f"
+    },
+    {
       "name": "Imperialistic Block",
       "uid": "chisel:nation",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#4c5958"
     },
     {
       "name": "Imperialistic Block",
       "uid": "chisel:nation",
       "meta": 1,
-      "color": "#5c5c5c"
+      "color": "#4c5958"
     },
     {
       "name": "Imperialistic Block",
@@ -16987,6 +18349,12 @@ var colorpalette={
       "uid": "MorePlanet:uranium_waste",
       "meta": 1,
       "color": "#676e66"
+    },
+    {
+      "name": "Incense Crucible",
+      "uid": "AWWayofTime:blockCrucible",
+      "meta": 0,
+      "color": "#342821"
     },
     {
       "name": "Incense Plate",
@@ -17076,13 +18444,15 @@ var colorpalette={
       "name": "Industrial Technical Block",
       "uid": "chisel:technical3",
       "meta": 0,
-      "color": "#565655"
+      "color": "#53605f",
+      "alpha": 0.99215686
     },
     {
       "name": "Industrial Technical Block",
       "uid": "chisel:technical3",
       "meta": 1,
-      "color": "#595959"
+      "color": "#4f5b5a",
+      "alpha": 0.99607843
     },
     {
       "name": "Inebriation Aercloud",
@@ -17202,6 +18572,12 @@ var colorpalette={
       "color": "#4b465c"
     },
     {
+      "name": "Infused Shard Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropThaumcraftShard",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
       "name": "Infusing Laser",
       "uid": "BuildCraft|Silicon:laserBlock",
       "meta": 0,
@@ -17217,7 +18593,7 @@ var colorpalette={
       "name": "Inscriber",
       "uid": "appliedenergistics2:tile.BlockInscriber",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#495554"
     },
     {
       "name": "Insulating Glass",
@@ -17249,6 +18625,12 @@ var colorpalette={
       "uid": "ThermalFoundation:Storage",
       "meta": 8,
       "color": "#949c99"
+    },
+    {
+      "name": "Inventory Panel",
+      "uid": "EnderIO:blockInventoryPanel",
+      "meta": 0,
+      "color": "#485353"
     },
     {
       "name": "Inverted Black Lamp",
@@ -17347,6 +18729,20 @@ var colorpalette={
       "color": "#9a9a18"
     },
     {
+      "name": "Invisible Shield Block",
+      "uid": "rftools:invisibleShieldBlock",
+      "meta": 0,
+      "color": "#c5d3d0",
+      "alpha": 0.4
+    },
+    {
+      "name": "Invisible Shield Block",
+      "uid": "rftools:noTickInvisibleShieldBlock",
+      "meta": 0,
+      "color": "#c5d3d0",
+      "alpha": 0.4
+    },
+    {
       "name": "Io Cobblestone",
       "uid": "MorePlanet:io_block",
       "meta": 2,
@@ -17393,6 +18789,12 @@ var colorpalette={
       "uid": "MorePlanet:fronos_ore_block",
       "meta": 0,
       "color": "#e4e4e4"
+    },
+    {
+      "name": "Iridium Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropIridium",
+      "meta": 0,
+      "color": "#405b34"
     },
     {
       "name": "Iridium Ore",
@@ -17558,6 +18960,12 @@ var colorpalette={
       "color": "#c6d5d6"
     },
     {
+      "name": "Iron Crop",
+      "uid": "magicalcrops:magicalcrops_MagicCropIron",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
       "name": "Iron Door",
       "uid": "dimdoors:Unstable Door",
       "meta": 0,
@@ -17568,6 +18976,32 @@ var colorpalette={
       "uid": "minecraft:iron_door",
       "meta": 0,
       "color": "#a3a3a3"
+    },
+    {
+      "name": "Iron Essence Blocks",
+      "uid": "magicalcrops:EssenceBlocks",
+      "meta": 4,
+      "color": "#909090"
+    },
+    {
+      "name": "Iron Essence Brick",
+      "uid": "magicalcrops:EssenceBricks",
+      "meta": 4,
+      "color": "#7f7f7f"
+    },
+    {
+      "name": "Iron Essence Glass",
+      "uid": "magicalcrops:EssenceGlass",
+      "meta": 4,
+      "color": "#a3a3a3",
+      "alpha": 0.4
+    },
+    {
+      "name": "Iron Essence Lamps",
+      "uid": "magicalcrops:EssenceLamps",
+      "meta": 4,
+      "color": "#736559",
+      "alpha": 0.4
     },
     {
       "name": "Iron Fence",
@@ -17816,6 +19250,12 @@ var colorpalette={
       "color": "#687d8f"
     },
     {
+      "name": "Item Buffer",
+      "uid": "EnderIO:blockBuffer",
+      "meta": 0,
+      "color": "#485353"
+    },
+    {
       "name": "Item Cannon",
       "uid": "OpenBlocks:cannon",
       "meta": 0,
@@ -17832,6 +19272,12 @@ var colorpalette={
       "uid": "OpenBlocks:itemDropper",
       "meta": 0,
       "color": "#5c5c5c"
+    },
+    {
+      "name": "Item Filter",
+      "uid": "rftools:itemFilterBlock",
+      "meta": 0,
+      "color": "#5b5d60"
     },
     {
       "name": "Item Importer",
@@ -18371,6 +19817,12 @@ var colorpalette={
     },
     {
       "name": "Jungle Wood Planks",
+      "uid": "magicalcrops:BlastWoodPlanks",
+      "meta": 3,
+      "color": "#9a6e4d"
+    },
+    {
+      "name": "Jungle Wood Planks",
       "uid": "minecraft:planks",
       "meta": 3,
       "color": "#9a6e4d"
@@ -18514,6 +19966,12 @@ var colorpalette={
       "uid": "witchery:kettle",
       "meta": 0,
       "color": "#837a70"
+    },
+    {
+      "name": "Killer Joe",
+      "uid": "EnderIO:blockKillerJoe",
+      "meta": 0,
+      "color": "#485353"
     },
     {
       "name": "Kinetic Dynamo",
@@ -19283,6 +20741,44 @@ var colorpalette={
       "uid": "minecraft:lapis_block",
       "meta": 0,
       "color": "#264389"
+    },
+    {
+      "name": "Lapis Lazuli Crop",
+      "uid": "magicalcrops:magicalcrops_MagicCropLapis",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
+      "name": "Lapis Lazuli Essence Blocks",
+      "uid": "magicalcrops:EssenceBlocks",
+      "meta": 6,
+      "color": "#12127c"
+    },
+    {
+      "name": "Lapis Lazuli Essence Brick",
+      "uid": "magicalcrops:EssenceBricks",
+      "meta": 6,
+      "color": "#0f0f84"
+    },
+    {
+      "name": "Lapis Lazuli Essence Cloud",
+      "uid": "magicalcrops:EssenceCloud",
+      "meta": 4,
+      "color": "#e9e9fe"
+    },
+    {
+      "name": "Lapis Lazuli Essence Glass",
+      "uid": "magicalcrops:EssenceGlass",
+      "meta": 6,
+      "color": "#00008f",
+      "alpha": 0.4
+    },
+    {
+      "name": "Lapis Lazuli Essence Lamps",
+      "uid": "magicalcrops:EssenceLamps",
+      "meta": 6,
+      "color": "#3874ae",
+      "alpha": 0.4
     },
     {
       "name": "Lapis Lazuli Ore",
@@ -20813,6 +22309,12 @@ var colorpalette={
       "color": "#5b643c"
     },
     {
+      "name": "Large Bloodstone Brick",
+      "uid": "AWWayofTime:largeBloodStoneBrick",
+      "meta": 0,
+      "color": "#971209"
+    },
+    {
       "name": "Large Fern",
       "uid": "minecraft:double_plant",
       "meta": 3,
@@ -20822,97 +22324,113 @@ var colorpalette={
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 0,
-      "color": "#565555"
+      "color": "#53605f",
+      "alpha": 0.99215686
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 1,
-      "color": "#565555"
+      "color": "#53605f",
+      "alpha": 0.99215686
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 2,
-      "color": "#565555"
+      "color": "#53605f",
+      "alpha": 0.99215686
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 3,
-      "color": "#565555"
+      "color": "#53605f",
+      "alpha": 0.99215686
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 4,
-      "color": "#565555"
+      "color": "#53605f",
+      "alpha": 0.99215686
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 5,
-      "color": "#565555"
+      "color": "#53605f",
+      "alpha": 0.99215686
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 6,
-      "color": "#565555"
+      "color": "#53605f",
+      "alpha": 0.99215686
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 7,
-      "color": "#565555"
+      "color": "#53605f",
+      "alpha": 0.99215686
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 8,
-      "color": "#565555"
+      "color": "#53605f",
+      "alpha": 0.99215686
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 9,
-      "color": "#565555"
+      "color": "#53605f",
+      "alpha": 0.99215686
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 10,
-      "color": "#565555"
+      "color": "#53605f",
+      "alpha": 0.99215686
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 11,
-      "color": "#565555"
+      "color": "#53605f",
+      "alpha": 0.99215686
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 12,
-      "color": "#565555"
+      "color": "#53605f",
+      "alpha": 0.99215686
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 13,
-      "color": "#565555"
+      "color": "#53605f",
+      "alpha": 0.99215686
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 14,
-      "color": "#565555"
+      "color": "#53605f",
+      "alpha": 0.99215686
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 15,
-      "color": "#565555"
+      "color": "#53605f",
+      "alpha": 0.99215686
     },
     {
       "name": "Large Orange Tree",
@@ -21156,6 +22674,12 @@ var colorpalette={
       "color": "#6d789a"
     },
     {
+      "name": "Lead Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropLead",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
       "name": "Lead Lantern",
       "uid": "Railcraft:lantern.metal",
       "meta": 4,
@@ -21369,6 +22893,13 @@ var colorpalette={
       "color": "#6a5940"
     },
     {
+      "name": "Life Essence",
+      "uid": "AWWayofTime:lifeEssence",
+      "meta": 0,
+      "color": "#730000",
+      "alpha": 0.3
+    },
+    {
       "name": "Light Angelic Stone",
       "uid": "aether_legacy:light_angelic_stone",
       "meta": 0,
@@ -21479,6 +23010,12 @@ var colorpalette={
     },
     {
       "name": "Light Blue Stained Clay",
+      "uid": "magicalcrops:BlastHardenedClay",
+      "meta": 3,
+      "color": "#716c89"
+    },
+    {
+      "name": "Light Blue Stained Clay",
       "uid": "minecraft:stained_hardened_clay",
       "meta": 3,
       "color": "#716c89"
@@ -21531,6 +23068,12 @@ var colorpalette={
     },
     {
       "name": "Light Blue Wool",
+      "uid": "magicalcrops:BlastWool",
+      "meta": 13,
+      "color": "#6a8ac9"
+    },
+    {
+      "name": "Light Blue Wool",
       "uid": "minecraft:wool",
       "meta": 3,
       "color": "#6a8ac9"
@@ -21545,7 +23088,7 @@ var colorpalette={
       "name": "Light Detecting Fixture",
       "uid": "appliedenergistics2:tile.BlockLightDetector",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#495554"
     },
     {
       "name": "Light Engineering Block",
@@ -21642,6 +23185,12 @@ var colorpalette={
     },
     {
       "name": "Light Gray Stained Clay",
+      "uid": "magicalcrops:BlastHardenedClay",
+      "meta": 8,
+      "color": "#876a61"
+    },
+    {
+      "name": "Light Gray Stained Clay",
       "uid": "minecraft:stained_hardened_clay",
       "meta": 8,
       "color": "#876a61"
@@ -21691,6 +23240,12 @@ var colorpalette={
       "uid": "Botania:unstableBlock",
       "meta": 8,
       "color": "#9b9b9b"
+    },
+    {
+      "name": "Light Gray Wool",
+      "uid": "magicalcrops:BlastWool",
+      "meta": 8,
+      "color": "#9aa1a1"
     },
     {
       "name": "Light Gray Wool",
@@ -21899,6 +23454,12 @@ var colorpalette={
     },
     {
       "name": "Lime Stained Clay",
+      "uid": "magicalcrops:BlastHardenedClay",
+      "meta": 5,
+      "color": "#677534"
+    },
+    {
+      "name": "Lime Stained Clay",
       "uid": "minecraft:stained_hardened_clay",
       "meta": 5,
       "color": "#677534"
@@ -21996,6 +23557,12 @@ var colorpalette={
       "uid": "Forestry:slabsFireproof",
       "meta": 27,
       "color": "#c38c7b"
+    },
+    {
+      "name": "Lime Wool",
+      "uid": "magicalcrops:BlastWool",
+      "meta": 11,
+      "color": "#41ae38"
     },
     {
       "name": "Lime Wool",
@@ -22292,6 +23859,12 @@ var colorpalette={
       "color": "#716b5b"
     },
     {
+      "name": "Liquid Absorber",
+      "uid": "rftools:liquidAbsorberBlock",
+      "meta": 0,
+      "color": "#19a59c"
+    },
+    {
       "name": "Liquid DNA",
       "uid": "gendustry:fluid.LiquidDNA",
       "meta": 0,
@@ -22310,6 +23883,19 @@ var colorpalette={
       "meta": 0,
       "color": "#a3a3a3",
       "alpha": 0.7019608
+    },
+    {
+      "name": "Liquid Monitor",
+      "uid": "rftools:liquidMonitorBlock",
+      "meta": 0,
+      "color": "#6b6c6f"
+    },
+    {
+      "name": "Liquid Sunshine",
+      "uid": "EnderIO:blockLiquid_sunshine",
+      "meta": 0,
+      "color": "#d1c355",
+      "alpha": 0.3
     },
     {
       "name": "Liquifacted Coal",
@@ -22592,13 +24178,13 @@ var colorpalette={
       "name": "ME Chest",
       "uid": "appliedenergistics2:tile.BlockChest",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#485353"
     },
     {
       "name": "ME Controller",
       "uid": "appliedenergistics2:tile.BlockController",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#485353"
     },
     {
       "name": "ME Dense Transformer",
@@ -22616,19 +24202,19 @@ var colorpalette={
       "name": "ME Drive",
       "uid": "appliedenergistics2:tile.BlockDrive",
       "meta": 0,
-      "color": "#5b5b5b"
+      "color": "#485353"
     },
     {
       "name": "ME IO Port",
       "uid": "appliedenergistics2:tile.BlockIOPort",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#485453"
     },
     {
       "name": "ME Interface",
       "uid": "appliedenergistics2:tile.BlockInterface",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#495554"
     },
     {
       "name": "ME Network Monitor",
@@ -22640,19 +24226,19 @@ var colorpalette={
       "name": "ME Quantum Link Chamber",
       "uid": "appliedenergistics2:tile.BlockQuantumLinkChamber",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#485453"
     },
     {
       "name": "ME Quantum Ring",
       "uid": "appliedenergistics2:tile.BlockQuantumRing",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#485453"
     },
     {
       "name": "ME Security Terminal",
       "uid": "appliedenergistics2:tile.BlockSecurity",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#495554"
     },
     {
       "name": "ME Transformer",
@@ -22670,7 +24256,7 @@ var colorpalette={
       "name": "ME Wireless Access Point",
       "uid": "appliedenergistics2:tile.BlockWireless",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#485353"
     },
     {
       "name": "MV Capacitor",
@@ -22689,6 +24275,12 @@ var colorpalette={
       "uid": "ImmersiveEngineering:metalDevice",
       "meta": 2,
       "color": "#4d352a"
+    },
+    {
+      "name": "Machine Base",
+      "uid": "rftools:machineBase",
+      "meta": 0,
+      "color": "#656669"
     },
     {
       "name": "Machine Block",
@@ -22751,6 +24343,12 @@ var colorpalette={
       "color": "#656669"
     },
     {
+      "name": "Machine Frame",
+      "uid": "rftools:machineFrame",
+      "meta": 0,
+      "color": "#656669"
+    },
+    {
       "name": "Machine Frame (Basic)",
       "uid": "ThermalExpansion:Frame",
       "meta": 0,
@@ -22773,6 +24371,12 @@ var colorpalette={
       "uid": "ThermalExpansion:Frame",
       "meta": 3,
       "color": "#777875"
+    },
+    {
+      "name": "Machine Infuser",
+      "uid": "rftools:machineInfuserBlock",
+      "meta": 0,
+      "color": "#6b6c6f"
     },
     {
       "name": "Machinist\u0027s Workbench",
@@ -22887,6 +24491,12 @@ var colorpalette={
     },
     {
       "name": "Magenta Stained Clay",
+      "uid": "magicalcrops:BlastHardenedClay",
+      "meta": 2,
+      "color": "#95586c"
+    },
+    {
+      "name": "Magenta Stained Clay",
       "uid": "minecraft:stained_hardened_clay",
       "meta": 2,
       "color": "#95586c"
@@ -22939,6 +24549,12 @@ var colorpalette={
     },
     {
       "name": "Magenta Wool",
+      "uid": "magicalcrops:BlastWool",
+      "meta": 14,
+      "color": "#b350bc"
+    },
+    {
+      "name": "Magenta Wool",
       "uid": "minecraft:wool",
       "meta": 2,
       "color": "#b350bc"
@@ -22973,6 +24589,12 @@ var colorpalette={
       "uid": "MorePlanet:magma_rock",
       "meta": 0,
       "color": "#ff6320"
+    },
+    {
+      "name": "Magma Soul Crop",
+      "uid": "magicalcrops:magicalcrops_SoulCropMagma",
+      "meta": 0,
+      "color": "#26361f"
     },
     {
       "name": "Magmatic Dynamo",
@@ -23163,6 +24785,12 @@ var colorpalette={
       "meta": 0,
       "color": "#0d5d06",
       "alpha": 0.6666667
+    },
+    {
+      "name": "Manganese Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropManganese",
+      "meta": 0,
+      "color": "#405b34"
     },
     {
       "name": "Mango",
@@ -23834,10 +25462,46 @@ var colorpalette={
       "color": "#3a3531"
     },
     {
+      "name": "Master Ritual Stone",
+      "uid": "AWWayofTime:masterStone",
+      "meta": 0,
+      "color": "#434141"
+    },
+    {
+      "name": "Material Absorber",
+      "uid": "rftools:materialAbsorberBlock",
+      "meta": 0,
+      "color": "#735d40"
+    },
+    {
+      "name": "Matter Beamer",
+      "uid": "rftools:matterBeamerBlock",
+      "meta": 0,
+      "color": "#666846"
+    },
+    {
+      "name": "Matter Booster",
+      "uid": "rftools:matterBoosterBlock",
+      "meta": 0,
+      "color": "#656669"
+    },
+    {
       "name": "Matter Condenser",
       "uid": "appliedenergistics2:tile.BlockCondenser",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#485353"
+    },
+    {
+      "name": "Matter Receiver",
+      "uid": "rftools:matterReceiverBlock",
+      "meta": 0,
+      "color": "#484a2e"
+    },
+    {
+      "name": "Matter Transmitter",
+      "uid": "rftools:matterTransmitterBlock",
+      "meta": 0,
+      "color": "#314243"
     },
     {
       "name": "Mature Berry Bush",
@@ -24075,6 +25739,12 @@ var colorpalette={
       "uid": "MineFactoryReloaded:rubberwood.sapling",
       "meta": 2,
       "color": "#4c5521"
+    },
+    {
+      "name": "Melee Aggregator",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellParadigm",
+      "meta": 2,
+      "color": "#7c007c"
     },
     {
       "name": "Melon",
@@ -24879,6 +26549,13 @@ var colorpalette={
       "alpha": 0.3
     },
     {
+      "name": "Mimic Block",
+      "uid": "AWWayofTime:blockMimic",
+      "meta": 0,
+      "color": "#7c007c",
+      "alpha": 0.3
+    },
+    {
       "name": "Minedrake",
       "uid": "witchery:mindrake",
       "meta": 0,
@@ -25070,6 +26747,12 @@ var colorpalette={
       "color": "#a88b07"
     },
     {
+      "name": "Modular Storage",
+      "uid": "rftools:modularStorageBlock",
+      "meta": 0,
+      "color": "#6b6c6f"
+    },
+    {
       "name": "Moistener",
       "uid": "Forestry:factory",
       "meta": 4,
@@ -25079,7 +26762,7 @@ var colorpalette={
       "name": "Molecular Assembler",
       "uid": "appliedenergistics2:tile.BlockMolecularAssembler",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#485453"
     },
     {
       "name": "Monitor",
@@ -25177,6 +26860,12 @@ var colorpalette={
       "meta": 0,
       "color": "#4a5e5f",
       "alpha": 0.9764706
+    },
+    {
+      "name": "Moonstone Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropMoonstone",
+      "meta": 0,
+      "color": "#405b34"
     },
     {
       "name": "Moonworm",
@@ -25360,6 +27049,12 @@ var colorpalette={
     },
     {
       "name": "Mossy Stone Bricks",
+      "uid": "magicalcrops:BlastBricks",
+      "meta": 1,
+      "color": "#72776a"
+    },
+    {
+      "name": "Mossy Stone Bricks",
       "uid": "minecraft:stonebrick",
       "meta": 1,
       "color": "#72776a"
@@ -25368,7 +27063,7 @@ var colorpalette={
       "name": "Mossy Temple Block",
       "uid": "chisel:mossy_templeblock",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#475454"
     },
     {
       "name": "Mossy Temple Block",
@@ -25386,7 +27081,8 @@ var colorpalette={
       "name": "Mossy Temple Block",
       "uid": "chisel:mossy_templeblock",
       "meta": 3,
-      "color": "#5a5a59"
+      "color": "#556463",
+      "alpha": 0.99607843
     },
     {
       "name": "Mossy Temple Block",
@@ -26232,6 +27928,12 @@ var colorpalette={
     },
     {
       "name": "Nether Brick",
+      "uid": "magicalcrops:BlastBricks",
+      "meta": 6,
+      "color": "#2c161a"
+    },
+    {
+      "name": "Nether Brick",
       "uid": "minecraft:nether_brick",
       "meta": 0,
       "color": "#2c161a"
@@ -26272,6 +27974,12 @@ var colorpalette={
       "uid": "Railcraft:brick.nether",
       "meta": 5,
       "color": "#2b141a"
+    },
+    {
+      "name": "Nether Crop",
+      "uid": "magicalcrops:magicalcrops_MagicCropNether",
+      "meta": 0,
+      "color": "#405b34"
     },
     {
       "name": "Nether Platinum Ore",
@@ -26508,6 +28216,12 @@ var colorpalette={
       "color": "#45b627"
     },
     {
+      "name": "Nickel Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropNickel",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
       "name": "Nickel Ore",
       "uid": "ImmersiveEngineering:ore",
       "meta": 4,
@@ -26518,6 +28232,12 @@ var colorpalette={
       "uid": "ImmersiveEngineering:storageSlab",
       "meta": 4,
       "color": "#949a8a"
+    },
+    {
+      "name": "Night Vision Crop",
+      "uid": "magicalcrops:magicalcrops_PotionCropNight",
+      "meta": 0,
+      "color": "#5a5704"
     },
     {
       "name": "Nitor Wart",
@@ -26591,6 +28311,13 @@ var colorpalette={
       "uid": "harvestcraft:pamnutmegSapling",
       "meta": 0,
       "color": "#606026"
+    },
+    {
+      "name": "Nutrient Distillation",
+      "uid": "EnderIO:blockNutrient_distillation",
+      "meta": 0,
+      "color": "#535c00",
+      "alpha": 0.3
     },
     {
       "name": "Oak Bee Box",
@@ -26858,6 +28585,12 @@ var colorpalette={
     },
     {
       "name": "Oak Wood Planks",
+      "uid": "magicalcrops:BlastWoodPlanks",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Wood Planks",
       "uid": "minecraft:planks",
       "meta": 0,
       "color": "#9c7f4e"
@@ -26989,6 +28722,44 @@ var colorpalette={
       "color": "#12111a"
     },
     {
+      "name": "Obsidian Crop",
+      "uid": "magicalcrops:magicalcrops_MagicCropObsidian",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
+      "name": "Obsidian Essence Blocks",
+      "uid": "magicalcrops:EssenceBlocks",
+      "meta": 10,
+      "color": "#50127a"
+    },
+    {
+      "name": "Obsidian Essence Brick",
+      "uid": "magicalcrops:EssenceBricks",
+      "meta": 10,
+      "color": "#53147e"
+    },
+    {
+      "name": "Obsidian Essence Cloud",
+      "uid": "magicalcrops:EssenceCloud",
+      "meta": 7,
+      "color": "#f4e6ff"
+    },
+    {
+      "name": "Obsidian Essence Glass",
+      "uid": "magicalcrops:EssenceGlass",
+      "meta": 10,
+      "color": "#54008c",
+      "alpha": 0.4
+    },
+    {
+      "name": "Obsidian Essence Lamps",
+      "uid": "magicalcrops:EssenceLamps",
+      "meta": 10,
+      "color": "#7d5793",
+      "alpha": 0.4
+    },
+    {
       "name": "Obsidian Snakestone",
       "uid": "chisel:obsidian_snakestone",
       "meta": 1,
@@ -27013,11 +28784,23 @@ var colorpalette={
       "color": "#14121d"
     },
     {
+      "name": "Offensive Spell Modifier",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellModifier",
+      "meta": 1,
+      "color": "#7c007c"
+    },
+    {
       "name": "Oil",
       "uid": "BuildCraft|Energy:blockOil",
       "meta": 0,
       "color": "#030303",
       "alpha": 0.3
+    },
+    {
+      "name": "Oil Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropOil",
+      "meta": 0,
+      "color": "#405b34"
     },
     {
       "name": "Oil Spring",
@@ -27306,6 +29089,12 @@ var colorpalette={
     },
     {
       "name": "Orange Stained Clay",
+      "uid": "magicalcrops:BlastHardenedClay",
+      "meta": 1,
+      "color": "#a15325"
+    },
+    {
+      "name": "Orange Stained Clay",
       "uid": "minecraft:stained_hardened_clay",
       "meta": 1,
       "color": "#a15325"
@@ -27394,6 +29183,12 @@ var colorpalette={
     },
     {
       "name": "Orange Wool",
+      "uid": "magicalcrops:BlastWool",
+      "meta": 15,
+      "color": "#db7d3e"
+    },
+    {
+      "name": "Orange Wool",
       "uid": "minecraft:wool",
       "meta": 1,
       "color": "#db7d3e"
@@ -27475,6 +29270,12 @@ var colorpalette={
       "uid": "Mekanism:MachineBlock",
       "meta": 1,
       "color": "#595959"
+    },
+    {
+      "name": "Osmium Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropOsmium",
+      "meta": 0,
+      "color": "#405b34"
     },
     {
       "name": "Osmium Ore",
@@ -27891,6 +29692,63 @@ var colorpalette={
       "color": "#bdbdbd"
     },
     {
+      "name": "Painted Carpet",
+      "uid": "EnderIO:blockPaintedCarpet",
+      "meta": 0,
+      "color": "#dddddd"
+    },
+    {
+      "name": "Painted Fence",
+      "uid": "EnderIO:blockPaintedFence",
+      "meta": 0,
+      "color": "#3a3b3b",
+      "alpha": 0.4
+    },
+    {
+      "name": "Painted Gate",
+      "uid": "EnderIO:blockPaintedFenceGate",
+      "meta": 0,
+      "color": "#9c7f4e",
+      "alpha": 0.4
+    },
+    {
+      "name": "Painted Glowstone",
+      "uid": "EnderIO:blockPaintedGlowstone",
+      "meta": 0,
+      "color": "#3a3b3b",
+      "alpha": 0.4
+    },
+    {
+      "name": "Painted Slab",
+      "uid": "EnderIO:blockPaintedDoubleSlab",
+      "meta": 0,
+      "color": "#3a3b3b"
+    },
+    {
+      "name": "Painted Slab",
+      "uid": "EnderIO:blockPaintedSlab",
+      "meta": 0,
+      "color": "#3a3b3b"
+    },
+    {
+      "name": "Painted Stairs",
+      "uid": "EnderIO:blockPaintedStair",
+      "meta": 0,
+      "color": "#7d7d7d"
+    },
+    {
+      "name": "Painted Wall",
+      "uid": "EnderIO:blockPaintedWall",
+      "meta": 0,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Painting Machine",
+      "uid": "EnderIO:blockPainter",
+      "meta": 0,
+      "color": "#485353"
+    },
+    {
       "name": "Painting Press",
       "uid": "BiblioCraft:BiblioPaintPress",
       "meta": 0,
@@ -28126,6 +29984,12 @@ var colorpalette={
       "color": "#57854a"
     },
     {
+      "name": "Particle Generator",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellParadigm",
+      "meta": 0,
+      "color": "#7c007c"
+    },
+    {
       "name": "Passenger Dropoff Rail",
       "uid": "MineFactoryReloaded:rail.passenger.dropoff",
       "meta": 0,
@@ -28169,6 +30033,12 @@ var colorpalette={
       "meta": 0,
       "color": "#8d9958",
       "alpha": 0.99607843
+    },
+    {
+      "name": "Pattern Encoder",
+      "uid": "ae2stuff:Encoder",
+      "meta": 0,
+      "color": "#58585f"
     },
     {
       "name": "Pattern Framed Dreamwood",
@@ -28219,6 +30089,12 @@ var colorpalette={
       "uid": "harvestcraft:pampearSapling",
       "meta": 0,
       "color": "#5f7427"
+    },
+    {
+      "name": "Pearl Injector",
+      "uid": "rftools:pearlInjectorBlock",
+      "meta": 0,
+      "color": "#6b6c6f"
     },
     {
       "name": "Peas Crop",
@@ -28298,6 +30174,12 @@ var colorpalette={
       "uid": "harvestcraft:pampeppercornSapling",
       "meta": 0,
       "color": "#455510"
+    },
+    {
+      "name": "Peridot Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropPeridot",
+      "meta": 0,
+      "color": "#405b34"
     },
     {
       "name": "Peripheral Container",
@@ -28397,6 +30279,12 @@ var colorpalette={
       "uid": "MorePlanet:phobos_block",
       "meta": 0,
       "color": "#7d6e63"
+    },
+    {
+      "name": "Photovoltaic Cell",
+      "uid": "EnderIO:blockSolarPanel",
+      "meta": 0,
+      "color": "#ed8e49"
     },
     {
       "name": "Phytogenic Insolator (Basic)",
@@ -28670,6 +30558,12 @@ var colorpalette={
     },
     {
       "name": "Pink Stained Clay",
+      "uid": "magicalcrops:BlastHardenedClay",
+      "meta": 6,
+      "color": "#a14e4e"
+    },
+    {
+      "name": "Pink Stained Clay",
       "uid": "minecraft:stained_hardened_clay",
       "meta": 6,
       "color": "#a14e4e"
@@ -28731,6 +30625,12 @@ var colorpalette={
       "uid": "Botania:unstableBlock",
       "meta": 6,
       "color": "#9b9b9b"
+    },
+    {
+      "name": "Pink Wool",
+      "uid": "magicalcrops:BlastWool",
+      "meta": 10,
+      "color": "#d08499"
     },
     {
       "name": "Pink Wool",
@@ -28887,13 +30787,19 @@ var colorpalette={
       "name": "Plastic Tank",
       "uid": "MineFactoryReloaded:tank",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#495554"
     },
     {
       "name": "Plate Frame",
       "uid": "ThermalExpansion:Plate",
       "meta": 0,
       "color": "#4f5667"
+    },
+    {
+      "name": "Platinum Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropPlatinum",
+      "meta": 0,
+      "color": "#405b34"
     },
     {
       "name": "Platiolus",
@@ -29380,10 +31286,34 @@ var colorpalette={
       "color": "#242a3c"
     },
     {
+      "name": "Power Monitor",
+      "uid": "EnderIO:blockPowerMonitor",
+      "meta": 0,
+      "color": "#485353"
+    },
+    {
+      "name": "Power Relay",
+      "uid": "rftools:relayBlock",
+      "meta": 0,
+      "color": "#6b6c6f"
+    },
+    {
       "name": "Powered Lantern",
       "uid": "ImmersiveEngineering:metalDevice2",
       "meta": 3,
       "color": "#443b2f"
+    },
+    {
+      "name": "Powered Light",
+      "uid": "EnderIO:blockElectricLight",
+      "meta": 0,
+      "color": "#6d7f7e"
+    },
+    {
+      "name": "Powered Spawner",
+      "uid": "EnderIO:blockPoweredSpawner",
+      "meta": 0,
+      "color": "#485353"
     },
     {
       "name": "Precision Sawmill",
@@ -29528,6 +31458,12 @@ var colorpalette={
       "uid": "witchery:cwoodpressureplate",
       "meta": 0,
       "color": "#9c7f4e"
+    },
+    {
+      "name": "Pressurized Fluid Tank",
+      "uid": "EnderIO:blockTank",
+      "meta": 1,
+      "color": "#353f3f"
     },
     {
       "name": "Pressurized Reaction Chamber",
@@ -29748,6 +31684,13 @@ var colorpalette={
       "uid": "OCS:basicProximitySensor",
       "meta": 0,
       "color": "#666a6e"
+    },
+    {
+      "name": "Proxy Block",
+      "uid": "rftools:proxyBlock",
+      "meta": 0,
+      "color": "#7c007c",
+      "alpha": 0.4
     },
     {
       "name": "Pulse Mana Spreader",
@@ -30078,6 +32021,12 @@ var colorpalette={
     },
     {
       "name": "Purple Stained Clay",
+      "uid": "magicalcrops:BlastHardenedClay",
+      "meta": 10,
+      "color": "#764656"
+    },
+    {
+      "name": "Purple Stained Clay",
       "uid": "minecraft:stained_hardened_clay",
       "meta": 10,
       "color": "#764656"
@@ -30127,6 +32076,12 @@ var colorpalette={
       "uid": "Botania:unstableBlock",
       "meta": 10,
       "color": "#9b9b9b"
+    },
+    {
+      "name": "Purple Wool",
+      "uid": "magicalcrops:BlastWool",
+      "meta": 6,
+      "color": "#7e3db5"
     },
     {
       "name": "Purple Wool",
@@ -30366,14 +32321,14 @@ var colorpalette={
       "name": "Quartz Glass",
       "uid": "appliedenergistics2:tile.BlockQuartzGlass",
       "meta": 0,
-      "color": "#5c5c5c",
+      "color": "#485453",
       "alpha": 0.4
     },
     {
       "name": "Quartz Grindstone",
       "uid": "appliedenergistics2:tile.BlockGrinder",
       "meta": 0,
-      "color": "#5b5b5b"
+      "color": "#485453"
     },
     {
       "name": "Quartz Slab",
@@ -30479,6 +32434,12 @@ var colorpalette={
       "color": "#60606c"
     },
     {
+      "name": "RF Monitor",
+      "uid": "rftools:rfMonitorBlock",
+      "meta": 0,
+      "color": "#6b6c6f"
+    },
+    {
       "name": "RFID Reader",
       "uid": "ImmibisPeripherals:peripherals",
       "meta": 1,
@@ -30556,6 +32517,12 @@ var colorpalette={
       "uid": "harvestcraft:pamraspberryCrop",
       "meta": 0,
       "color": "#2f5e11"
+    },
+    {
+      "name": "Raspberry Crop",
+      "uid": "magicalcrops:magicalcrops_CropRaspberry",
+      "meta": 0,
+      "color": "#5c7900"
     },
     {
       "name": "Raspberry Jelly Block",
@@ -30707,7 +32674,7 @@ var colorpalette={
       "name": "Reappearing Block",
       "uid": "TwilightForest:tile.TFTowerTranslucent",
       "meta": 5,
-      "color": "#535353",
+      "color": "#6f3634",
       "alpha": 0.4
     },
     {
@@ -30728,13 +32695,13 @@ var colorpalette={
       "name": "Rebellious Block",
       "uid": "chisel:rebel",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#4d5a59"
     },
     {
       "name": "Rebellious Block",
       "uid": "chisel:rebel",
       "meta": 1,
-      "color": "#5c5c5c"
+      "color": "#4d5a59"
     },
     {
       "name": "Rebellious Block",
@@ -30956,6 +32923,12 @@ var colorpalette={
     },
     {
       "name": "Red Stained Clay",
+      "uid": "magicalcrops:BlastHardenedClay",
+      "meta": 14,
+      "color": "#8f3d2e"
+    },
+    {
+      "name": "Red Stained Clay",
       "uid": "minecraft:stained_hardened_clay",
       "meta": 14,
       "color": "#8f3d2e"
@@ -31059,6 +33032,12 @@ var colorpalette={
       "uid": "harvestcraft:pamredvelvetCake",
       "meta": 0,
       "color": "#e3ddc4"
+    },
+    {
+      "name": "Red Wool",
+      "uid": "magicalcrops:BlastWool",
+      "meta": 2,
+      "color": "#963430"
     },
     {
       "name": "Red Wool",
@@ -31325,6 +33304,12 @@ var colorpalette={
       "color": "#9c9695"
     },
     {
+      "name": "Redstone Crop",
+      "uid": "magicalcrops:magicalcrops_MagicCropRedstone",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
       "name": "Redstone Energy Cell",
       "uid": "ThermalExpansion:Cell",
       "meta": 3,
@@ -31361,6 +33346,38 @@ var colorpalette={
       "uid": "BuildCraft|Core:engineBlock",
       "meta": 0,
       "color": "#6a4e33"
+    },
+    {
+      "name": "Redstone Essence Blocks",
+      "uid": "magicalcrops:EssenceBlocks",
+      "meta": 1,
+      "color": "#7c1212"
+    },
+    {
+      "name": "Redstone Essence Brick",
+      "uid": "magicalcrops:EssenceBricks",
+      "meta": 1,
+      "color": "#831011"
+    },
+    {
+      "name": "Redstone Essence Cloud",
+      "uid": "magicalcrops:EssenceCloud",
+      "meta": 1,
+      "color": "#ffe8e8"
+    },
+    {
+      "name": "Redstone Essence Glass",
+      "uid": "magicalcrops:EssenceGlass",
+      "meta": 1,
+      "color": "#8f0000",
+      "alpha": 0.4
+    },
+    {
+      "name": "Redstone Essence Lamps",
+      "uid": "magicalcrops:EssenceLamps",
+      "meta": 1,
+      "color": "#b1494b",
+      "alpha": 0.4
     },
     {
       "name": "Redstone Flux Loader",
@@ -31405,6 +33422,12 @@ var colorpalette={
       "color": "#4f5667"
     },
     {
+      "name": "Redstone Receiver",
+      "uid": "rftools:redstoneReceiverBlock",
+      "meta": 0,
+      "color": "#56625c"
+    },
+    {
       "name": "Redstone Repeater",
       "uid": "minecraft:powered_repeater",
       "meta": 0,
@@ -31427,6 +33450,12 @@ var colorpalette={
       "uid": "minecraft:unlit_redstone_torch",
       "meta": 0,
       "color": "#5d3e26"
+    },
+    {
+      "name": "Redstone Transmitter",
+      "uid": "rftools:redstoneTransmitterBlock",
+      "meta": 0,
+      "color": "#56645f"
     },
     {
       "name": "Redstone Wire Connector",
@@ -31585,6 +33614,12 @@ var colorpalette={
       "color": "#3f403e"
     },
     {
+      "name": "Regeneration Crop",
+      "uid": "magicalcrops:magicalcrops_PotionCropRegen",
+      "meta": 0,
+      "color": "#783273"
+    },
+    {
       "name": "Reinforced Blast Brick",
       "uid": "ImmersiveEngineering:stoneDecoration",
       "meta": 6,
@@ -31623,11 +33658,35 @@ var colorpalette={
       "color": "#474137"
     },
     {
+      "name": "Reinforced Obsidian",
+      "uid": "EnderIO:blockReinforcedObsidian",
+      "meta": 0,
+      "color": "#2b2b2f"
+    },
+    {
       "name": "Reinforced Portable Tank",
       "uid": "ThermalExpansion:Tank",
       "meta": 3,
       "color": "#4f5667",
       "alpha": 0.4
+    },
+    {
+      "name": "Reinforced Spell Augmentor",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement",
+      "meta": 12,
+      "color": "#7c007c"
+    },
+    {
+      "name": "Reinforced Spell Dampener",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement",
+      "meta": 7,
+      "color": "#7c007c"
+    },
+    {
+      "name": "Reinforced Spell Empowerer",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement",
+      "meta": 2,
+      "color": "#7c007c"
     },
     {
       "name": "Reinforced Stone",
@@ -31640,6 +33699,12 @@ var colorpalette={
       "uid": "ThermalExpansion:Strongbox",
       "meta": 3,
       "color": "#4f5667"
+    },
+    {
+      "name": "Remote Storage",
+      "uid": "rftools:remoteStorageBlock",
+      "meta": 0,
+      "color": "#6b6c6f"
     },
     {
       "name": "Remote Thermal Monitor",
@@ -31659,6 +33724,12 @@ var colorpalette={
       "uid": "BuildCraft|Robotics:requester",
       "meta": 0,
       "color": "#bfbfbf"
+    },
+    {
+      "name": "Reservoir",
+      "uid": "EnderIO:blockReservoir",
+      "meta": 0,
+      "color": "#364342"
     },
     {
       "name": "Residual Heat",
@@ -31810,6 +33881,12 @@ var colorpalette={
       "color": "#f5f5f5"
     },
     {
+      "name": "Ritual Stone",
+      "uid": "AWWayofTime:ritualStone",
+      "meta": 0,
+      "color": "#4b4747"
+    },
+    {
       "name": "Road",
       "uid": "MineFactoryReloaded:road",
       "meta": 0,
@@ -31851,6 +33928,13 @@ var colorpalette={
       "uid": "Railcraft:machine.alpha",
       "meta": 15,
       "color": "#383838"
+    },
+    {
+      "name": "Rocket Fuel",
+      "uid": "EnderIO:blockRocket_fuel",
+      "meta": 0,
+      "color": "#707044",
+      "alpha": 0.3
     },
     {
       "name": "Rocket Launch Pad",
@@ -32105,6 +34189,12 @@ var colorpalette={
       "color": "#3f4b30"
     },
     {
+      "name": "Rubber Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropRubber",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
       "name": "Rubber Leaves",
       "uid": "MineFactoryReloaded:rubberwood.leaves",
       "meta": 0,
@@ -32145,6 +34235,54 @@ var colorpalette={
       "uid": "MineFactoryReloaded:rubberwood.log",
       "meta": 1,
       "color": "#9f8e69"
+    },
+    {
+      "name": "Ruby Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropRuby",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
+      "name": "Rune of Acceleration",
+      "uid": "AWWayofTime:AlchemicalWizardrybloodRune",
+      "meta": 5,
+      "color": "#465877"
+    },
+    {
+      "name": "Rune of Augmented Capacity",
+      "uid": "AWWayofTime:AlchemicalWizardrybloodRune",
+      "meta": 1,
+      "color": "#62473f"
+    },
+    {
+      "name": "Rune of Dislocation",
+      "uid": "AWWayofTime:AlchemicalWizardrybloodRune",
+      "meta": 2,
+      "color": "#4d5067"
+    },
+    {
+      "name": "Rune of Sacrifice",
+      "uid": "AWWayofTime:runeOfSacrifice",
+      "meta": 0,
+      "color": "#5d504d"
+    },
+    {
+      "name": "Rune of Self-Sacrifice",
+      "uid": "AWWayofTime:runeOfSelfSacrifice",
+      "meta": 0,
+      "color": "#6c654c"
+    },
+    {
+      "name": "Rune of Superior Capacity",
+      "uid": "AWWayofTime:AlchemicalWizardrybloodRune",
+      "meta": 4,
+      "color": "#674845"
+    },
+    {
+      "name": "Rune of the Orb",
+      "uid": "AWWayofTime:AlchemicalWizardrybloodRune",
+      "meta": 3,
+      "color": "#396c68"
     },
     {
       "name": "Runic Altar",
@@ -32253,6 +34391,12 @@ var colorpalette={
       "uid": "harvestcraft:pamryeCrop",
       "meta": 0,
       "color": "#9c873a"
+    },
+    {
+      "name": "SAG Mill",
+      "uid": "EnderIO:blockSagMill",
+      "meta": 0,
+      "color": "#485353"
     },
     {
       "name": "Sacred Rubber Sapling",
@@ -33164,6 +35308,12 @@ var colorpalette={
       "color": "#61764a"
     },
     {
+      "name": "Sapphire Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropSapphire",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
       "name": "Sawmill (Basic)",
       "uid": "ThermalExpansion:Machine",
       "meta": 2,
@@ -33192,6 +35342,31 @@ var colorpalette={
       "uid": "witchery:scarecrow",
       "meta": 0,
       "color": "#736856"
+    },
+    {
+      "name": "Schematic Saver",
+      "uid": "AWWayofTime:blockSchemSaver",
+      "meta": 0,
+      "color": "#7c007c"
+    },
+    {
+      "name": "Screen",
+      "uid": "rftools:screenBlock",
+      "meta": 0,
+      "color": "#44392c"
+    },
+    {
+      "name": "Screen",
+      "uid": "rftools:screenHitBlock",
+      "meta": 0,
+      "color": "#44392c",
+      "alpha": 0.4
+    },
+    {
+      "name": "Screen Controller",
+      "uid": "rftools:screenControllerBlock",
+      "meta": 0,
+      "color": "#6b6c6f"
     },
     {
       "name": "Sea Lantern",
@@ -33393,6 +35568,12 @@ var colorpalette={
       "color": "#656565"
     },
     {
+      "name": "Security Manager",
+      "uid": "rftools:securityManagerBlock",
+      "meta": 0,
+      "color": "#6b6c6f"
+    },
+    {
       "name": "Seed Analyzer",
       "uid": "AgriCraft:seedAnalyzer",
       "meta": 0,
@@ -33424,6 +35605,12 @@ var colorpalette={
       "color": "#656565"
     },
     {
+      "name": "Self Augmentator",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellParadigm",
+      "meta": 1,
+      "color": "#7c007c"
+    },
+    {
       "name": "Sensor",
       "uid": "OCS:sensor",
       "meta": 0,
@@ -33446,6 +35633,12 @@ var colorpalette={
       "uid": "aether_legacy:sentry_stone",
       "meta": 0,
       "color": "#74787e"
+    },
+    {
+      "name": "Sequencer",
+      "uid": "rftools:sequencerBlock",
+      "meta": 0,
+      "color": "#697b77"
     },
     {
       "name": "Sequoia Bee Box",
@@ -33549,6 +35742,58 @@ var colorpalette={
       "uid": "customnpcs:npcShelf",
       "meta": 5,
       "color": "#3d2712"
+    },
+    {
+      "name": "Shield Projector Tier 1",
+      "uid": "rftools:shieldBlock",
+      "meta": 0,
+      "color": "#616a6a"
+    },
+    {
+      "name": "Shield Projector Tier 2",
+      "uid": "rftools:shieldBlock2",
+      "meta": 0,
+      "color": "#616a6a"
+    },
+    {
+      "name": "Shield Projector Tier 3",
+      "uid": "rftools:shieldBlock3",
+      "meta": 0,
+      "color": "#616a6a"
+    },
+    {
+      "name": "Shield Projector Tier 4",
+      "uid": "rftools:shieldBlock4",
+      "meta": 0,
+      "color": "#616a6a"
+    },
+    {
+      "name": "Shield Template",
+      "uid": "rftools:shieldTemplateBlock",
+      "meta": 0,
+      "color": "#009cff",
+      "alpha": 0.4
+    },
+    {
+      "name": "Shield Template",
+      "uid": "rftools:shieldTemplateBlock",
+      "meta": 1,
+      "color": "#ff0202",
+      "alpha": 0.4
+    },
+    {
+      "name": "Shield Template",
+      "uid": "rftools:shieldTemplateBlock",
+      "meta": 2,
+      "color": "#11f21e",
+      "alpha": 0.4
+    },
+    {
+      "name": "Shield Template",
+      "uid": "rftools:shieldTemplateBlock",
+      "meta": 3,
+      "color": "#e4e21d",
+      "alpha": 0.4
     },
     {
       "name": "Shimmerrock",
@@ -33836,6 +36081,12 @@ var colorpalette={
       "color": "#c5cac5"
     },
     {
+      "name": "Silver Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropSilver",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
       "name": "Silver Ore",
       "uid": "ImmersiveEngineering:ore",
       "meta": 3,
@@ -33877,6 +36128,12 @@ var colorpalette={
       "uid": "AgriCraft:cropSilverweed",
       "meta": 0,
       "color": "#009b16"
+    },
+    {
+      "name": "Simple Dialer",
+      "uid": "rftools:simpleDialerBlock",
+      "meta": 0,
+      "color": "#59716c"
     },
     {
       "name": "Sink",
@@ -34018,6 +36275,12 @@ var colorpalette={
       "color": "#544033"
     },
     {
+      "name": "Skeleton Soul Crop",
+      "uid": "magicalcrops:magicalcrops_SoulCropSkeleton",
+      "meta": 0,
+      "color": "#26361f"
+    },
+    {
       "name": "Skim Milk",
       "uid": "Growthcraft|Milk:grcmilk.BlockFluidSkimMilk",
       "meta": 0,
@@ -34052,7 +36315,7 @@ var colorpalette={
       "name": "Sky Stone",
       "uid": "appliedenergistics2:tile.BlockSkyStone",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#495554"
     },
     {
       "name": "Sky Stone Block",
@@ -34088,7 +36351,7 @@ var colorpalette={
       "name": "Sky Stone Chest",
       "uid": "appliedenergistics2:tile.BlockSkyChest",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#495554"
     },
     {
       "name": "Sky Stone Small Brick",
@@ -34106,7 +36369,7 @@ var colorpalette={
       "name": "Sky Stone Stairs",
       "uid": "appliedenergistics2:tile.SkyStoneStairBlock",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#495554"
     },
     {
       "name": "Skyroot Bed",
@@ -34207,6 +36470,12 @@ var colorpalette={
       "color": "#565640"
     },
     {
+      "name": "Slice\u0027N\u0027Splice",
+      "uid": "EnderIO:blockSliceAndSplice",
+      "meta": 0,
+      "color": "#4a4541"
+    },
+    {
       "name": "Slide Trap",
       "uid": "TwilightForest:tile.Slider",
       "meta": 0,
@@ -34229,6 +36498,12 @@ var colorpalette={
       "uid": "TwilightForest:tile.Slider",
       "meta": 3,
       "color": "#5c422c"
+    },
+    {
+      "name": "Slime Soul Crop",
+      "uid": "magicalcrops:magicalcrops_SoulCropSlime",
+      "meta": 0,
+      "color": "#26361f"
     },
     {
       "name": "Sludge",
@@ -34485,6 +36760,20 @@ var colorpalette={
       "color": "#fecc1f"
     },
     {
+      "name": "Solid Shield Block",
+      "uid": "rftools:noTickolidShieldBlock",
+      "meta": 0,
+      "color": "#c5d3d0",
+      "alpha": 0.4
+    },
+    {
+      "name": "Solid Shield Block",
+      "uid": "rftools:solidShieldBlock",
+      "meta": 0,
+      "color": "#c5d3d0",
+      "alpha": 0.4
+    },
+    {
       "name": "Sols ①",
       "uid": "Ztones:tile.solsBlock",
       "meta": 1,
@@ -34611,6 +36900,18 @@ var colorpalette={
       "color": "#58381e"
     },
     {
+      "name": "Soul Armour Forge",
+      "uid": "AWWayofTime:armourForge",
+      "meta": 0,
+      "color": "#5b1f1f"
+    },
+    {
+      "name": "Soul Binder",
+      "uid": "EnderIO:blockSoulBinder",
+      "meta": 0,
+      "color": "#4a4541"
+    },
+    {
       "name": "Soul Brick",
       "uid": "Botania:customBrick",
       "meta": 1,
@@ -34647,6 +36948,18 @@ var colorpalette={
       "color": "#5e8737"
     },
     {
+      "name": "Space Chamber Controller Block",
+      "uid": "rftools:spaceChamberControllerBlock",
+      "meta": 0,
+      "color": "#3a7584"
+    },
+    {
+      "name": "Space Chamber Corner Block",
+      "uid": "rftools:spaceChamberBlock",
+      "meta": 0,
+      "color": "#338a95"
+    },
+    {
       "name": "Space Oyster",
       "uid": "MorePlanet:space_oyster_close",
       "meta": 0,
@@ -34657,6 +36970,12 @@ var colorpalette={
       "uid": "MorePlanet:space_oyster_open",
       "meta": 0,
       "color": "#fc9c28"
+    },
+    {
+      "name": "Space Projector Block (WIP)",
+      "uid": "rftools:spaceProjectorBlock",
+      "meta": 0,
+      "color": "#1b2c2c"
     },
     {
       "name": "Space Station arrival block",
@@ -34681,13 +37000,19 @@ var colorpalette={
       "name": "Spatial IO Port",
       "uid": "appliedenergistics2:tile.BlockSpatialIOPort",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#485353"
     },
     {
       "name": "Spatial Pylon",
       "uid": "appliedenergistics2:tile.BlockSpatialPylon",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#485353"
+    },
+    {
+      "name": "Spawner",
+      "uid": "rftools:spawnerBlock",
+      "meta": 0,
+      "color": "#6b6c6f"
     },
     {
       "name": "Speaker",
@@ -34706,6 +37031,12 @@ var colorpalette={
       "uid": "computronics:computronics.speaker",
       "meta": 0,
       "color": "#696969"
+    },
+    {
+      "name": "Spectral Block",
+      "uid": "AWWayofTime:spectralBlock",
+      "meta": 0,
+      "color": "#080400"
     },
     {
       "name": "Spectral Platform",
@@ -34732,10 +37063,40 @@ var colorpalette={
       "color": "#858585"
     },
     {
+      "name": "Speed Crop",
+      "uid": "magicalcrops:magicalcrops_PotionCropSpeed",
+      "meta": 0,
+      "color": "#196f36"
+    },
+    {
+      "name": "Speed Rune",
+      "uid": "AWWayofTime:speedRune",
+      "meta": 0,
+      "color": "#5d6262"
+    },
+    {
+      "name": "Spell Conduit",
+      "uid": "AWWayofTime:blockConduit",
+      "meta": 0,
+      "color": "#710504"
+    },
+    {
+      "name": "Spell Table",
+      "uid": "AWWayofTime:blockHomHeart",
+      "meta": 0,
+      "color": "#a1312c"
+    },
+    {
       "name": "Spice Leaf Crop",
       "uid": "harvestcraft:pamspiceleafCrop",
       "meta": 0,
       "color": "#365629"
+    },
+    {
+      "name": "Spider Soul Crop",
+      "uid": "magicalcrops:magicalcrops_SoulCropSpider",
+      "meta": 0,
+      "color": "#26361f"
     },
     {
       "name": "Spin Thruster",
@@ -35055,6 +37416,12 @@ var colorpalette={
       "uid": "chisel:spruce_planks",
       "meta": 15,
       "color": "#5a4429"
+    },
+    {
+      "name": "Spruce Wood Planks",
+      "uid": "magicalcrops:BlastWoodPlanks",
+      "meta": 1,
+      "color": "#674d2e"
     },
     {
       "name": "Spruce Wood Planks",
@@ -35644,7 +38011,7 @@ var colorpalette={
       "name": "Stained Glass (White)",
       "uid": "MineFactoryReloaded:stainedglass.block",
       "meta": 0,
-      "color": "#5b5b5b",
+      "color": "#424e4d",
       "alpha": 0.4
     },
     {
@@ -36323,7 +38690,7 @@ var colorpalette={
       "name": "Stained Glass Pane (White)",
       "uid": "MineFactoryReloaded:stainedglass.pane",
       "meta": 0,
-      "color": "#5b5b5b",
+      "color": "#424e4d",
       "alpha": 0.4
     },
     {
@@ -36343,6 +38710,24 @@ var colorpalette={
       "uid": "BuildCraft|Silicon:laserTableBlock",
       "meta": 5,
       "color": "#2f2a30"
+    },
+    {
+      "name": "Standard Spell Augmentor",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement",
+      "meta": 11,
+      "color": "#7c007c"
+    },
+    {
+      "name": "Standard Spell Dampener",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement",
+      "meta": 6,
+      "color": "#7c007c"
+    },
+    {
+      "name": "Standard Spell Empowerer",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement",
+      "meta": 1,
+      "color": "#7c007c"
     },
     {
       "name": "Starfield Creator",
@@ -36553,10 +38938,94 @@ var colorpalette={
       "color": "#656565"
     },
     {
+      "name": "Stirling Generator",
+      "uid": "EnderIO:blockStirlingGenerator",
+      "meta": 0,
+      "color": "#485353"
+    },
+    {
+      "name": "Stone",
+      "uid": "magicalcrops:BlastBricks",
+      "meta": 4,
+      "color": "#7d7d7d"
+    },
+    {
       "name": "Stone",
       "uid": "minecraft:stone",
       "meta": 0,
       "color": "#7d7d7d"
+    },
+    {
+      "name": "Stone Brick",
+      "uid": "magicalcrops:TintedStoneBrick",
+      "meta": 0,
+      "color": "#7b7b7b"
+    },
+    {
+      "name": "Stone Brick",
+      "uid": "magicalcrops:TintedStoneBrick",
+      "meta": 1,
+      "color": "#8f5656"
+    },
+    {
+      "name": "Stone Brick",
+      "uid": "magicalcrops:TintedStoneBrick",
+      "meta": 2,
+      "color": "#8f8f56"
+    },
+    {
+      "name": "Stone Brick",
+      "uid": "magicalcrops:TintedStoneBrick",
+      "meta": 3,
+      "color": "#568f8f"
+    },
+    {
+      "name": "Stone Brick",
+      "uid": "magicalcrops:TintedStoneBrick",
+      "meta": 4,
+      "color": "#979797"
+    },
+    {
+      "name": "Stone Brick",
+      "uid": "magicalcrops:TintedStoneBrick",
+      "meta": 5,
+      "color": "#9c9c73"
+    },
+    {
+      "name": "Stone Brick",
+      "uid": "magicalcrops:TintedStoneBrick",
+      "meta": 6,
+      "color": "#56568f"
+    },
+    {
+      "name": "Stone Brick",
+      "uid": "magicalcrops:TintedStoneBrick",
+      "meta": 7,
+      "color": "#8f7556"
+    },
+    {
+      "name": "Stone Brick",
+      "uid": "magicalcrops:TintedStoneBrick",
+      "meta": 8,
+      "color": "#568f56"
+    },
+    {
+      "name": "Stone Brick",
+      "uid": "magicalcrops:TintedStoneBrick",
+      "meta": 9,
+      "color": "#567256"
+    },
+    {
+      "name": "Stone Brick",
+      "uid": "magicalcrops:TintedStoneBrick",
+      "meta": 10,
+      "color": "#77568e"
+    },
+    {
+      "name": "Stone Brick",
+      "uid": "magicalcrops:TintedStoneBrick",
+      "meta": 11,
+      "color": "#719b71"
     },
     {
       "name": "Stone Brick Stairs",
@@ -36574,25 +39043,25 @@ var colorpalette={
       "name": "Stone Bricks",
       "uid": "chisel:stonebricksmooth",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#4d5a59"
     },
     {
       "name": "Stone Bricks",
       "uid": "chisel:stonebricksmooth",
       "meta": 1,
-      "color": "#5c5c5c"
+      "color": "#4d5a59"
     },
     {
       "name": "Stone Bricks",
       "uid": "chisel:stonebricksmooth",
       "meta": 2,
-      "color": "#5c5c5c"
+      "color": "#4d5a59"
     },
     {
       "name": "Stone Bricks",
       "uid": "chisel:stonebricksmooth",
       "meta": 3,
-      "color": "#5c5c5c"
+      "color": "#4d5a59"
     },
     {
       "name": "Stone Bricks",
@@ -36665,6 +39134,12 @@ var colorpalette={
       "uid": "chisel:stonebricksmooth",
       "meta": 15,
       "color": "#767676"
+    },
+    {
+      "name": "Stone Bricks",
+      "uid": "magicalcrops:BlastBricks",
+      "meta": 0,
+      "color": "#7a7a7a"
     },
     {
       "name": "Stone Bricks",
@@ -36793,6 +39268,12 @@ var colorpalette={
       "color": "#3d2712"
     },
     {
+      "name": "Storage Scanner",
+      "uid": "rftools:storageScannerBlock",
+      "meta": 0,
+      "color": "#6b6c6f"
+    },
+    {
       "name": "Storm Aercloud",
       "uid": "aether_legacy:storm_aercloud",
       "meta": 0,
@@ -36836,6 +39317,12 @@ var colorpalette={
       "color": "#2c5509"
     },
     {
+      "name": "Strawberry Crop",
+      "uid": "magicalcrops:magicalcrops_CropStrawberry",
+      "meta": 0,
+      "color": "#5c7900"
+    },
+    {
       "name": "Strawberry Jelly Block",
       "uid": "MorePlanet:jelly_block",
       "meta": 2,
@@ -36854,6 +39341,12 @@ var colorpalette={
       "meta": 2,
       "color": "#f13f43",
       "alpha": 0.8156863
+    },
+    {
+      "name": "Strength Crop",
+      "uid": "magicalcrops:magicalcrops_PotionCropStrength",
+      "meta": 0,
+      "color": "#4f4f4e"
     },
     {
       "name": "Strengthened Glass",
@@ -37012,6 +39505,12 @@ var colorpalette={
       "alpha": 0.4
     },
     {
+      "name": "Sugar Cane Crop",
+      "uid": "magicalcrops:magicalcrops_CropSugarCane",
+      "meta": 0,
+      "color": "#95c067"
+    },
+    {
       "name": "Sugar Canes",
       "uid": "minecraft:reeds",
       "meta": 0,
@@ -37028,6 +39527,12 @@ var colorpalette={
       "uid": "MorePlanet:sirius_block",
       "meta": 8,
       "color": "#d6e690"
+    },
+    {
+      "name": "Sulfur Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropSulfur",
+      "meta": 0,
+      "color": "#405b34"
     },
     {
       "name": "Sulfur Ore",
@@ -37090,6 +39595,12 @@ var colorpalette={
       "color": "#f7f3d6"
     },
     {
+      "name": "Sunstone Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropSunstone",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
       "name": "Super-Laminar Fluiduct",
       "uid": "ThermalDynamics:ThermalDynamics_16",
       "meta": 6,
@@ -37110,6 +39621,13 @@ var colorpalette={
       "color": "#49423d"
     },
     {
+      "name": "Support Block",
+      "uid": "rftools:supportBlock",
+      "meta": 0,
+      "color": "#09e3f7",
+      "alpha": 0.4
+    },
+    {
       "name": "Swamp Petal Apothecary",
       "uid": "Botania:altar",
       "meta": 5,
@@ -37120,6 +39638,12 @@ var colorpalette={
       "uid": "harvestcraft:pamsweetpotatoCrop",
       "meta": 0,
       "color": "#335e12"
+    },
+    {
+      "name": "Sweetcorn Crop",
+      "uid": "magicalcrops:magicalcrops_CropSweetcorn",
+      "meta": 0,
+      "color": "#3e6419"
     },
     {
       "name": "Swiss Cheese (Unaged)",
@@ -37805,7 +40329,8 @@ var colorpalette={
       "name": "Technical Block",
       "uid": "chisel:technical",
       "meta": 12,
-      "color": "#5a5a59"
+      "color": "#4f5c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Technical Block",
@@ -37829,13 +40354,13 @@ var colorpalette={
       "name": "Technical Block",
       "uid": "chisel:technical4",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#4d5a5a"
     },
     {
       "name": "Technical Block",
       "uid": "chisel:technical4",
       "meta": 1,
-      "color": "#5c5c5c"
+      "color": "#4d5a5a"
     },
     {
       "name": "Technical Block",
@@ -37859,13 +40384,15 @@ var colorpalette={
       "name": "Technical Block",
       "uid": "chisel:technical4",
       "meta": 5,
-      "color": "#595959"
+      "color": "#4e5a5a",
+      "alpha": 0.99607843
     },
     {
       "name": "Technical Block",
       "uid": "chisel:technical4",
       "meta": 6,
-      "color": "#5a5a59"
+      "color": "#4e5a59",
+      "alpha": 0.99607843
     },
     {
       "name": "Technical Block",
@@ -37891,6 +40418,12 @@ var colorpalette={
       "uid": "GalacticraftCore:tile.telemetry",
       "meta": 0,
       "color": "#424342"
+    },
+    {
+      "name": "Telepad Block",
+      "uid": "EnderIO:blockTelePad",
+      "meta": 0,
+      "color": "#5c6262"
     },
     {
       "name": "Teleport Plate",
@@ -37954,6 +40487,12 @@ var colorpalette={
     },
     {
       "name": "Teleposer",
+      "uid": "AWWayofTime:blockTeleposer",
+      "meta": 0,
+      "color": "#5b4303"
+    },
+    {
+      "name": "Teleposer",
       "uid": "ProjRed|Expansion:projectred.expansion.machine2",
       "meta": 7,
       "color": "#0d1821"
@@ -37976,7 +40515,7 @@ var colorpalette={
       "name": "Temple Block",
       "uid": "chisel:templeblock",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#475454"
     },
     {
       "name": "Temple Block",
@@ -37994,7 +40533,8 @@ var colorpalette={
       "name": "Temple Block",
       "uid": "chisel:templeblock",
       "meta": 3,
-      "color": "#5a5a59"
+      "color": "#566564",
+      "alpha": 0.99607843
     },
     {
       "name": "Temple Block",
@@ -38167,6 +40707,12 @@ var colorpalette={
       "color": "#ccc9b5"
     },
     {
+      "name": "The Vat",
+      "uid": "EnderIO:blockVat",
+      "meta": 0,
+      "color": "#485353"
+    },
+    {
       "name": "Thermal Evaporation Block",
       "uid": "Mekanism:BasicBlock2",
       "meta": 0,
@@ -38294,6 +40840,12 @@ var colorpalette={
       "color": "#7aa5af"
     },
     {
+      "name": "Time Absorber",
+      "uid": "rftools:timeAbsorberBlock",
+      "meta": 0,
+      "color": "#859d42"
+    },
+    {
       "name": "Time Machine",
       "uid": "fossil:timeMachine",
       "meta": 0,
@@ -38305,6 +40857,12 @@ var colorpalette={
       "uid": "PeripheralsPlusPlus:timeSensor",
       "meta": 0,
       "color": "#65684d"
+    },
+    {
+      "name": "Timer",
+      "uid": "rftools:timerBlock",
+      "meta": 0,
+      "color": "#587069"
     },
     {
       "name": "Timewood",
@@ -38347,6 +40905,12 @@ var colorpalette={
       "uid": "ThermalFoundation:Storage",
       "meta": 1,
       "color": "#8aa5b6"
+    },
+    {
+      "name": "Tin Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropTin",
+      "meta": 0,
+      "color": "#405b34"
     },
     {
       "name": "Tin Decoration Block",
@@ -38634,13 +41198,19 @@ var colorpalette={
       "name": "Tiny TNT",
       "uid": "appliedenergistics2:tile.BlockTinyTNT",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#434e4d"
     },
     {
       "name": "Tomato Crop",
       "uid": "harvestcraft:pamtomatoCrop",
       "meta": 0,
       "color": "#1d4409"
+    },
+    {
+      "name": "Tomato Crop",
+      "uid": "magicalcrops:magicalcrops_CropTomato",
+      "meta": 0,
+      "color": "#5b7800"
     },
     {
       "name": "Tombstone",
@@ -38659,6 +41229,12 @@ var colorpalette={
       "uid": "customnpcs:npcTombstone",
       "meta": 2,
       "color": "#7d7d7d"
+    },
+    {
+      "name": "Tool Forger",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellParadigm",
+      "meta": 3,
+      "color": "#7c007c"
     },
     {
       "name": "Tool Rack",
@@ -38880,6 +41456,12 @@ var colorpalette={
       "uid": "minecraft:trapped_chest",
       "meta": 0,
       "color": "#9c7f4e"
+    },
+    {
+      "name": "Travel Anchor",
+      "uid": "EnderIO:blockTravelAnchor",
+      "meta": 0,
+      "color": "#3e504e"
     },
     {
       "name": "Treasure Chest",
@@ -39266,6 +41848,24 @@ var colorpalette={
       "color": "#30334e"
     },
     {
+      "name": "Unstable Spell Augmentor",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement",
+      "meta": 10,
+      "color": "#7c007c"
+    },
+    {
+      "name": "Unstable Spell Dampener",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement",
+      "meta": 5,
+      "color": "#7c007c"
+    },
+    {
+      "name": "Unstable Spell Empowerer",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement",
+      "meta": 0,
+      "color": "#7c007c"
+    },
+    {
       "name": "Unusual Hive",
       "uid": "MagicBees:hive",
       "meta": 1,
@@ -39290,6 +41890,12 @@ var colorpalette={
       "color": "#148214"
     },
     {
+      "name": "Uranium Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropUranium",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
       "name": "Uranium Ore",
       "uid": "IC2:uraniumOre",
       "meta": 0,
@@ -39306,6 +41912,12 @@ var colorpalette={
       "uid": "fossil:plant_vaccinium",
       "meta": 0,
       "color": "#7d8c49"
+    },
+    {
+      "name": "Vacuum Chest",
+      "uid": "EnderIO:blockVacuumChest",
+      "meta": 0,
+      "color": "#465151"
     },
     {
       "name": "Vacuum Hopper",
@@ -39877,17 +42489,23 @@ var colorpalette={
       "color": "#62767e"
     },
     {
+      "name": "Vibrant Capacitor Bank",
+      "uid": "EnderIO:blockCapBank",
+      "meta": 3,
+      "color": "#525f5f"
+    },
+    {
       "name": "Vibrant Quartz Glass",
       "uid": "appliedenergistics2:tile.BlockQuartzLamp",
       "meta": 0,
-      "color": "#5c5c5c",
+      "color": "#495554",
       "alpha": 0.4
     },
     {
       "name": "Vibration Chamber",
       "uid": "appliedenergistics2:tile.BlockVibrationChamber",
       "meta": 0,
-      "color": "#5c5c5c"
+      "color": "#485353"
     },
     {
       "name": "Vile Milk",
@@ -39920,6 +42538,12 @@ var colorpalette={
       "meta": 0,
       "color": "#6f6f6f",
       "alpha": 0.2
+    },
+    {
+      "name": "Vinteum Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropVinteum",
+      "meta": 0,
+      "color": "#405b34"
     },
     {
       "name": "Violet Aercloud",
@@ -40083,10 +42707,22 @@ var colorpalette={
       "color": "#6f6f6f"
     },
     {
+      "name": "Volcanic Block",
+      "uid": "rftools:volcanicBlock",
+      "meta": 0,
+      "color": "#b3712a"
+    },
+    {
       "name": "Volcanic Brick",
       "uid": "fossil:volcanicBrick",
       "meta": 0,
       "color": "#1f1f1f"
+    },
+    {
+      "name": "Volcanic Core",
+      "uid": "rftools:volcanicCoreBlock",
+      "meta": 0,
+      "color": "#ebb562"
     },
     {
       "name": "Volcanic Rock",
@@ -40315,10 +42951,22 @@ var colorpalette={
       "alpha": 0.24313726
     },
     {
+      "name": "Water Breathing Crop",
+      "uid": "magicalcrops:magicalcrops_PotionCropWater",
+      "meta": 0,
+      "color": "#116485"
+    },
+    {
       "name": "Water Chestnut Crop",
       "uid": "harvestcraft:pamwaterchestnutCrop",
       "meta": 0,
       "color": "#1b5a00"
+    },
+    {
+      "name": "Water Crop",
+      "uid": "magicalcrops:magicalcrops_ElementCropWater",
+      "meta": 0,
+      "color": "#405b34"
     },
     {
       "name": "Water Electrolyzer",
@@ -40477,6 +43125,12 @@ var colorpalette={
       "uid": "customnpcs:npcWeaponRack",
       "meta": 5,
       "color": "#3d2712"
+    },
+    {
+      "name": "Weather Obelisk",
+      "uid": "EnderIO:blockWeatherObelisk",
+      "meta": 0,
+      "color": "#4a4541"
     },
     {
       "name": "Weathered Deadrock",
@@ -40766,6 +43420,12 @@ var colorpalette={
     },
     {
       "name": "White Stained Clay",
+      "uid": "magicalcrops:BlastHardenedClay",
+      "meta": 0,
+      "color": "#d1b2a1"
+    },
+    {
+      "name": "White Stained Clay",
       "uid": "minecraft:stained_hardened_clay",
       "meta": 0,
       "color": "#d1b2a1"
@@ -40822,6 +43482,12 @@ var colorpalette={
       "alpha": 0.3
     },
     {
+      "name": "White Wool",
+      "uid": "magicalcrops:BlastWool",
+      "meta": 0,
+      "color": "#dddddd"
+    },
+    {
       "name": "Wicker Bundle",
       "uid": "witchery:wickerbundle",
       "meta": 0,
@@ -40847,6 +43513,12 @@ var colorpalette={
       "color": "#88873f"
     },
     {
+      "name": "Wind Generator",
+      "uid": "AWWayofTime:AlchemicalWizardrytile.blockSpellEffect",
+      "meta": 2,
+      "color": "#7c007c"
+    },
+    {
       "name": "Windmill",
       "uid": "ImmersiveEngineering:woodenDevice",
       "meta": 2,
@@ -40870,6 +43542,18 @@ var colorpalette={
       "meta": 0,
       "color": "#774437",
       "alpha": 0.4
+    },
+    {
+      "name": "Wireless Charger",
+      "uid": "EnderIO:blockWirelessCharger",
+      "meta": 0,
+      "color": "#455150"
+    },
+    {
+      "name": "Wireless Connector",
+      "uid": "ae2stuff:Wireless",
+      "meta": 0,
+      "color": "#302536"
     },
     {
       "name": "Wireless Lever",
@@ -40977,6 +43661,12 @@ var colorpalette={
       "color": "#12110f"
     },
     {
+      "name": "Wither Soul Crop",
+      "uid": "magicalcrops:magicalcrops_SoulCropWither",
+      "meta": 0,
+      "color": "#26361f"
+    },
+    {
       "name": "Wolf Altar",
       "uid": "witchery:wolfaltar",
       "meta": 0,
@@ -41006,6 +43696,78 @@ var colorpalette={
       "meta": 0,
       "color": "#a7957b",
       "alpha": 0.3
+    },
+    {
+      "name": "Wood Planks",
+      "uid": "magicalcrops:TintedWoodPlank",
+      "meta": 0,
+      "color": "#797979"
+    },
+    {
+      "name": "Wood Planks",
+      "uid": "magicalcrops:TintedWoodPlank",
+      "meta": 1,
+      "color": "#885d5d"
+    },
+    {
+      "name": "Wood Planks",
+      "uid": "magicalcrops:TintedWoodPlank",
+      "meta": 2,
+      "color": "#88885d"
+    },
+    {
+      "name": "Wood Planks",
+      "uid": "magicalcrops:TintedWoodPlank",
+      "meta": 3,
+      "color": "#5d8888"
+    },
+    {
+      "name": "Wood Planks",
+      "uid": "magicalcrops:TintedWoodPlank",
+      "meta": 4,
+      "color": "#8d8d8d"
+    },
+    {
+      "name": "Wood Planks",
+      "uid": "magicalcrops:TintedWoodPlank",
+      "meta": 5,
+      "color": "#919173"
+    },
+    {
+      "name": "Wood Planks",
+      "uid": "magicalcrops:TintedWoodPlank",
+      "meta": 6,
+      "color": "#5d5d88"
+    },
+    {
+      "name": "Wood Planks",
+      "uid": "magicalcrops:TintedWoodPlank",
+      "meta": 7,
+      "color": "#88745d"
+    },
+    {
+      "name": "Wood Planks",
+      "uid": "magicalcrops:TintedWoodPlank",
+      "meta": 8,
+      "color": "#5d885d"
+    },
+    {
+      "name": "Wood Planks",
+      "uid": "magicalcrops:TintedWoodPlank",
+      "meta": 9,
+      "color": "#5d725d"
+    },
+    {
+      "name": "Wood Planks",
+      "uid": "magicalcrops:TintedWoodPlank",
+      "meta": 10,
+      "color": "#765d87"
+    },
+    {
+      "name": "Wood Planks",
+      "uid": "magicalcrops:TintedWoodPlank",
+      "meta": 11,
+      "color": "#719071"
     },
     {
       "name": "Wooden Barrel",
@@ -41059,7 +43821,7 @@ var colorpalette={
       "name": "Wooden Crank",
       "uid": "appliedenergistics2:tile.BlockCrank",
       "meta": 0,
-      "color": "#5b5b5b"
+      "color": "#485353"
     },
     {
       "name": "Wooden Crate",
@@ -41370,6 +44132,12 @@ var colorpalette={
       "color": "#5d6b47"
     },
     {
+      "name": "Yellorite Crop",
+      "uid": "magicalcrops:magicalcrops_ModMagicCropYellorite",
+      "meta": 0,
+      "color": "#405b34"
+    },
+    {
       "name": "Yellow Air Balloon",
       "uid": "ArchimedesShips:balloon",
       "meta": 4,
@@ -41535,6 +44303,12 @@ var colorpalette={
     },
     {
       "name": "Yellow Stained Clay",
+      "uid": "magicalcrops:BlastHardenedClay",
+      "meta": 4,
+      "color": "#ba8523"
+    },
+    {
+      "name": "Yellow Stained Clay",
       "uid": "minecraft:stained_hardened_clay",
       "meta": 4,
       "color": "#ba8523"
@@ -41584,6 +44358,12 @@ var colorpalette={
       "uid": "Botania:unstableBlock",
       "meta": 4,
       "color": "#9b9b9b"
+    },
+    {
+      "name": "Yellow Wool",
+      "uid": "magicalcrops:BlastWool",
+      "meta": 12,
+      "color": "#b1a627"
     },
     {
       "name": "Yellow Wool",
@@ -42326,6 +45106,12 @@ var colorpalette={
       "color": "#b1b1b1"
     },
     {
+      "name": "Zombie Generator",
+      "uid": "EnderIO:blockZombieGenerator",
+      "meta": 0,
+      "color": "#485353"
+    },
+    {
       "name": "Zome ①",
       "uid": "Ztones:tile.zomeBlock",
       "meta": 1,
@@ -42878,6 +45664,12 @@ var colorpalette={
       "color": "#8a7467"
     },
     {
+      "name": "tile.EssenceOreNether.name",
+      "uid": "magicalcrops:magicalcrops_EssenceOreNether",
+      "meta": 0,
+      "color": "#6a4a3d"
+    },
+    {
       "name": "tile.TFLeaves3.4.name",
       "uid": "TwilightForest:tile.TFLeaves3",
       "meta": 0,
@@ -42956,6 +45748,12 @@ var colorpalette={
       "color": "#d4be07"
     },
     {
+      "name": "tile.blockConduitFacade.name",
+      "uid": "EnderIO:blockConduitFacade",
+      "meta": 0,
+      "color": "#000000"
+    },
+    {
       "name": "tile.blockDoorAlloy.name",
       "uid": "IC2:reinforcedDoorBlock",
       "meta": 0,
@@ -42972,6 +45770,12 @@ var colorpalette={
       "uid": "IC2:dynamiteStickWithRemote",
       "meta": 0,
       "color": "#a9472c"
+    },
+    {
+      "name": "tile.blockInhibitorObelisk.name",
+      "uid": "EnderIO:blockInhibitorObelisk",
+      "meta": 0,
+      "color": "#4a4541"
     },
     {
       "name": "tile.blockRedPlasma.name",
