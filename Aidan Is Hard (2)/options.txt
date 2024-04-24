@@ -9,9 +9,9 @@ particles:0
 bobView:true
 anaglyph3d:false
 advancedOpengl:false
-maxFps:260
+maxFps:150
 fboEnable:true
-difficulty:0
+difficulty:2
 fancyGraphics:true
 ao:2
 clouds:false
@@ -25,7 +25,7 @@ chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
 fullscreen:false
-enableVsync:false
+enableVsync:true
 hideServerAddress:false
 advancedItemTooltips:true
 pauseOnLostFocus:true
@@ -119,6 +119,15 @@ key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
+key_Glider Toggle:34
+key_Sound Locator:38
+key_Night Vision:25
+key_Goggles of Revealing:19
+key_Step Assist:0
+key_Speed:0
+key_Jump:0
+key_Yeta Wrench Mode:21
+key_Toggle Electromagnet:0
 key_[GC] Galaxy Map:50
 key_[GC] Open Spaceship Inventory:33
 key_[GC] Toggle Sensor Goggles Mode:37
