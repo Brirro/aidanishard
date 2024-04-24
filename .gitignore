@@ -1,0 +1,14 @@
+/saves/
+/crash-reports/
+/downloads/
+/dumps/
+/journeymap/
+/backups/
+/logs/
+/screenshots/
+/shaderpacks/
+/ops.json
+/options.txt
+/minecraftinstance.json
+/minetweaker.log
+/.curseclient
