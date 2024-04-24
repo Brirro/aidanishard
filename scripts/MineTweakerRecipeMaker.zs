@@ -12,6 +12,7 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<appliedenergistics2:tile.BlockController>);
 recipes.remove(<ProjectE:transmutation_table>);
 recipes.remove(<ImmersiveEngineering:material:14>);
 recipes.remove(<minecraft:potion>);
@@ -78,6 +79,9 @@ recipes.remove(<OpenBlocks:generic>);
 
 // ================================================================================
 //#MARKER REMOVE SHAPED
+recipes.removeShaped(<appliedenergistics2:tile.BlockController>, [[<ore:blockSteel>, <appliedenergistics2:tile.BlockQuartzGlass>, <ore:blockSteel>], [<appliedenergistics2:tile.BlockQuartzGlass>, <appliedenergistics2:item.ItemMultiMaterial:24>, <appliedenergistics2:tile.BlockQuartzGlass>], [<ore:crystalPureFluix>, <ore:blockMithril>, <ore:crystalPureFluix>]]);
+recipes.removeShaped(<appliedenergistics2:tile.BlockController>, [[<ore:blockSteel>, <appliedenergistics2:tile.BlockQuartzGlass>, <ore:blockSteel>], [<appliedenergistics2:tile.BlockQuartzGlass>, <appliedenergistics2:item.ItemMultiMaterial:24>, <appliedenergistics2:tile.BlockQuartzGlass>], [<ore:crystalPureFluix>, <ore:blockMithril>, <ore:crystalPureFluix>]]);
+recipes.removeShaped(<appliedenergistics2:tile.BlockController>, [[<ore:blockSteel>, <appliedenergistics2:tile.BlockQuartzGlass>, <ore:blockSteel>], [<appliedenergistics2:tile.BlockQuartzGlass>, <appliedenergistics2:item.ItemMultiMaterial:24>, <appliedenergistics2:tile.BlockQuartzGlass>], [<ore:crystalPureFluix>, <ore:blockMithril>, <ore:crystalPureFluix>]]);
 recipes.removeShaped(<ProjectE:item.pe_philosophers_stone>, [[<ore:alloyBasic>, <TwilightForest:item.fieryBlood>, <ore:alloyBasic>], [<TwilightForest:item.fieryBlood>, <RandomThings:ingredient:6>, <TwilightForest:item.fieryBlood>], [<ore:alloyBasic>, <TwilightForest:item.fieryBlood>, <ore:alloyBasic>]]);
 recipes.removeShaped(<ThermalFoundation:material:12>, [[null, <ore:ingotIron>, null], [<ore:ingotIron>, <ore:gearStone>, <ore:ingotIron>], [null, <ore:ingotIron>, null]]);
 recipes.removeShaped(<backpacks16840:backpack:15>, [[<ore:materialLeather>, <ore:materialLeather>, <ore:materialLeather>], [<ore:materialLeather>, <minecraft:dye:15>, <ore:materialLeather>], [<ore:materialLeather>, <minecraft:light_weighted_pressure_plate>, <ore:materialLeather>]]);
@@ -107,6 +111,7 @@ recipes.addShapeless(<aether_legacy:life_shard>, [<HardcoreQuesting:hearts:3>, <
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<appliedenergistics2:tile.BlockController>, [[<ore:blockSteel>, <appliedenergistics2:tile.BlockQuartzGlass>, <ore:blockSteel>], [<appliedenergistics2:tile.BlockQuartzGlass>, <appliedenergistics2:item.ItemMultiMaterial:24>, <appliedenergistics2:tile.BlockQuartzGlass>], [<ore:crystalPureFluix>, <ore:blockMithril>, <ore:crystalPureFluix>]]);
 recipes.addShaped(<ProjectE:item.pe_transmutation_tablet>, [[<ore:blockObsidian>, <ore:stone>, <ore:blockObsidian>], [<ore:stone>, <ProjectE:transmutation_table>, <ore:stone>], [<ore:blockObsidian>, <ore:stone>, <ore:blockObsidian>]]);
 recipes.addShaped(<ProjectE:transmutation_table>, [[<ore:blockObsidian>, <ore:stone>, <ore:blockObsidian>], [<ore:stone>, <ore:gemDiamond>, <ore:stone>], [<ore:blockObsidian>, <ore:stone>, <ore:blockObsidian>]]);
 recipes.addShaped(<minecraft:brewing_stand>, [[null, <ore:itemGoldenrod>, null], [<ore:slabStone>, <ore:slabStone>, <ore:slabStone>]]);

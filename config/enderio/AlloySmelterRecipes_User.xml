@@ -27,5 +27,16 @@
 -->
 
 <AlloySmelterRecipes>
-
+  <recipeGroup name="EnderIO" >
+    <recipe name="Vibrant Alloy" energyCost="10000" >
+      <input>
+        <itemStack modID="EnderIO" itemName="itemAlloy" itemMeta="1" /> <!-- Energetic Alloy -->
+        <itemStack modID="minecraft" itemName="ender_pearl" />
+        <itemStack oreDictionary="ingotPlatinum" />
+      </input>
+      <output>
+        <itemStack modID="EnderIO" itemName="itemAlloy" itemMeta="2" exp="1" />
+      </output>
+    </recipe>
+  </recipeGroup>
 </AlloySmelterRecipes>
