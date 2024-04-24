@@ -12,6 +12,44 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<PortalGun:PortalGunBlue>);
+recipes.remove(<ThermalExpansion:Frame:10>);
+recipes.remove(<Mekanism:MachineBlock:4>);
+recipes.remove(<Mekanism:MachineBlock3>);
+recipes.remove(<backpacks16840:quantum_chest>);
+recipes.remove(<EnderTanks:itemEnderBucket>);
+recipes.remove(<EnderTanks:itemEnderBucket:273>);
+recipes.remove(<EnderTanks:itemEnderBucket:546>);
+recipes.remove(<EnderTanks:itemEnderBucket:819>);
+recipes.remove(<EnderTanks:itemEnderBucket:1092>);
+recipes.remove(<EnderTanks:itemEnderBucket:1365>);
+recipes.remove(<EnderTanks:itemEnderBucket:1638>);
+recipes.remove(<EnderTanks:itemEnderBucket:1911>);
+recipes.remove(<EnderTanks:itemEnderBucket:2184>);
+recipes.remove(<EnderTanks:itemEnderBucket:4095>);
+recipes.remove(<EnderTanks:itemEnderBucket:3822>);
+recipes.remove(<EnderTanks:itemEnderBucket:3549>);
+recipes.remove(<EnderTanks:itemEnderBucket:3276>);
+recipes.remove(<EnderTanks:itemEnderBucket:3003>);
+recipes.remove(<EnderTanks:itemEnderBucket:2730>);
+recipes.remove(<EnderTanks:itemEnderBucket:2457>);
+recipes.remove(<EnderTanks:blockEnderTank:273>);
+recipes.remove(<EnderTanks:blockEnderTank:546>);
+recipes.remove(<EnderTanks:blockEnderTank:819>);
+recipes.remove(<EnderTanks:blockEnderTank:1092>);
+recipes.remove(<EnderTanks:blockEnderTank:1365>);
+recipes.remove(<EnderTanks:blockEnderTank:1638>);
+recipes.remove(<EnderTanks:blockEnderTank:1911>);
+recipes.remove(<EnderTanks:blockEnderTank:2184>);
+recipes.remove(<EnderTanks:blockEnderTank:2457>);
+recipes.remove(<EnderTanks:blockEnderTank:2730>);
+recipes.remove(<EnderTanks:blockEnderTank:3003>);
+recipes.remove(<EnderTanks:blockEnderTank:3276>);
+recipes.remove(<EnderTanks:blockEnderTank:3549>);
+recipes.remove(<EnderTanks:blockEnderTank:3822>);
+recipes.remove(<EnderTanks:blockEnderTank:4095>);
+recipes.remove(<EnderTanks:blockEnderTank:1638>);
+recipes.remove(<EnderTanks:blockEnderTank>);
 recipes.remove(<appliedenergistics2:tile.BlockController>);
 recipes.remove(<ProjectE:transmutation_table>);
 recipes.remove(<ImmersiveEngineering:material:14>);
@@ -111,6 +149,43 @@ recipes.addShapeless(<aether_legacy:life_shard>, [<HardcoreQuesting:hearts:3>, <
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<Mekanism:TeleportationCore>, [[<ore:ingotElectrotineAlloy>, <ore:alloyUltimate>, <ore:ingotElectrotineAlloy>], [<ore:ingotEnergeticAlloy>, <ore:itemDimensionalcore>, <ore:ingotEnergeticAlloy>], [<ore:ingotElectrotineAlloy>, <ore:alloyUltimate>, <ore:ingotElectrotineAlloy>]]);
+recipes.addShaped(<PortalGun:PortalGunBlue>, [[<ore:blockObsidian>, <ore:ingotSteel>, <ore:ingotSteel>], [<ore:itemPulsatingCrystal>, <ore:itemDimensionalcore>, <ore:ingotSteel>], [<ImmersiveEngineering:metal:7>, <minecraft:obsidian>, <ore:ingotSteel>]]);
+recipes.addShaped(<ThermalExpansion:Frame:10>, [[<ore:ingotEnderium>, <ThermalExpansion:Glass:1>, <ore:ingotEnderium>], [<ThermalExpansion:Glass:1>, <ore:itemDimensionalcore>, <ThermalExpansion:Glass:1>], [<ore:ingotEnderium>, <ThermalExpansion:Glass:1>, <ore:ingotEnderium>]]);
+recipes.addShaped(<backpacks16840:quantum_chest>, [[<ore:blockObsidian>, <ore:pearlEnderEye>, <ore:blockObsidian>], [<ore:pearlEnderEye>, <ore:itemDimensionalcore>, <ore:pearlEnderEye>], [<ore:blockObsidian>, <ore:pearlEnderEye>, <ore:blockObsidian>]]);
+recipes.addShaped(<EnderTanks:itemEnderBucket:4095>, [[<ore:itemBlazePowder>, <ore:ingotConductiveIron>, <ore:itemBlazePowder>], [<ore:ingotConductiveIron>, <ore:itemDimensionalcore>, <ore:ingotConductiveIron>], [<ore:itemBlazePowder>, <minecraft:wool:15>, <ore:itemBlazePowder>]]);
+recipes.addShaped(<EnderTanks:itemEnderBucket:3822>, [[<ore:itemBlazePowder>, <ore:ingotConductiveIron>, <ore:itemBlazePowder>], [<ore:ingotConductiveIron>, <ore:itemDimensionalcore>, <ore:ingotConductiveIron>], [<ore:itemBlazePowder>, <minecraft:wool:14>, <ore:itemBlazePowder>]]);
+recipes.addShaped(<EnderTanks:itemEnderBucket:3549>, [[<ore:itemBlazePowder>, <ore:ingotConductiveIron>, <ore:itemBlazePowder>], [<ore:ingotConductiveIron>, <ore:itemDimensionalcore>, <ore:ingotConductiveIron>], [<ore:itemBlazePowder>, <minecraft:wool:13>, <ore:itemBlazePowder>]]);
+recipes.addShaped(<EnderTanks:itemEnderBucket:3276>, [[<ore:itemBlazePowder>, <ore:ingotConductiveIron>, <ore:itemBlazePowder>], [<ore:ingotConductiveIron>, <ore:itemDimensionalcore>, <ore:ingotConductiveIron>], [<ore:itemBlazePowder>, <minecraft:wool:12>, <ore:itemBlazePowder>]]);
+recipes.addShaped(<EnderTanks:itemEnderBucket:3003>, [[<ore:itemBlazePowder>, <ore:ingotConductiveIron>, <ore:itemBlazePowder>], [<ore:ingotConductiveIron>, <ore:itemDimensionalcore>, <ore:ingotConductiveIron>], [<ore:itemBlazePowder>, <minecraft:wool:11>, <ore:itemBlazePowder>]]);
+recipes.addShaped(<EnderTanks:itemEnderBucket:2730>, [[<ore:itemBlazePowder>, <ore:ingotConductiveIron>, <ore:itemBlazePowder>], [<ore:ingotConductiveIron>, <ore:itemDimensionalcore>, <ore:ingotConductiveIron>], [<ore:itemBlazePowder>, <minecraft:wool:10>, <ore:itemBlazePowder>]]);
+recipes.addShaped(<EnderTanks:itemEnderBucket:2457>, [[<ore:itemBlazePowder>, <ore:ingotConductiveIron>, <ore:itemBlazePowder>], [<ore:ingotConductiveIron>, <ore:itemDimensionalcore>, <ore:ingotConductiveIron>], [<ore:itemBlazePowder>, <minecraft:wool:9>, <ore:itemBlazePowder>]]);
+recipes.addShaped(<EnderTanks:itemEnderBucket:2184>, [[<ore:itemBlazePowder>, <ore:ingotConductiveIron>, <ore:itemBlazePowder>], [<ore:ingotConductiveIron>, <ore:itemDimensionalcore>, <ore:ingotConductiveIron>], [<ore:itemBlazePowder>, <minecraft:wool:8>, <ore:itemBlazePowder>]]);
+recipes.addShaped(<EnderTanks:itemEnderBucket:1911>, [[<ore:itemBlazePowder>, <ore:ingotConductiveIron>, <ore:itemBlazePowder>], [<ore:ingotConductiveIron>, <ore:itemDimensionalcore>, <ore:ingotConductiveIron>], [<ore:itemBlazePowder>, <minecraft:wool:7>, <ore:itemBlazePowder>]]);
+recipes.addShaped(<EnderTanks:itemEnderBucket:1638>, [[<ore:itemBlazePowder>, <ore:ingotConductiveIron>, <ore:itemBlazePowder>], [<ore:ingotConductiveIron>, <ore:itemDimensionalcore>, <ore:ingotConductiveIron>], [<ore:itemBlazePowder>, <minecraft:wool:6>, <ore:itemBlazePowder>]]);
+recipes.addShaped(<EnderTanks:itemEnderBucket:1365>, [[<ore:itemBlazePowder>, <ore:ingotConductiveIron>, <ore:itemBlazePowder>], [<ore:ingotConductiveIron>, <ore:itemDimensionalcore>, <ore:ingotConductiveIron>], [<ore:itemBlazePowder>, <minecraft:wool:5>, <ore:itemBlazePowder>]]);
+recipes.addShaped(<EnderTanks:itemEnderBucket:1092>, [[<ore:itemBlazePowder>, <ore:ingotConductiveIron>, <ore:itemBlazePowder>], [<ore:ingotConductiveIron>, <ore:itemDimensionalcore>, <ore:ingotConductiveIron>], [<ore:itemBlazePowder>, <minecraft:wool:4>, <ore:itemBlazePowder>]]);
+recipes.addShaped(<EnderTanks:itemEnderBucket:819>, [[<ore:itemBlazePowder>, <ore:ingotConductiveIron>, <ore:itemBlazePowder>], [<ore:ingotConductiveIron>, <ore:itemDimensionalcore>, <ore:ingotConductiveIron>], [<ore:itemBlazePowder>, <minecraft:wool:3>, <ore:itemBlazePowder>]]);
+recipes.addShaped(<EnderTanks:itemEnderBucket:546>, [[<ore:itemBlazePowder>, <ore:ingotConductiveIron>, <ore:itemBlazePowder>], [<ore:ingotConductiveIron>, <ore:itemDimensionalcore>, <ore:ingotConductiveIron>], [<ore:itemBlazePowder>, <minecraft:wool:2>, <ore:itemBlazePowder>]]);
+recipes.addShaped(<EnderTanks:itemEnderBucket:273>, [[<ore:itemBlazePowder>, <ore:ingotConductiveIron>, <ore:itemBlazePowder>], [<ore:ingotConductiveIron>, <ore:itemDimensionalcore>, <ore:ingotConductiveIron>], [<ore:itemBlazePowder>, <minecraft:wool:1>, <ore:itemBlazePowder>]]);
+recipes.addShaped(<EnderTanks:itemEnderBucket>, [[<ore:itemBlazePowder>, <ore:ingotConductiveIron>, <ore:itemBlazePowder>], [<ore:ingotConductiveIron>, <ore:itemDimensionalcore>, <ore:ingotConductiveIron>], [<ore:itemBlazePowder>, <minecraft:wool>, <ore:itemBlazePowder>]]);
+recipes.addShaped(<EnderTanks:blockEnderTank:1365>, [[<ore:itemBlazeRod>, <minecraft:wool:5>, <ore:itemBlazeRod>], [<ore:blockObsidian>, <OpenBlocks:tank>, <ore:blockObsidian>], [<ore:itemBlazeRod>, <ore:itemDimensionalcore>, <ore:itemBlazeRod>]]);
+recipes.addShaped(<EnderTanks:blockEnderTank:1638>, [[<ore:itemBlazeRod>, <ore:blockCloth>, <ore:itemBlazeRod>], [<ore:blockObsidian>, <OpenBlocks:tank>, <ore:blockObsidian>], [<ore:itemBlazeRod>, <ore:itemDimensionalcore>, <ore:itemBlazeRod>]]);
+recipes.addShaped(<EnderTanks:blockEnderTank:4095>, [[<ore:itemBlazeRod>, <minecraft:wool:15>, <ore:itemBlazeRod>], [<ore:blockObsidian>, <OpenBlocks:tank>, <ore:blockObsidian>], [<ore:itemBlazeRod>, <ore:itemDimensionalcore>, <ore:itemBlazeRod>]]);
+recipes.addShaped(<EnderTanks:blockEnderTank:3822>, [[<ore:itemBlazeRod>, <minecraft:wool:14>, <ore:itemBlazeRod>], [<ore:blockObsidian>, <OpenBlocks:tank>, <ore:blockObsidian>], [<ore:itemBlazeRod>, <ore:itemDimensionalcore>, <ore:itemBlazeRod>]]);
+recipes.addShaped(<EnderTanks:blockEnderTank:3549>, [[<ore:itemBlazeRod>, <minecraft:wool:13>, <ore:itemBlazeRod>], [<ore:blockObsidian>, <OpenBlocks:tank>, <ore:blockObsidian>], [<ore:itemBlazeRod>, <ore:itemDimensionalcore>, <ore:itemBlazeRod>]]);
+recipes.addShaped(<EnderTanks:blockEnderTank:3276>, [[<ore:itemBlazeRod>, <minecraft:wool:12>, <ore:itemBlazeRod>], [<ore:blockObsidian>, <OpenBlocks:tank>, <ore:blockObsidian>], [<ore:itemBlazeRod>, <ore:itemDimensionalcore>, <ore:itemBlazeRod>]]);
+recipes.addShaped(<EnderTanks:blockEnderTank:3003>, [[<ore:itemBlazeRod>, <minecraft:wool:11>, <ore:itemBlazeRod>], [<ore:blockObsidian>, <OpenBlocks:tank>, <ore:blockObsidian>], [<ore:itemBlazeRod>, <ore:itemDimensionalcore>, <ore:itemBlazeRod>]]);
+recipes.addShaped(<EnderTanks:blockEnderTank:2730>, [[<ore:itemBlazeRod>, <minecraft:wool:10>, <ore:itemBlazeRod>], [<ore:blockObsidian>, <OpenBlocks:tank>, <ore:blockObsidian>], [<ore:itemBlazeRod>, <ore:itemDimensionalcore>, <ore:itemBlazeRod>]]);
+recipes.addShaped(<EnderTanks:blockEnderTank:2457>, [[<ore:itemBlazeRod>, <minecraft:wool:9>, <ore:itemBlazeRod>], [<ore:blockObsidian>, <OpenBlocks:tank>, <ore:blockObsidian>], [<ore:itemBlazeRod>, <ore:itemDimensionalcore>, <ore:itemBlazeRod>]]);
+recipes.addShaped(<EnderTanks:blockEnderTank:2184>, [[<ore:itemBlazeRod>, <minecraft:wool:8>, <ore:itemBlazeRod>], [<ore:blockObsidian>, <OpenBlocks:tank>, <ore:blockObsidian>], [<ore:itemBlazeRod>, <ore:itemDimensionalcore>, <ore:itemBlazeRod>]]);
+recipes.addShaped(<EnderTanks:blockEnderTank:1911>, [[<ore:itemBlazeRod>, <minecraft:wool:7>, <ore:itemBlazeRod>], [<ore:blockObsidian>, <OpenBlocks:tank>, <ore:blockObsidian>], [<ore:itemBlazeRod>, <ore:itemDimensionalcore>, <ore:itemBlazeRod>]]);
+recipes.addShaped(<EnderTanks:blockEnderTank:1092>, [[<ore:itemBlazeRod>, <minecraft:wool:4>, <ore:itemBlazeRod>], [<ore:blockObsidian>, <OpenBlocks:tank>, <ore:blockObsidian>], [<ore:itemBlazeRod>, <ore:itemDimensionalcore>, <ore:itemBlazeRod>]]);
+recipes.addShaped(<EnderTanks:blockEnderTank:819>, [[<ore:itemBlazeRod>, <minecraft:wool:3>, <ore:itemBlazeRod>], [<ore:blockObsidian>, <OpenBlocks:tank>, <ore:blockObsidian>], [<ore:itemBlazeRod>, <ore:itemDimensionalcore>, <ore:itemBlazeRod>]]);
+recipes.addShaped(<EnderTanks:blockEnderTank:546>, [[<ore:itemBlazeRod>, <minecraft:wool:2>, <ore:itemBlazeRod>], [<ore:blockObsidian>, <OpenBlocks:tank>, <ore:blockObsidian>], [<ore:itemBlazeRod>, <ore:itemDimensionalcore>, <ore:itemBlazeRod>]]);
+recipes.addShaped(<EnderTanks:blockEnderTank:273>, [[<ore:itemBlazeRod>, <minecraft:wool:1>, <ore:itemBlazeRod>], [<ore:blockObsidian>, <OpenBlocks:tank>, <ore:blockObsidian>], [<ore:itemBlazeRod>, <ore:itemDimensionalcore>, <ore:itemBlazeRod>]]);
+recipes.addShaped(<EnderTanks:blockEnderTank>, [[<ore:itemBlazeRod>, <minecraft:wool:0>, <ore:itemBlazeRod>], [<ore:blockObsidian>, <OpenBlocks:tank>, <ore:blockObsidian>], [<ore:itemBlazeRod>, <ore:itemDimensionalcore>, <ore:itemBlazeRod>]]);
+recipes.addShaped(<customthings:item:1>, [[<mod_Invasion:riftFlux>, <aether_legacy:aerogel>, <mod_Invasion:riftFlux>], [<ore:itemGhastTear>, <ore:pearlEnder>, <TwilightForest:item.fieryTears>], [<mod_Invasion:riftFlux>, <ore:ingotPlatinum>, <mod_Invasion:riftFlux>]]);
 recipes.addShaped(<appliedenergistics2:tile.BlockController>, [[<ore:blockSteel>, <appliedenergistics2:tile.BlockQuartzGlass>, <ore:blockSteel>], [<appliedenergistics2:tile.BlockQuartzGlass>, <appliedenergistics2:item.ItemMultiMaterial:24>, <appliedenergistics2:tile.BlockQuartzGlass>], [<ore:crystalPureFluix>, <ore:blockMithril>, <ore:crystalPureFluix>]]);
 recipes.addShaped(<ProjectE:item.pe_transmutation_tablet>, [[<ore:blockObsidian>, <ore:stone>, <ore:blockObsidian>], [<ore:stone>, <ProjectE:transmutation_table>, <ore:stone>], [<ore:blockObsidian>, <ore:stone>, <ore:blockObsidian>]]);
 recipes.addShaped(<ProjectE:transmutation_table>, [[<ore:blockObsidian>, <ore:stone>, <ore:blockObsidian>], [<ore:stone>, <ore:gemDiamond>, <ore:stone>], [<ore:blockObsidian>, <ore:stone>, <ore:blockObsidian>]]);
