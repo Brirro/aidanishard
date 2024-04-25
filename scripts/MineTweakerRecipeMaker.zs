@@ -12,6 +12,7 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<additionalpipes:chunkLoader>);
 recipes.remove(<PortalGun:PortalGunBlue>);
 recipes.remove(<ThermalExpansion:Frame:10>);
 recipes.remove(<Mekanism:MachineBlock:4>);
@@ -149,6 +150,7 @@ recipes.addShapeless(<aether_legacy:life_shard>, [<HardcoreQuesting:hearts:3>, <
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<additionalpipes:item.PipeItemsTeleport> * 2, [[<ore:glass>, <ore:glass>, <ore:glass>], [<ore:itemRiftemc>, <minecraft:ender_pearl>, <ore:itemRiftemc>], [<ore:glass>, <ore:glass>, <ore:glass>]]);
 recipes.addShaped(<Mekanism:TeleportationCore>, [[<ore:ingotElectrotineAlloy>, <ore:alloyUltimate>, <ore:ingotElectrotineAlloy>], [<ore:ingotEnergeticAlloy>, <ore:itemDimensionalcore>, <ore:ingotEnergeticAlloy>], [<ore:ingotElectrotineAlloy>, <ore:alloyUltimate>, <ore:ingotElectrotineAlloy>]]);
 recipes.addShaped(<PortalGun:PortalGunBlue>, [[<ore:blockObsidian>, <ore:ingotSteel>, <ore:ingotSteel>], [<ore:itemPulsatingCrystal>, <ore:itemDimensionalcore>, <ore:ingotSteel>], [<ImmersiveEngineering:metal:7>, <minecraft:obsidian>, <ore:ingotSteel>]]);
 recipes.addShaped(<ThermalExpansion:Frame:10>, [[<ore:ingotEnderium>, <ThermalExpansion:Glass:1>, <ore:ingotEnderium>], [<ThermalExpansion:Glass:1>, <ore:itemDimensionalcore>, <ThermalExpansion:Glass:1>], [<ore:ingotEnderium>, <ThermalExpansion:Glass:1>, <ore:ingotEnderium>]]);

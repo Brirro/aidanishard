@@ -102,19 +102,18 @@
             {"name": "ThermalFoundation:Ore", "metadata": 5, "weight": 80},
             {"name": "ThermalFoundation:Ore", "metadata": 4, "weight": 20}
         ],
-        "clusterSize": 3,
+        "clusterSize": 1,
         "numClusters": 1,
-        "minHeight": 5,
-        "maxHeight": 30,
+        "minHeight": 25,
+        "maxHeight": 0,
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [
             "all"
         ],
-        "dimensionRestriction": "blacklist",
+        "dimensionRestriction": "whitelist",
         "dimensions": [
-            -1,
-            1
+			0
         ]
     },
     "copperHigh": {
