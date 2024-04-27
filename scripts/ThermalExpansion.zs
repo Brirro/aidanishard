@@ -2,6 +2,23 @@
 mods.thermalexpansion.Smelter.removeRecipe(<ore:dustIron>, <ore:dustCoal>);
 mods.thermalexpansion.Smelter.removeRecipe(<ore:dustIron>, <ore:dustCharcoal>);
 
+# Remove some things
+recipes.remove(<ThermalFoundation:material:134>);
+recipes.remove(<ThermalFoundation:material:137>);
+recipes.remove(<ThermalFoundation:material:132>);
+recipes.remove(<ThermalFoundation:material:131>);
+recipes.remove(<ThermalFoundation:material:130>);
+recipes.remove(<ThermalFoundation:material:136>);
+recipes.remove(<ThermalFoundation:material:128>);
+recipes.remove(<ThermalFoundation:material:129>);
+recipes.remove(<ThermalFoundation:material:133>);
+recipes.remove(<ThermalFoundation:material:135>);
+recipes.remove(<ThermalFoundation:material:138>);
+recipes.remove(<ThermalFoundation:material:139>);
+recipes.remove(<ThermalFoundation:material:140>);
+recipes.remove(<ThermalExpansion:Frame:10>);
+recipes.remove(<ThermalExpansion:augment:256>);
+
 #Iron Ingot
 mods.thermalexpansion.Smelter.removeRecipe(<minecraft:iron_ingot>, <ore:dustCharcoal>);
 mods.thermalexpansion.Smelter.removeRecipe(<minecraft:iron_ingot>, <ore:dustCoal>);
@@ -15,6 +32,8 @@ mods.thermalexpansion.Smelter.removeRecipe(<minecraft:ender_pearl>, <ore:ingotEn
 
 mods.thermalexpansion.Pulverizer.removeRecipe(<ore:oreNickel>);
 mods.thermalexpansion.Pulverizer.addRecipe(2400, <ThermalFoundation:Ore:4>, <ThermalFoundation:material:36> * 2, <Mekanism:OtherDust>, 10);
+
+recipes.addShaped(<ThermalExpansion:Frame:10>, [[<ore:ingotEnderium>, <ThermalExpansion:Glass:1>, <ore:ingotEnderium>], [<ThermalExpansion:Glass:1>, <ore:itemDimensionalcore>, <ThermalExpansion:Glass:1>], [<ore:ingotEnderium>, <ThermalExpansion:Glass:1>, <ore:ingotEnderium>]]);
 
 # Change Gears?
 recipes.addShaped(<ThermalFoundation:material:137>, [[null, <ore:ingotBronze>, null], [<ore:ingotBronze>, <ore:thermalexpansion:machineIron>, <Forestry:ingotBronze>], [null, <ore:ingotBronze>, null]]);
@@ -33,19 +52,3 @@ recipes.addShaped(<ThermalFoundation:material:128>, [[null, <ore:ingotCopper>, n
 recipes.addShaped(<ThermalFoundation:material:129>, [[null, <ore:ingotTin>, null], [<ore:ingotTin>, <ore:gearStone>, <ore:ingotTin>], [null, <ore:ingotTin>, null]]);
 recipes.addShaped(<ThermalFoundation:material:12>, [[null, <ore:ingotIron>, null], [<ore:ingotIron>, <BuildCraft|Core:stoneGearItem>, <ore:ingotIron>], [null, <ore:ingotIron>, null]]);
 recipes.addShaped(<ThermalFoundation:material:13>, [[null, <ore:ingotGold>, null], [<ore:ingotGold>, <ThermalFoundation:material:12>, <ore:ingotGold>], [null, <ore:ingotGold>, null]]);
-# Remove some things
-recipes.remove(<ThermalFoundation:material:134>);
-recipes.remove(<ThermalFoundation:material:137>);
-recipes.remove(<ThermalFoundation:material:132>);
-recipes.remove(<ThermalFoundation:material:131>);
-recipes.remove(<ThermalFoundation:material:130>);
-recipes.remove(<ThermalFoundation:material:136>);
-recipes.remove(<ThermalFoundation:material:128>);
-recipes.remove(<ThermalFoundation:material:129>);
-recipes.remove(<ThermalFoundation:material:133>);
-recipes.remove(<ThermalFoundation:material:135>);
-recipes.remove(<ThermalFoundation:material:138>);
-recipes.remove(<ThermalFoundation:material:139>);
-recipes.remove(<ThermalFoundation:material:140>);
-recipes.remove(<ThermalExpansion:Frame:10>);
-recipes.remove(<ThermalExpansion:augment:256>);
