@@ -97,5 +97,28 @@
 -->
 
 <SAGMillRecipes>
+<recipeGroup name="Common Ores/Ingots/Blocks" >
+    <recipe name="NickelOre" energyCost="3600" >
+      <input>
+        <itemStack oreDictionary="oreNickel" />
+      </input>
+      <output>
+        <itemStack oreDictionary="dustNickel" number="2" />
+        <itemStack oreDictionary="dustDiamond" chance="0.1" />
+      </output>
+    </recipe>
+</recipeGroup>
+<recipeGroup name="Nether Ores" >
+	<recipe name="NetherNickel" energyCost="3200" >
+      <input>
+        <itemStack oreDictionary="oreNetherNickel" />
+      </input>
+      <output>
+        <itemStack oreDictionary="dustNickel" number="4" />
+        <itemStack oreDictionary="dustDiamond" chance="0.1" />
+        <itemStack modID="minecraft" itemName="netherrack" chance="0.15" />
+      </output>
+    </recipe>
+</recipeGroup>
 
 </SAGMillRecipes>

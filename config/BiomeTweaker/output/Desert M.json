@@ -21,7 +21,6 @@
   "Dictionary Types": [
     "HOT",
     "DRY",
-    "PLAINS",
     "SANDY"
   ],
   "BiomeManager Entries": {},
@@ -90,6 +89,12 @@
       "Weight": 10,
       "Min Group Count": 8,
       "Max Group Count": 8
+    },
+    {
+      "Entity Class": "com.emoniph.witchery.entity.EntitySpirit",
+      "Weight": 1,
+      "Min Group Count": 2,
+      "Max Group Count": 5
     }
   ],
   "Tweaked": false

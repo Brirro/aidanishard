@@ -20,7 +20,8 @@
   "Enable Snow": true,
   "Dictionary Types": [
     "COLD",
-    "HILLS",
+    "CONIFEROUS",
+    "FOREST",
     "SNOWY"
   ],
   "BiomeManager Entries": {},
@@ -54,6 +55,18 @@
       "Weight": 8,
       "Min Group Count": 4,
       "Max Group Count": 4
+    },
+    {
+      "Entity Class": "com.emoniph.witchery.entity.EntityCovenWitch",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.emoniph.witchery.entity.EntityGoblin",
+      "Weight": 4,
+      "Min Group Count": 1,
+      "Max Group Count": 3
     }
   ],
   "Spawnable Monsters": [
@@ -120,6 +133,18 @@
       "Weight": 10,
       "Min Group Count": 8,
       "Max Group Count": 8
+    },
+    {
+      "Entity Class": "com.emoniph.witchery.entity.EntitySpirit",
+      "Weight": 1,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.emoniph.witchery.entity.EntitySpirit",
+      "Weight": 1,
+      "Min Group Count": 2,
+      "Max Group Count": 5
     }
   ],
   "Tweaked": false

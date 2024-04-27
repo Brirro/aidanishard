@@ -21,9 +21,8 @@
   "Dictionary Types": [
     "HOT",
     "SPARSE",
-    "DRY",
     "SAVANNA",
-    "HILLS"
+    "PLAINS"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -56,6 +55,12 @@
       "Weight": 1,
       "Min Group Count": 2,
       "Max Group Count": 6
+    },
+    {
+      "Entity Class": "com.emoniph.witchery.entity.EntityGoblin",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 2
     }
   ],
   "Spawnable Monsters": [
@@ -100,6 +105,12 @@
       "Weight": 5,
       "Min Group Count": 1,
       "Max Group Count": 1
+    },
+    {
+      "Entity Class": "cofh.thermalfoundation.entity.monster.EntityBlitz",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 4
     }
   ],
   "Spawnable Water Creatures": [
@@ -116,6 +127,12 @@
       "Weight": 10,
       "Min Group Count": 8,
       "Max Group Count": 8
+    },
+    {
+      "Entity Class": "com.emoniph.witchery.entity.EntitySpirit",
+      "Weight": 1,
+      "Min Group Count": 2,
+      "Max Group Count": 5
     }
   ],
   "Tweaked": false

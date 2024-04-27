@@ -14,7 +14,7 @@
   "Foliage Color": "Not set. Check in-game.",
   "Water Color": "16777215",
   "Temperature": 0.5,
-  "Humidity": 0.5,
+  "Humidity": 1.0,
   "Water Tint": 16777215,
   "Enable Rain": true,
   "Enable Snow": false,
