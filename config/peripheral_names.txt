@@ -21,3 +21,5 @@ net.minecraft.tileentity.TileEntityHopper	hopper
 net.minecraft.tileentity.TileEntityNote	note_block
 net.minecraft.tileentity.TileEntitySign	sign
 net.minecraft.tileentity.TileEntitySkull	skull
+openccsensors.common.tileentity.TileEntitySensor	sensor
+openperipheral.addons.glasses.TileEntityGlassesBridge	openperipheral_bridge

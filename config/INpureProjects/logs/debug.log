@@ -238,7 +238,7 @@ obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicro
 Loading: ExtraUtilities.js
 Loading: BuildCraft.js
 getFacadesSize called. Returned: 4047
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 2886
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 3248
 Loading: Bibliocraft.js
 override called. Params: BiblioCraft, *, 0
 Regex match found! BiblioCraft:* matches BiblioCraft:Armor Stand.
@@ -375,7 +375,7 @@ Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
 getNumberOfTypes called. Returned: 2893
-override called. Params: appliedenergistics2, item.ItemFacade, 2771
+override called. Params: appliedenergistics2, item.ItemFacade, 2361
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js

@@ -12,6 +12,9 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<IC2:item.itemBatCrystal>);
+recipes.remove(<IC2:item.itemIngotAlloy>);
+recipes.remove(<Mekanism:BasicBlock:8>);
 recipes.remove(<PortalGun:LongFallBoot>);
 recipes.remove(<AWWayofTime:armourForge>);
 recipes.remove(<additionalpipes:chunkLoader>);
@@ -88,6 +91,9 @@ recipes.addShapeless(<aether_legacy:life_shard>, [<HardcoreQuesting:hearts:3>, <
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<IC2:item.itemBatCrystal:27>, [[<ore:ingotRedstoneAlloy>, <ore:ingotRedstoneAlloy>, <ore:ingotRedstoneAlloy>], [<ore:ingotRedstoneAlloy>, <appliedenergistics2:item.ItemMultiMaterial:1>, <ore:ingotRedstoneAlloy>], [<ore:ingotRedstoneAlloy>, <ore:ingotRedstoneAlloy>, <ore:ingotRedstoneAlloy>]]);
+recipes.addShaped(<IC2:item.itemIngotAlloy>, [[<ore:ingotSteel>, <ore:ingotSteel>, <ore:ingotSteel>], [<ore:ingotBronze>, <ore:ingotBronze>, <ore:ingotBronze>], [<ore:ingotLumium>, <ore:ingotLumium>, <ore:ingotLumium>]]);
+recipes.addShaped(<Mekanism:BasicBlock:8>, [[<Railcraft:part.plate:1>, <ore:blockGlassHardenedIlluminated>, <Railcraft:part.plate:1>], [<ore:blockGlassHardenedIlluminated>, <ore:ingotOsmium>, <ore:blockGlassHardenedIlluminated>], [<Railcraft:part.plate:1>, <ore:blockGlassHardenedIlluminated>, <Railcraft:part.plate:1>]]);
 recipes.addShaped(<PortalGun:LongFallBoot>, [[<ore:ingotRefinedIron>, <ore:blockObsidian>, <ore:ingotRefinedIron>], [<ore:ingotRefinedIron>, <aether_legacy:aerogel>, <ore:ingotRefinedIron>], [<ore:ingotRefinedIron>, <aether_legacy:aerogel>, <ore:ingotRefinedIron>]]);
 recipes.addShaped(<additionalpipes:item.PipeItemsTeleport> * 2, [[<ore:glass>, <ore:glass>, <ore:glass>], [<ore:itemRiftemc>, <minecraft:ender_pearl>, <ore:itemRiftemc>], [<ore:glass>, <ore:glass>, <ore:glass>]]);
 recipes.addShaped(<Mekanism:TeleportationCore>, [[<ore:ingotElectrotineAlloy>, <ore:alloyUltimate>, <ore:ingotElectrotineAlloy>], [<ore:ingotEnergeticAlloy>, <ore:itemDimensionalcore>, <ore:ingotEnergeticAlloy>], [<ore:ingotElectrotineAlloy>, <ore:alloyUltimate>, <ore:ingotElectrotineAlloy>]]);
@@ -124,7 +130,6 @@ recipes.addShaped(<TwilightForestPortalCatalyst:TwilightForestPortalCatalyst>, [
 recipes.addShaped(<Ztones:auroraBlock> * 8, [[<ore:blockGlass>, <ore:blockGlass>, null], [<ore:blockGlass>, <ore:dye>, <ore:blockGlass>], [null, <ore:blockGlass>, <ore:blockGlass>]]);
 recipes.addShaped(<PortalGun:PortalGunSpawner> * 2, [[<ore:ingotIron>, null, <ore:ingotIron>], [<ore:gemDiamond>, <ore:pearlEnder>, <ore:gemDiamond>], [<ore:ingotIron>, null, <ore:ingotIron>]]);
 recipes.addShaped(<PortalGun:LongFallBoots>, [[<PortalGun:LongFallBoot>, <IC2:item.itemArmorAlloyBoots>, <PortalGun:LongFallBoot>]]);
-recipes.addShaped(<Railcraft:machine.alpha:2>, [[<ore:dyeGreen>, <ore:blockObsidian>, <ore:dyeGreen>], [<ore:blockObsidian>, <ore:pearlEnder>, <ore:blockObsidian>], [<ore:dyeGreen>, <ore:blockObsidian>, <ore:dyeGreen>]]);
 recipes.addShaped(<secretroomsmod:CamoflaugePaste> * 9, [[<ore:dye>, <ore:dye>, <ore:dye>], [<ore:dye>, <minecraft:clay_ball>, <ore:dye>], [<ore:dye>, <ore:dye>, <ore:dye>]]);
 recipes.addShaped(<secretroomsmod:CamoflaugePaste> * 9, [[<ore:dye>, <ore:dye>, <ore:dye>], [<ore:dye>, <minecraft:dirt>, <ore:dye>], [<ore:dye>, <ore:dye>, <ore:dye>]]);
 recipes.addShaped(<secretroomsmod:CamoflaugePaste> * 9, [[<ore:dye>, <ore:dye>, <ore:dye>], [<ore:dye>, <minecraft:sand>, <ore:dye>], [<ore:dye>, <ore:dye>, <ore:dye>]]);
