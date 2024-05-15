@@ -12,6 +12,17 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<magicalcrops:MinicioSeeds>);
+recipes.remove(<magicalcrops:MagicalFertilizer>);
+recipes.remove(<Mekanism:ControlCircuit:2>);
+recipes.remove(<IC2:blockMachine:14>);
+recipes.remove(<appliedenergistics2:tile.BlockCraftingUnit>);
+recipes.remove(<MineFactoryReloaded:machine.2:1>);
+recipes.remove(<MineFactoryReloaded:machine.2>);
+recipes.remove(<rftools:flightEModuleItem>);
+recipes.remove(<dimdoors:Stabilized Rift Signature>);
+recipes.remove(<dimdoors:Rift Signature>);
+recipes.remove(<OpenBlocks:hangglider>);
 recipes.remove(<IC2:item.itemBatCrystal>);
 recipes.remove(<IC2:item.itemIngotAlloy>);
 recipes.remove(<Mekanism:BasicBlock:8>);
@@ -28,10 +39,6 @@ recipes.remove(<ImmersiveEngineering:material:14>);
 recipes.remove(<minecraft:potion>);
 recipes.remove(<ProjectE:item.pe_philosophers_stone>);
 recipes.remove(<fossil:obsidianSpikes>);
-recipes.remove(<AgriCraft:waterChannel>);
-recipes.remove(<AgriCraft:waterChannelFull>);
-recipes.remove(<AgriCraft:channelValve>);
-recipes.remove(<AgriCraft:sprinkler>);
 recipes.remove(<BuildCraft|Core:goldGearItem>);
 recipes.remove(<BuildCraft|Core:ironGearItem>);
 recipes.remove(<ThermalFoundation:material:12>);
@@ -87,10 +94,21 @@ recipes.removeShaped(<BuildCraft|Builders:machineBlock>, [[<ore:gearCopper>, <Th
 //#MARKER ADD SHAPELESS
 recipes.addShapeless(<minecraft:potion:16> * 3, [<minecraft:potion>, <minecraft:diamond>, <minecraft:potion>, <minecraft:potion>]);
 recipes.addShapeless(<IC2NuclearControl:ItemTimeCard>, [<IC2:item.itemPartCircuit>, <minecraft:clock>]);
-recipes.addShapeless(<aether_legacy:life_shard>, [<HardcoreQuesting:hearts:3>, <ore:itemNeowslament>]);
+recipes.addShapeless(<minecraft:wool> * 4, [<magicalcrops:SheepEssence>, <magicalcrops:SheepEssence>, <magicalcrops:SheepEssence>, <magicalcrops:SheepEssence>]);
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<magicalcrops:MinicioSeeds>, [[<magicalcrops:essence_storage>, <ore:ingotPlatinum>, <magicalcrops:essence_storage>], [<ore:ingotMithril>, <ore:listAllseed>, <ore:ingotMithril>], [<magicalcrops:essence_storage>, <ore:ingotPlatinum>, <magicalcrops:essence_storage>]]);
+recipes.addShaped(<minecraft:ender_pearl>, [[<magicalcrops:EndermanEssence>, <magicalcrops:EndermanEssence>, <magicalcrops:EndermanEssence>], [<magicalcrops:EndermanEssence>, <magicalcrops:EndermanEssence>, <magicalcrops:EndermanEssence>], [<magicalcrops:EndermanEssence>, <magicalcrops:EndermanEssence>, <magicalcrops:EndermanEssence>]]);
+recipes.addShaped(<Mekanism:ControlCircuit:2>, [[<ore:ingotSteel>, <ore:ingotEnderium>, <ore:ingotSteel>], [<ore:alloyElite>, <ore:circuitAdvanced>, <ore:alloyElite>], [<ore:ingotSteel>, <ore:ingotEnderium>, <ore:ingotSteel>]]);
+recipes.addShaped(<IC2:blockMachine:14>, [[<ore:gearLumium>, <IC2:item.itemPartCircuitAdv>, <ore:gearLumium>], [<IC2:blockMachine:12>, <IC2:item.itemBatLamaCrystal:27>, <IC2:blockMachine:12>], [<ore:gearLumium>, <IC2:item.itemPartCircuitAdv>, <ore:gearLumium>]]);
+recipes.addShaped(<appliedenergistics2:tile.BlockCraftingUnit>, [[<ore:ingotMithril>, <appliedenergistics2:item.ItemMultiMaterial:23>, <ore:ingotMithril>], [<IC2:item.ic2cable:8>, <appliedenergistics2:item.ItemMultiMaterial:22>, <IC2:item.ic2cable:8>], [<ore:ingotMithril>, <appliedenergistics2:item.ItemMultiMaterial:23>, <ore:ingotMithril>]]);
+recipes.addShaped(<MineFactoryReloaded:machine.2:1>, [[<Mekanism:Polyethene:2>, <MineFactoryReloaded:pinkslime:1>, <Mekanism:Polyethene:2>], [<ore:blockGlassHardenedIlluminated>, <ThermalExpansion:Light>, <ore:blockGlassHardenedIlluminated>], [<ThermalExpansion:material:3>, <ore:ingotPlatinum>, <ThermalExpansion:material:3>]]);
+recipes.addShaped(<MineFactoryReloaded:machine.2>, [[<Mekanism:Polyethene:2>, <ThermalExpansion:Light>, <Mekanism:Polyethene:2>], [<ThermalExpansion:material:1>, <ThermalExpansion:Light>, <ThermalExpansion:material:1>], [<ore:ingotPlatinum>, <ore:gearMithril>, <ore:ingotPlatinum>]]);
+recipes.addShaped(<AWWayofTime:largeBloodStoneBrick> * 4, [[<TwilightForest:item.fieryBlood>, <AWWayofTime:weakBloodShard>, <TwilightForest:item.fieryBlood>], [<AWWayofTime:weakBloodShard>, <ore:ingotMithril>, <AWWayofTime:weakBloodShard>], [<TwilightForest:item.fieryBlood>, <AWWayofTime:weakBloodShard>, <TwilightForest:item.fieryBlood>]]);
+recipes.addShaped(<rftools:flightEModuleItem>, [[<aether_legacy:aerogel>, <Mekanism:Polyethene:2>, <aether_legacy:aerogel>], [<ore:ingotHOPGraphite>, <ore:ingotPlatinum>, <ore:ingotHOPGraphite>], [<aether_legacy:aerogel>, <Mekanism:Polyethene:2>, <aether_legacy:aerogel>]]);
+recipes.addShaped(<dimdoors:Stabilized Rift Signature>, [[<dimdoors:World Thread>, <ore:ingotIron>, <dimdoors:World Thread>], [<ore:ingotIron>, <ore:itemDimensionalcore>, <ore:ingotIron>], [<dimdoors:World Thread>, <ore:ingotIron>, <dimdoors:World Thread>]]);
+recipes.addShaped(<dimdoors:Rift Signature>, [[null, <minecraft:iron_ingot>, null], [<ore:ingotIron>, <ore:itemDimensionalcore>, <ore:ingotIron>], [null, <ore:ingotIron>, null]]);
 recipes.addShaped(<IC2:item.itemBatCrystal:27>, [[<ore:ingotRedstoneAlloy>, <ore:ingotRedstoneAlloy>, <ore:ingotRedstoneAlloy>], [<ore:ingotRedstoneAlloy>, <appliedenergistics2:item.ItemMultiMaterial:1>, <ore:ingotRedstoneAlloy>], [<ore:ingotRedstoneAlloy>, <ore:ingotRedstoneAlloy>, <ore:ingotRedstoneAlloy>]]);
 recipes.addShaped(<IC2:item.itemIngotAlloy>, [[<ore:ingotSteel>, <ore:ingotSteel>, <ore:ingotSteel>], [<ore:ingotBronze>, <ore:ingotBronze>, <ore:ingotBronze>], [<ore:ingotLumium>, <ore:ingotLumium>, <ore:ingotLumium>]]);
 recipes.addShaped(<Mekanism:BasicBlock:8>, [[<Railcraft:part.plate:1>, <ore:blockGlassHardenedIlluminated>, <Railcraft:part.plate:1>], [<ore:blockGlassHardenedIlluminated>, <ore:ingotOsmium>, <ore:blockGlassHardenedIlluminated>], [<Railcraft:part.plate:1>, <ore:blockGlassHardenedIlluminated>, <Railcraft:part.plate:1>]]);
@@ -122,10 +140,6 @@ recipes.addShaped(<Railcraft:part.gear:2>, [[null, <ore:ingotSteel>, null], [<or
 recipes.addShaped(<Railcraft:part.gear>, [[null, <ore:nuggetGold>, null], [<ore:nuggetGold>, <ore:thermalexpansion:machineIron>, <ore:nuggetGold>], [null, <minecraft:gold_nugget>, null]]);
 recipes.addShaped(<ProjectE:dm_furnace>, [[<ProjectE:matter_block>, <ProjectE:matter_block>, <ProjectE:matter_block>], [<ProjectE:matter_block>, <IC2:blockMachine:1>, <ProjectE:matter_block>], [<ProjectE:matter_block>, <ProjectE:matter_block>, <ProjectE:matter_block>]]);
 recipes.addShaped(<IC2:blockMachine:1>, [[null, <minecraft:iron_ingot>, null], [<ore:ingotIron>, null, <ore:ingotIron>], [<ore:ingotIron>, <minecraft:furnace>, <ore:ingotIron>]]);
-recipes.addShaped(<OpenBlocks:generic>, [[<aether_legacy:aercloud>, <ore:stickWood>, null], [<aether_legacy:aercloud>, <aether_legacy:aercloud>, <ore:stickWood>], [<aether_legacy:aercloud>, <aether_legacy:aercloud>, <aether_legacy:aercloud>]]);
-recipes.addShaped(<OpenBlocks:generic>, [[<ore:materialHardenedleather>, <ore:stickWood>, null], [<ore:materialHardenedleather>, <ore:materialHardenedleather>, <ore:stickWood>], [<ore:materialHardenedleather>, <ore:materialHardenedleather>, <ore:materialHardenedleather>]]);
-recipes.addShaped(<OpenBlocks:generic> * 2, [[<aether_legacy:pink_aercloud:1>, <ore:stickWood>, null], [<aether_legacy:aercloud>, <aether_legacy:pink_aercloud:1>, <ore:stickWood>], [<aether_legacy:aercloud>, <aether_legacy:aercloud>, <aether_legacy:pink_aercloud:1>]]);
-recipes.addShaped(<OpenBlocks:generic> * 6, [[<aether_legacy:aerogel>, <ore:stickWood>, null], [<aether_legacy:aerogel>, <aether_legacy:aerogel>, <ore:stickWood>], [<aether_legacy:aerogel>, <aether_legacy:aerogel>, <aether_legacy:aerogel>]]);
 recipes.addShaped(<TwilightForestPortalCatalyst:TwilightForestPortalCatalyst>, [[<ore:gemDiamond>, <ore:gemDiamond>, <ore:gemDiamond>], [<ore:gemDiamond>, <ore:ingotFiery>, <ore:gemDiamond>], [<ore:gemDiamond>, <TwilightForest:item.nagaScale>, <ore:gemDiamond>]]);
 recipes.addShaped(<Ztones:auroraBlock> * 8, [[<ore:blockGlass>, <ore:blockGlass>, null], [<ore:blockGlass>, <ore:dye>, <ore:blockGlass>], [null, <ore:blockGlass>, <ore:blockGlass>]]);
 recipes.addShaped(<PortalGun:PortalGunSpawner> * 2, [[<ore:ingotIron>, null, <ore:ingotIron>], [<ore:gemDiamond>, <ore:pearlEnder>, <ore:gemDiamond>], [<ore:ingotIron>, null, <ore:ingotIron>]]);
