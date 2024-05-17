@@ -1,0 +1,5 @@
+{
+	type = "batchadd"
+	operation = "batch"
+	entry = "potioningredients"
+}

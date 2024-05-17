@@ -1,6 +1,28 @@
 {
-  "_name": "EnderDragon",
-  "drops": [],
-  "pre_stats": [],
-  "stats": []
+    "_name": "EnderDragon",
+    "drops": [],
+    "pre_stats": [],
+    "stats": [
+        {
+            "function": "modifier",
+            "attribute": "generic.maxHealth",
+            "value": 1000,
+            "operator": 1,
+            "override": true
+        },
+        {
+            "_comment": "strength",
+            "function": "potion",
+            "id": 5,
+            "amplifier": 3,
+            "ambient": true
+        },
+        {
+            "_comment": "speed",
+            "function": "potion",
+            "id": 1,
+            "amplifier": 3,
+            "ambient": true
+        }
+    ]
 }

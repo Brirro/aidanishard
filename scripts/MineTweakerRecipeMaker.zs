@@ -12,6 +12,32 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<IC2NuclearControl:ItemTextCard>);
+recipes.remove(<IC2NuclearControl:blockNuclearControlMain:9>);
+recipes.remove(<magicalcrops:GhastSeeds>);
+recipes.remove(<magicalcrops:EndermanSeeds>);
+recipes.remove(<magicalcrops:NickelSeeds>);
+recipes.remove(<magicalcrops:DiamondSeeds>);
+recipes.remove(<magicalcrops:EmeraldSeeds>);
+recipes.remove(<magicalcrops:CertusQuartzSeeds>);
+recipes.remove(<magicalcrops:RedstoneSeeds>);
+recipes.remove(<magicalcrops:SilverSeeds>);
+recipes.remove(<magicalcrops:OsmiumSeeds>);
+recipes.remove(<magicalcrops:GoldSeeds>);
+recipes.remove(<magicalcrops:ExperienceSeeds>);
+recipes.remove(<magicalcrops:QuartzSeeds>);
+recipes.remove(<magicalcrops:TinSeeds>);
+recipes.remove(<magicalcrops:LeadSeeds>);
+recipes.remove(<magicalcrops:IronSeeds>);
+recipes.remove(<magicalcrops:CopperSeeds>);
+recipes.remove(<magicalcrops:CoalSeeds>);
+recipes.remove(<magicalcrops:LapisSeeds>);
+recipes.remove(<magicalcrops:InfusionStoneStrong>);
+recipes.remove(<magicalcrops:InfusionStoneExtreme>);
+recipes.remove(<magicalcrops:InfusionStoneRegular>);
+recipes.remove(<magicalcrops:InfusionStoneExtreme>);
+recipes.remove(<magicalcrops:InfusionStoneMaster>);
+recipes.remove(<magicalcrops:InfusionStoneWeak>);
 recipes.remove(<magicalcrops:MinicioSeeds>);
 recipes.remove(<magicalcrops:MagicalFertilizer>);
 recipes.remove(<Mekanism:ControlCircuit:2>);
@@ -92,12 +118,37 @@ recipes.removeShaped(<BuildCraft|Builders:machineBlock>, [[<ore:gearCopper>, <Th
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
+recipes.addShapeless(<customthings:zoinkhoeHoe>, [<ore:natureMaterial>, <ore:natureMaterial>, <ore:itemNeowslament>, <ore:cropEggplant>]);
+recipes.addShapeless(<customthings:averyshovelShovel>, [<minecraft:diamond_shovel>, <MekanismTools:ObsidianShovel>, <Forestry:bronzeShovel>, <MekanismTools:GlowstoneShovel>, <ore:itemNeowslament>, <ThermalFoundation:tool.shovelPlatinum>, <fossil:scarabShovel>, <ThermalFoundation:tool.shovelNickel>, <TwilightForest:item.steeleafShovel>]);
+recipes.addShapeless(<customthings:danpicPickaxe>, [<ThermalFoundation:tool.pickaxePlatinum>, <aether_legacy:amplified_zanite_pickaxe>, <MekanismTools:OsmiumPickaxe>, <fossil:scarabPickAxe>, <EnderIO:item.darkSteel_pickaxe>, <aether_legacy:tipped_gravitite_pickaxe>, <ore:itemNeowslament>, <Forestry:bronzePickaxe>, <Botania:manasteelPick>]);
 recipes.addShapeless(<minecraft:potion:16> * 3, [<minecraft:potion>, <minecraft:diamond>, <minecraft:potion>, <minecraft:potion>]);
 recipes.addShapeless(<IC2NuclearControl:ItemTimeCard>, [<IC2:item.itemPartCircuit>, <minecraft:clock>]);
 recipes.addShapeless(<minecraft:wool> * 4, [<magicalcrops:SheepEssence>, <magicalcrops:SheepEssence>, <magicalcrops:SheepEssence>, <magicalcrops:SheepEssence>]);
+recipes.addShapeless(<customthings:aidanswordSword>, [<TwilightForest:item.fierySword>, <ThermalFoundation:tool.swordPlatinum>, <TwilightForest:item.iceSword>, <EnderIO:item.darkSteel_sword>, <ore:itemNeowslament>, <aether_legacy:tipped_divineral_sword>, <Botania:terraSword>, <fossil:scarabSword>, <mod_Invasion:infusedSword>]);
+
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<IC2NuclearControl:ItemTextCard>, [[null, <IC2:item.ic2cable:1>, null], [<minecraft:paper>, <ore:dye>, <minecraft:paper>], [null, <IC2:item.ic2cable:1>, null]]);
+recipes.addShaped(<IC2NuclearControl:blockNuclearControlMain:9>, [[<ore:paneGlass>, <ore:paneGlass>, <ore:paneGlassWhite>], [<IC2:item.ic2cable:2>, <ore:dye>, <IC2:item.ic2cable:2>], [<IC2:item.itemPartCarbonPlate>, <IC2:item.itemPartCircuitAdv>, <IC2:item.itemPartCarbonPlate>]]);
+recipes.addShaped(<magicalcrops:EndermanSeeds>, [[<ore:ingotPhasedIron>, <magicalcrops:5ZivicioEssence>, <ore:ingotPhasedIron>], [<magicalcrops:5ZivicioEssence>, <magicalcrops:CreeperSeeds>, <magicalcrops:5ZivicioEssence>], [<ore:ingotPhasedIron>, <magicalcrops:5ZivicioEssence>, <ore:ingotPhasedIron>]]);
+recipes.addShaped(<magicalcrops:GhastSeeds>, [[<ore:reagentTear>, <magicalcrops:5ZivicioEssence>, <ore:reagentTear>], [<magicalcrops:5ZivicioEssence>, <magicalcrops:CreeperSeeds>, <magicalcrops:5ZivicioEssence>], [<ore:reagentTear>, <magicalcrops:5ZivicioEssence>, <ore:reagentTear>]]);
+recipes.addShaped(<magicalcrops:EmeraldSeeds>, [[<denseores:block0:4>, <magicalcrops:5ZivicioEssence>, <denseores:block0:4>], [<magicalcrops:5ZivicioEssence>, <magicalcrops:MinicioSeeds>, <magicalcrops:5ZivicioEssence>], [<denseores:block0:4>, <magicalcrops:5ZivicioEssence>, <denseores:block0:4>]]);
+recipes.addShaped(<magicalcrops:DiamondSeeds>, [[<denseores:block0:3>, <magicalcrops:5ZivicioEssence>, <denseores:block0:3>], [<magicalcrops:5ZivicioEssence>, <magicalcrops:MinicioSeeds>, <magicalcrops:5ZivicioEssence>], [<denseores:block0:3>, <magicalcrops:5ZivicioEssence>, <denseores:block0:3>]]);
+recipes.addShaped(<magicalcrops:NickelSeeds>, [[<denseores:block0:12>, <magicalcrops:5ZivicioEssence>, <ore:denseoreNickel>], [<magicalcrops:5ZivicioEssence>, <magicalcrops:MinicioSeeds>, <magicalcrops:5ZivicioEssence>], [<ore:denseoreNickel>, <magicalcrops:5ZivicioEssence>, <denseores:block0:12>]]);
+recipes.addShaped(<magicalcrops:CertusQuartzSeeds>, [[<denseores:block0:7>, <magicalcrops:4ImperioEssence>, <denseores:block0:5>], [<magicalcrops:4ImperioEssence>, <magicalcrops:MinicioSeeds>, <magicalcrops:4ImperioEssence>], [<denseores:block0:5>, <magicalcrops:4ImperioEssence>, <denseores:block0:7>]]);
+recipes.addShaped(<magicalcrops:GoldSeeds>, [[<denseores:block0:1>, <magicalcrops:4ImperioEssence>, <denseores:block0:1>], [<magicalcrops:4ImperioEssence>, <magicalcrops:MinicioSeeds>, <magicalcrops:4ImperioEssence>], [<denseores:block0:1>, <magicalcrops:4ImperioEssence>, <denseores:block0:1>]]);
+recipes.addShaped(<magicalcrops:OsmiumSeeds>, [[<denseores:block0:14>, <magicalcrops:4ImperioEssence>, <denseores:block0:14>], [<magicalcrops:4ImperioEssence>, <magicalcrops:MinicioSeeds>, <magicalcrops:4ImperioEssence>], [<denseores:block0:14>, <magicalcrops:4ImperioEssence>, <denseores:block0:14>]]);
+recipes.addShaped(<magicalcrops:SilverSeeds>, [[<denseores:block0:10>, <magicalcrops:4ImperioEssence>, <denseores:block0:10>], [<magicalcrops:4ImperioEssence>, <magicalcrops:MinicioSeeds>, <magicalcrops:4ImperioEssence>], [<denseores:block0:10>, <magicalcrops:4ImperioEssence>, <denseores:block0:10>]]);
+recipes.addShaped(<magicalcrops:RedstoneSeeds>, [[<ore:denseoreRedstone>, <magicalcrops:4ImperioEssence>, <ore:denseoreRedstone>], [<magicalcrops:4ImperioEssence>, <magicalcrops:MinicioSeeds>, <magicalcrops:4ImperioEssence>], [<ore:denseoreRedstone>, <magicalcrops:4ImperioEssence>, <denseores:block0:5>]]);
+recipes.addShaped(<magicalcrops:ExperienceSeeds>, [[<OpenBlocks:tank>.withTag({tank: {FluidName: "xpjuice", Amount: 16000}}), <magicalcrops:4ImperioEssence>, <OpenBlocks:tank>.withTag({tank: {FluidName: "xpjuice", Amount: 16000}})], [<magicalcrops:4ImperioEssence>, <magicalcrops:MinicioSeeds>, <magicalcrops:4ImperioEssence>], [<OpenBlocks:tank>.withTag({tank: {FluidName: "xpjuice", Amount: 16000}}), <magicalcrops:4ImperioEssence>, <OpenBlocks:tank>.withTag({tank: {FluidName: "xpjuice", Amount: 16000}})]]);
+recipes.addShaped(<magicalcrops:CopperSeeds>, [[<denseores:block0:8>, <magicalcrops:3CrucioEssence>, <denseores:block0:8>], [<magicalcrops:3CrucioEssence>, <magicalcrops:MinicioSeeds>, <magicalcrops:3CrucioEssence>], [<denseores:block0:8>, <magicalcrops:3CrucioEssence>, <denseores:block0:8>]]);
+recipes.addShaped(<magicalcrops:IronSeeds>, [[<denseores:block0>, <magicalcrops:3CrucioEssence>, <denseores:block0>], [<magicalcrops:3CrucioEssence>, <magicalcrops:MinicioSeeds>, <magicalcrops:3CrucioEssence>], [<denseores:block0>, <magicalcrops:3CrucioEssence>, <denseores:block0>]]);
+recipes.addShaped(<magicalcrops:LeadSeeds>, [[<denseores:block0:11>, <magicalcrops:3CrucioEssence>, <denseores:block0:11>], [<magicalcrops:3CrucioEssence>, <magicalcrops:MinicioSeeds>, <magicalcrops:3CrucioEssence>], [<denseores:block0:11>, <magicalcrops:3CrucioEssence>, <denseores:block0:11>]]);
+recipes.addShaped(<magicalcrops:TinSeeds>, [[<denseores:block0:9>, <magicalcrops:3CrucioEssence>, <denseores:block0:9>], [<magicalcrops:3CrucioEssence>, <magicalcrops:MinicioSeeds>, <magicalcrops:3CrucioEssence>], [<denseores:block0:9>, <magicalcrops:3CrucioEssence>, <denseores:block0:9>]]);
+recipes.addShaped(<magicalcrops:QuartzSeeds>, [[<ore:denseoreQuartz>, <magicalcrops:3CrucioEssence>, <ore:denseoreQuartz>], [<magicalcrops:3CrucioEssence>, <magicalcrops:MinicioSeeds>, <magicalcrops:3CrucioEssence>], [<ore:denseoreQuartz>, <magicalcrops:3CrucioEssence>, <ore:denseoreQuartz>]]);
+recipes.addShaped(<magicalcrops:LapisSeeds>, [[<denseores:block0:2>, <magicalcrops:2AccioEssence>, <denseores:block0:2>], [<magicalcrops:2AccioEssence>, <magicalcrops:MinicioSeeds>, <magicalcrops:2AccioEssence>], [<denseores:block0:2>, <magicalcrops:2AccioEssence>, <denseores:block0:2>]]);
+recipes.addShaped(<magicalcrops:CoalSeeds>, [[<ore:denseoreCoal>, <magicalcrops:2AccioEssence>, <denseores:block0:6>], [<magicalcrops:2AccioEssence>, <magicalcrops:MinicioSeeds>, <magicalcrops:2AccioEssence>], [<ore:denseoreCoal>, <magicalcrops:2AccioEssence>, <ore:denseoreCoal>]]);
 recipes.addShaped(<magicalcrops:MinicioSeeds>, [[<magicalcrops:essence_storage>, <ore:ingotPlatinum>, <magicalcrops:essence_storage>], [<ore:ingotMithril>, <ore:listAllseed>, <ore:ingotMithril>], [<magicalcrops:essence_storage>, <ore:ingotPlatinum>, <magicalcrops:essence_storage>]]);
 recipes.addShaped(<minecraft:ender_pearl>, [[<magicalcrops:EndermanEssence>, <magicalcrops:EndermanEssence>, <magicalcrops:EndermanEssence>], [<magicalcrops:EndermanEssence>, <magicalcrops:EndermanEssence>, <magicalcrops:EndermanEssence>], [<magicalcrops:EndermanEssence>, <magicalcrops:EndermanEssence>, <magicalcrops:EndermanEssence>]]);
 recipes.addShaped(<Mekanism:ControlCircuit:2>, [[<ore:ingotSteel>, <ore:ingotEnderium>, <ore:ingotSteel>], [<ore:alloyElite>, <ore:circuitAdvanced>, <ore:alloyElite>], [<ore:ingotSteel>, <ore:ingotEnderium>, <ore:ingotSteel>]]);

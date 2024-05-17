@@ -1,0 +1,32 @@
+{
+	type = "fermented_spider_eye"
+	operation = "add"
+	item = "minecraft:fermented_spider_eye"
+	min_size = 1
+	max_size = 4
+	weight = 4
+}
+{
+	type = "speckled_melon"
+	operation = "add"
+	item = "minecraft:speckled_melon"
+	min_size = 1
+	max_size = 2
+	weight = 2
+}
+{
+	type = "magma_cream"
+	operation = "add"
+	item = "minecraft:magma_cream"
+	min_size = 1
+	max_size = 2
+	weight = 5
+}
+{
+	type = "blaze_powder"
+	operation = "add"
+	item = "minecraft:blaze_powder"
+	min_size = 1
+	max_size = 6
+	weight = 2
+}
