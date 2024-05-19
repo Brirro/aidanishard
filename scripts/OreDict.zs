@@ -4,3 +4,4 @@
 <ore:plankWood>.add(<fossil:palaeoraphePlanks>);
 
 <ore:itemLeather>.remove(<minecraft:leather>);
+<ore:ingotMithril>.remove(<customnpcs:npcMithrilIngot>);

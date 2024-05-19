@@ -12,6 +12,13 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<ImmersiveEngineering:metal:15>);
+recipes.remove(<IC2:item.itemDustBronze>);
+recipes.remove(<ThermalFoundation:material:41>);
+recipes.remove(<ThermalFoundation:material:40>);
+recipes.remove(<ImmersiveEngineering:metal:16>);
+recipes.remove(<ThermalFoundation:material:39>);
+recipes.remove(<EnderIO:blockTransceiver>);
 recipes.remove(<IC2NuclearControl:ItemTextCard>);
 recipes.remove(<IC2NuclearControl:blockNuclearControlMain:9>);
 recipes.remove(<magicalcrops:GhastSeeds>);
@@ -129,6 +136,7 @@ recipes.addShapeless(<customthings:aidanswordSword>, [<TwilightForest:item.fiery
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<customthings:item:1>, [[<TwilightForest:item.fieryTears>, <ore:ingotPlatinum>, <rftools:dimensionalShardItem>], [<aether_legacy:aerogel>, <ore:pearlEnder>, <minecraft:nether_brick>], [<minecraft:end_stone>, <ore:ingotMithril>, <GalacticraftCore:tile.moonBlock:3>]]);
 recipes.addShaped(<IC2NuclearControl:ItemTextCard>, [[null, <IC2:item.ic2cable:1>, null], [<minecraft:paper>, <ore:dye>, <minecraft:paper>], [null, <IC2:item.ic2cable:1>, null]]);
 recipes.addShaped(<IC2NuclearControl:blockNuclearControlMain:9>, [[<ore:paneGlass>, <ore:paneGlass>, <ore:paneGlassWhite>], [<IC2:item.ic2cable:2>, <ore:dye>, <IC2:item.ic2cable:2>], [<IC2:item.itemPartCarbonPlate>, <IC2:item.itemPartCircuitAdv>, <IC2:item.itemPartCarbonPlate>]]);
 recipes.addShaped(<magicalcrops:EndermanSeeds>, [[<ore:ingotPhasedIron>, <magicalcrops:5ZivicioEssence>, <ore:ingotPhasedIron>], [<magicalcrops:5ZivicioEssence>, <magicalcrops:CreeperSeeds>, <magicalcrops:5ZivicioEssence>], [<ore:ingotPhasedIron>, <magicalcrops:5ZivicioEssence>, <ore:ingotPhasedIron>]]);
@@ -168,7 +176,6 @@ recipes.addShaped(<additionalpipes:item.PipeItemsTeleport> * 2, [[<ore:glass>, <
 recipes.addShaped(<Mekanism:TeleportationCore>, [[<ore:ingotElectrotineAlloy>, <ore:alloyUltimate>, <ore:ingotElectrotineAlloy>], [<ore:ingotEnergeticAlloy>, <ore:itemDimensionalcore>, <ore:ingotEnergeticAlloy>], [<ore:ingotElectrotineAlloy>, <ore:alloyUltimate>, <ore:ingotElectrotineAlloy>]]);
 recipes.addShaped(<PortalGun:PortalGunBlue>, [[<ore:blockObsidian>, <ore:ingotSteel>, <ore:ingotSteel>], [<ore:itemPulsatingCrystal>, <ore:itemDimensionalcore>, <ore:ingotSteel>], [<ImmersiveEngineering:metal:7>, <minecraft:obsidian>, <ore:ingotSteel>]]);
 recipes.addShaped(<backpacks16840:quantum_chest>, [[<ore:blockObsidian>, <ore:pearlEnderEye>, <ore:blockObsidian>], [<ore:pearlEnderEye>, <ore:itemDimensionalcore>, <ore:pearlEnderEye>], [<ore:blockObsidian>, <ore:pearlEnderEye>, <ore:blockObsidian>]]);
-recipes.addShaped(<customthings:item:1>, [[<mod_Invasion:riftFlux>, <aether_legacy:aerogel>, <mod_Invasion:riftFlux>], [<ore:itemGhastTear>, <ore:pearlEnder>, <TwilightForest:item.fieryTears>], [<mod_Invasion:riftFlux>, <ore:ingotPlatinum>, <mod_Invasion:riftFlux>]]);
 recipes.addShaped(<appliedenergistics2:tile.BlockController>, [[<ore:blockSteel>, <appliedenergistics2:tile.BlockQuartzGlass>, <ore:blockSteel>], [<appliedenergistics2:tile.BlockQuartzGlass>, <appliedenergistics2:item.ItemMultiMaterial:24>, <appliedenergistics2:tile.BlockQuartzGlass>], [<ore:crystalPureFluix>, <ore:blockMithril>, <ore:crystalPureFluix>]]);
 recipes.addShaped(<ProjectE:item.pe_transmutation_tablet>, [[<ore:blockObsidian>, <ore:stone>, <ore:blockObsidian>], [<ore:stone>, <ProjectE:transmutation_table>, <ore:stone>], [<ore:blockObsidian>, <ore:stone>, <ore:blockObsidian>]]);
 recipes.addShaped(<ProjectE:transmutation_table>, [[<ore:blockObsidian>, <ore:stone>, <ore:blockObsidian>], [<ore:stone>, <ore:gemDiamond>, <ore:stone>], [<ore:blockObsidian>, <ore:stone>, <ore:blockObsidian>]]);
