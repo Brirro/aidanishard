@@ -1,0 +1,27 @@
+name: Create Zip
+
+on: 
+  push:
+    branches:
+      - main
+
+jobs:
+  create-zip:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Create zip without inner folder
+      run: |
+        mkdir output
+        cp -r ./* output/
+        cd output
+        zip -r ../AidanIsHard.zip ./*
+        
+    - name: Upload artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: AidanIsHard
+        path: AidanIsHard.zip
