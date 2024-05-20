@@ -24,11 +24,7 @@
     "SAVANNA",
     "PLAINS"
   ],
-  "BiomeManager Entries": {
-    "DESERT Weights": [
-      20
-    ]
-  },
+  "BiomeManager Entries": {},
   "Spawnable Creatures": [
     {
       "Entity Class": "net.minecraft.entity.passive.EntitySheep",

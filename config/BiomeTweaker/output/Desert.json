@@ -23,11 +23,7 @@
     "DRY",
     "SANDY"
   ],
-  "BiomeManager Entries": {
-    "DESERT Weights": [
-      30
-    ]
-  },
+  "BiomeManager Entries": {},
   "Spawnable Creatures": [],
   "Spawnable Monsters": [
     {
