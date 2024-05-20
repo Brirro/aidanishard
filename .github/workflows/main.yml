@@ -16,7 +16,7 @@ jobs:
     - name: Create zip without inner folder
       run: |
         mkdir output
-        cp -r ./* output/
+        find . -mindepth 1 -maxdepth 1 ! -name output ! -name .git ! -name .github | cpio -pdm output
         cd output
         zip -r ../AidanIsHard.zip ./*
         
