@@ -19,3 +19,9 @@ config/MouseTweaks.cfg
 config/UniqueNames.txt
 /ChromatiCraft_Data
 /DragonAPI
+/.mixin.out/audit
+/asm
+betterfps.txt
+BotaniaVars.dat
+/FailedClasses
+/mod-config
