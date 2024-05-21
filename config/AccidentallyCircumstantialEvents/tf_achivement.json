@@ -5,7 +5,7 @@
                         "event_type":"JOIN_WORLD",
 						"target": "ALL_PLAYERS",
 						"noDeathDim": "true",
-						"joinOneEver": "false",
+						"joinOneEver": "true",
                         "tasks":
                                 [
                                     {
