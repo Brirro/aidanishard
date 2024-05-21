@@ -12,6 +12,7 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<PortalGun:PortalGunBlue>);
 recipes.remove(<ImmersiveEngineering:metal:15>);
 recipes.remove(<IC2:item.itemDustBronze>);
 recipes.remove(<ThermalFoundation:material:41>);
@@ -136,6 +137,22 @@ recipes.addShapeless(<customthings:aidanswordSword>, [<TwilightForest:item.fiery
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<customnpcs:npcCrystalBlock:9> * 4, [[<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>], [<ore:glowstone>, <ore:dyeCyan>, <ore:glowstone>], [<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>]]);
+recipes.addShaped(<customnpcs:npcCrystalBlock:3> * 4, [[<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>], [<ore:glowstone>, <ore:dyeLightBlue>, <ore:glowstone>], [<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>]]);
+recipes.addShaped(<customnpcs:npcCrystalBlock:8> * 4, [[<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>], [<ore:glowstone>, <ore:dyeLightGray>, <ore:glowstone>], [<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>]]);
+recipes.addShaped(<customnpcs:npcCrystalBlock:7> * 4, [[<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>], [<ore:glowstone>, <ore:dyeGray>, <ore:glowstone>], [<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>]]);
+recipes.addShaped(<customnpcs:npcCrystalBlock:13> * 4, [[<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>], [<ore:glowstone>, <ore:dyeGreen>, <ore:glowstone>], [<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>]]);
+recipes.addShaped(<customnpcs:npcCrystalBlock:5> * 4, [[<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>], [<ore:glowstone>, <ore:dyeLime>, <ore:glowstone>], [<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>]]);
+recipes.addShaped(<customnpcs:npcCrystalBlock:6> * 4, [[<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>], [<ore:glowstone>, <ore:dyePink>, <ore:glowstone>], [<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>]]);
+recipes.addShaped(<customnpcs:npcCrystalBlock:14> * 4, [[<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>], [<ore:glowstone>, <ore:dyeRed>, <ore:glowstone>], [<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>]]);
+recipes.addShaped(<customnpcs:npcCrystalBlock:12> * 4, [[<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>], [<ore:glowstone>, <ore:dyeBrown>, <ore:glowstone>], [<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>]]);
+recipes.addShaped(<customnpcs:npcCrystalBlock:4> * 4, [[<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>], [<ore:glowstone>, <ore:dyeYellow>, <ore:glowstone>], [<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>]]);
+recipes.addShaped(<customnpcs:npcCrystalBlock:10> * 4, [[<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>], [<ore:glowstone>, <ore:dyePurple>, <ore:glowstone>], [<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>]]);
+recipes.addShaped(<customnpcs:npcCrystalBlock:2> * 4, [[<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>], [<ore:glowstone>, <ore:dyeMagenta>, <ore:glowstone>], [<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>]]);
+recipes.addShaped(<customnpcs:npcCrystalBlock:1> * 4, [[<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>], [<ore:glowstone>, <ore:dyeOrange>, <ore:glowstone>], [<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>]]);
+recipes.addShaped(<customnpcs:npcCrystalBlock:15> * 4, [[<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>], [<ore:glowstone>, <ore:dyeBlack>, <ore:glowstone>], [<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>]]);
+recipes.addShaped(<customnpcs:npcCrystalBlock:11> * 4, [[<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>], [<ore:glowstone>, <ore:dyeBlue>, <ore:glowstone>], [<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>]]);
+recipes.addShaped(<customnpcs:npcCrystalBlock> * 4, [[<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>], [<ore:glowstone>, <ore:dyeWhite>, <ore:glowstone>], [<ore:blockGlassColorless>, <ore:glowstone>, <ore:blockGlassColorless>]]);
 recipes.addShaped(<customthings:item:1>, [[<TwilightForest:item.fieryTears>, <ore:ingotPlatinum>, <rftools:dimensionalShardItem>], [<aether_legacy:aerogel>, <ore:pearlEnder>, <minecraft:nether_brick>], [<minecraft:end_stone>, <ore:ingotMithril>, <GalacticraftCore:tile.moonBlock:3>]]);
 recipes.addShaped(<IC2NuclearControl:ItemTextCard>, [[null, <IC2:item.ic2cable:1>, null], [<minecraft:paper>, <ore:dye>, <minecraft:paper>], [null, <IC2:item.ic2cable:1>, null]]);
 recipes.addShaped(<IC2NuclearControl:blockNuclearControlMain:9>, [[<ore:paneGlass>, <ore:paneGlass>, <ore:paneGlassWhite>], [<IC2:item.ic2cable:2>, <ore:dye>, <IC2:item.ic2cable:2>], [<IC2:item.itemPartCarbonPlate>, <IC2:item.itemPartCircuitAdv>, <IC2:item.itemPartCarbonPlate>]]);
