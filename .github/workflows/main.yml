@@ -1,24 +1,29 @@
-name: Create Zip
+name: Create ZIP File
 
-on: 
+on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
-  create-zip:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+    - name: Checkout code
+      uses: actions/checkout@v2
 
-    - name: Create zip without inner folder
+    - name: Zip contents of inner folder
       run: |
-        zip -r AidanIsHard.zip . -x ".git/*" -x ".github/*"
-        
-    - name: Upload artifact
-      uses: actions/upload-artifact@v3
+        cd inner-folder
+        zip -r ../desired-contents.zip *
+        cd ..
+        mkdir -p release
+        mv desired-contents.zip release/
+
+    - name: Upload ZIP file as artifact
+      uses: actions/upload-artifact@v2
       with:
-        name: AidanIsHard
-        path: AidanIsHard.zip
+        name: desired-contents
+        path: release/desired-contents.zip
